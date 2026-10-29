@@ -1,0 +1,610 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style></head><body><title>Angebote Lübeck 23566</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+/* Layout: Handy zuerst – kompakter Wochenkopf, wischbare Karussells (Top-Rabatte, Fleisch, Getränke), darunter Liste mit Foto links und klebender Filterleiste */
+:root{
+  --bg:#f3f4f1; --surface:#ffffff; --ink:#18202b; --muted:#5f6874; --line:#e1e4de; --chip:#e8ebe5;
+  --tag:#ffd526; --tag-ink:#18202b; --save:#d8261c; --save-ink:#ffffff; --accent:#1d5fc4; --photo:#ffffff;
+  --hero:#18202b; --hero-ink:#ffffff; --hero-muted:#c3c9d1; --good:#16794a;
+  --f-display:"Barlow Condensed","Arial Narrow",system-ui,sans-serif;
+  --f-body:"Source Sans 3",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --r:12px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0e1217; --surface:#181e26; --ink:#eef1f4; --muted:#9aa4b0; --line:#262e38; --chip:#212833;
+  --tag:#ffd526; --tag-ink:#141920; --save:#ff4d40; --save-ink:#ffffff; --accent:#82b3ff; --photo:#ffffff;
+  --hero:#181e26; --hero-ink:#ffffff; --hero-muted:#a9b2bd; --good:#4fd18b; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0e1217; --surface:#181e26; --ink:#eef1f4; --muted:#9aa4b0; --line:#262e38; --chip:#212833;
+  --tag:#ffd526; --tag-ink:#141920; --save:#ff4d40; --save-ink:#ffffff; --accent:#82b3ff; --photo:#ffffff;
+  --hero:#181e26; --hero-ink:#ffffff; --hero-muted:#a9b2bd; --good:#4fd18b; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.4;-webkit-tap-highlight-color:transparent}
+.wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* Kopf */
+.hero{background:var(--hero);color:var(--hero-ink)}
+.hero .wrap{padding-block:20px 18px;display:grid;gap:10px}
+.week{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:14px;color:var(--hero-muted)}
+.kw{background:var(--tag);color:var(--tag-ink);font-family:var(--f-display);font-weight:800;font-size:17px;letter-spacing:.02em;padding:1px 8px;border-radius:5px}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(34px,10vw,52px);line-height:.95;margin:0;letter-spacing:.005em;text-wrap:balance}
+.stats{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;color:var(--hero-muted)}
+.stats b{color:var(--hero-ink);font-size:18px;font-family:var(--f-display);font-weight:700;margin-right:3px}
+.alert{display:flex;gap:10px;align-items:flex-start;background:var(--tag);color:var(--tag-ink);border-radius:10px;padding:10px 12px;font-size:15px;line-height:1.35;font-weight:600}
+.alert svg{flex:0 0 20px;margin-top:1px}
+
+/* Abschnitte */
+main{display:grid;gap:26px;padding-block:20px 40px}
+section{display:grid;gap:10px;min-width:0}
+.sh{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+h2{font-family:var(--f-display);font-weight:800;font-size:25px;margin:0;line-height:1.05}
+.more{background:none;border:0;color:var(--accent);font-weight:600;font-size:15px;padding:6px 0;cursor:pointer;white-space:nowrap}
+.hint{margin:0;color:var(--muted);font-size:14px}
+
+/* Karussell */
+.rail{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;margin-inline:calc(-1*max(16px,env(safe-area-inset-left,0px))) calc(-1*max(16px,env(safe-area-inset-right,0px)));padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px));padding-bottom:4px;scrollbar-width:none;overscroll-behavior-x:contain}
+.rail::-webkit-scrollbar{display:none}
+.tile{flex:0 0 152px;scroll-snap-align:start;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;display:grid;grid-template-rows:auto 1fr;cursor:pointer;text-align:left;padding:0}
+.tile .ph{height:132px}
+.tile .body{padding:8px 10px 10px;display:grid;gap:3px;align-content:start}
+.tile .nm{font-weight:600;font-size:14.5px;line-height:1.2;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.4em}
+
+/* Foto-Fläche */
+.ph{position:relative;background:var(--photo);display:grid;place-items:center;overflow:hidden}
+.ph img{max-width:92%;max-height:92%;object-fit:contain;display:block}
+.ph.ic{background:var(--chip);color:var(--ink)}
+.ph.ic svg{width:52px;height:52px}
+.ph .f1{fill:var(--tag)} .ph .f2{fill:var(--surface)} .ph .f3{fill:var(--save)} .ph .f4{fill:var(--accent)}
+.badge{position:absolute;top:6px;left:6px;background:var(--save);color:var(--save-ink);font-family:var(--f-display);font-weight:800;font-size:16px;line-height:1;padding:4px 6px;border-radius:6px;font-variant-numeric:tabular-nums}
+
+/* Markt-Zeile */
+.store{display:flex;align-items:center;gap:5px;font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.dot{width:8px;height:8px;border-radius:50%;flex:0 0 8px}
+.price{display:flex;align-items:baseline;gap:6px;flex-wrap:wrap;margin-top:2px}
+.p{font-family:var(--f-display);font-weight:800;font-size:23px;line-height:1.1;background:var(--tag);color:var(--tag-ink);padding:0 6px;border-radius:4px;font-variant-numeric:tabular-nums}
+.old{font-size:13px;color:var(--muted);text-decoration:line-through;font-variant-numeric:tabular-nums}
+.unit{font-size:13px;color:var(--muted)}
+.note{font-size:12.5px;color:var(--muted)}
+
+/* Filterleiste */
+.filters{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);margin-inline:calc(-1*max(16px,env(safe-area-inset-left,0px))) calc(-1*max(16px,env(safe-area-inset-right,0px)));padding:8px max(16px,env(safe-area-inset-right,0px)) 8px max(16px,env(safe-area-inset-left,0px));display:grid;gap:8px;border-bottom:1px solid var(--line)}
+.search{display:flex;gap:8px}
+.search input,.search select{font:inherit;font-size:16px;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:10px;height:42px;padding:0 12px;min-width:0}
+.search input{flex:1 1 auto}
+.search select{flex:0 0 auto;max-width:44%}
+.chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;margin-inline:calc(-1*max(16px,env(safe-area-inset-left,0px))) calc(-1*max(16px,env(safe-area-inset-right,0px)));padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px))}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;display:flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);border-radius:999px;height:36px;padding:0 13px;font-size:14.5px;font-weight:600;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.count{font-size:13.5px;color:var(--muted)}
+
+/* Liste */
+.list{display:grid;gap:8px}
+.row{display:grid;grid-template-columns:96px 1fr;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:8px;min-width:0}
+.row .ph{width:96px;height:96px;border-radius:8px}
+.row .ph .badge{font-size:14px;top:4px;left:4px;padding:3px 5px}
+.row .body{min-width:0;display:grid;gap:2px;align-content:center}
+.row .nm{font-weight:600;font-size:16px;line-height:1.22}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:var(--r);padding:18px;text-align:center;color:var(--muted)}
+@media (min-width:760px){ .list{grid-template-columns:1fr 1fr} .tile{flex-basis:170px} }
+
+/* Prospekte */
+.gal{display:grid;gap:16px}
+.galrow{display:grid;gap:6px;min-width:0}
+.galrow h3{display:flex;align-items:center;gap:6px;font-size:15px;margin:0}
+.galrow .rail{gap:8px}
+.thumb{flex:0 0 112px;scroll-snap-align:start;border:1px solid var(--line);border-radius:8px;background:var(--surface);padding:0;cursor:zoom-in;overflow:hidden}
+.thumb img{display:block;width:100%;aspect-ratio:3/5;object-fit:cover;object-position:top}
+
+/* Märkte */
+.stores{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+.st{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px;display:grid;gap:2px;font-size:14px}
+.st b{display:flex;align-items:center;gap:6px;font-size:15px}
+footer{font-size:13px;color:var(--muted);display:grid;gap:6px}
+footer a{color:var(--accent)}
+
+/* Großansicht */
+.box{position:fixed;inset:0;z-index:20;background:rgba(8,10,14,.94);display:grid;grid-template-rows:auto 1fr;padding:calc(env(safe-area-inset-top,0px) + 8px) max(10px,env(safe-area-inset-right,0px)) calc(env(safe-area-inset-bottom,0px) + 8px) max(10px,env(safe-area-inset-left,0px))}
+.box[hidden]{display:none}
+.box .bar{display:flex;justify-content:space-between;align-items:center;gap:8px;color:#fff;font-size:14px}
+.box .bar span:last-child{display:flex;gap:6px}
+.box .bar button{background:#fff;color:#111;border:0;border-radius:999px;min-width:42px;height:38px;padding:0 14px;cursor:pointer;font-weight:600}
+.box .view{overflow:auto;display:grid;place-items:start center;padding-top:8px;-webkit-overflow-scrolling:touch}
+.box .view img{width:100%;max-width:900px;height:auto}
+@media (prefers-reduced-motion:no-preference){.rail{scroll-behavior:smooth}}
+.crop{display:block;max-width:92%;max-height:92%;background-repeat:no-repeat}
+.ph .crop{border-radius:2px}
+.offline{background:var(--chip);color:var(--ink);border-radius:10px;padding:8px 12px;font-size:14px}
+
+
+/* Merken-Knopf */
+.tile{position:relative}
+.add{display:inline-flex;align-items:center;justify-content:center;gap:4px;border:0;border-radius:999px;background:var(--ink);color:var(--bg);height:34px;min-width:34px;padding:0 10px;font-weight:700;font-size:14px;cursor:pointer}
+.add svg{width:16px;height:16px}
+.step{display:inline-flex;align-items:center;background:var(--tag);color:var(--tag-ink);border-radius:999px;height:34px}
+.step button{border:0;background:none;color:inherit;width:34px;height:34px;font-size:20px;font-weight:700;cursor:pointer;line-height:1}
+.step span{min-width:20px;text-align:center;font-weight:800;font-variant-numeric:tabular-nums}
+.tile .act{padding:0 10px 10px}
+.row{grid-template-columns:96px 1fr auto}
+.row .act{align-self:end}
+.row.inlist{border-color:var(--tag)}
+.tile.inlist{border-color:var(--tag)}
+
+/* Leiste unten */
+main{padding-bottom:96px}
+.cartbar{position:fixed;left:0;right:0;bottom:0;z-index:8;padding:8px max(12px,env(safe-area-inset-right,0px)) calc(env(safe-area-inset-bottom,0px) + 10px) max(12px,env(safe-area-inset-left,0px));pointer-events:none}
+.cartbar button{pointer-events:auto;width:100%;max-width:560px;margin:0 auto;display:flex;align-items:center;gap:10px;border:0;border-radius:14px;background:var(--ink);color:var(--bg);height:56px;padding:0 16px;font-size:16px;font-weight:700;cursor:pointer;box-shadow:0 6px 20px rgba(0,0,0,.28)}
+.cartbar svg{width:22px;height:22px;flex:0 0 22px}
+.cartbar .n{background:var(--tag);color:var(--tag-ink);border-radius:999px;min-width:24px;height:24px;display:inline-grid;place-items:center;font-size:13px;padding:0 6px}
+.cartbar .sum{margin-left:auto;font-family:var(--f-display);font-size:22px;font-weight:800;font-variant-numeric:tabular-nums}
+
+/* Einkaufsliste */
+.sheet{position:fixed;inset:0;z-index:15;background:var(--bg);overflow-y:auto;-webkit-overflow-scrolling:touch}
+.sheet[hidden]{display:none}
+.sheet .top{position:sticky;top:0;z-index:2;background:var(--bg);border-bottom:1px solid var(--line);padding:calc(env(safe-area-inset-top,0px) + 10px) max(16px,env(safe-area-inset-right,0px)) 10px max(16px,env(safe-area-inset-left,0px));display:flex;align-items:center;gap:10px}
+.sheet .top h2{flex:1}
+.close{border:1px solid var(--line);background:var(--surface);border-radius:999px;height:40px;padding:0 16px;font-weight:700;cursor:pointer}
+.sheet .inner{max-width:640px;margin:0 auto;padding:14px max(16px,env(safe-area-inset-right,0px)) calc(env(safe-area-inset-bottom,0px) + 40px) max(16px,env(safe-area-inset-left,0px));display:grid;gap:14px}
+.addfree{position:relative}
+.addfree form{display:flex;gap:8px}
+.addfree input{flex:1;min-width:0;font:inherit;font-size:16px;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:10px;height:46px;padding:0 12px}
+.addfree .go{border:0;border-radius:10px;background:var(--ink);color:var(--bg);font-weight:700;padding:0 16px;height:46px;cursor:pointer}
+.sugg{display:grid;gap:6px;margin-top:8px}
+.sugg button{display:grid;grid-template-columns:44px 1fr auto;gap:10px;align-items:center;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:6px 10px 6px 6px;cursor:pointer}
+.sugg .mini{width:44px;height:44px;border-radius:6px;background:var(--photo);display:grid;place-items:center;overflow:hidden}
+.sugg .mini img{max-width:90%;max-height:90%}
+.sugg .mini.ic{background:var(--chip)} .sugg .mini svg{width:26px;height:26px}
+.sugg .t{font-size:15px;font-weight:600;line-height:1.2} .sugg .s{font-size:12.5px;color:var(--muted)}
+.sugg .pp{font-family:var(--f-display);font-weight:800;font-size:18px}
+.bill{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px;display:grid;gap:10px}
+.bill .tot{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+.bill .tot b{font-family:var(--f-display);font-size:34px;font-weight:800;font-variant-numeric:tabular-nums}
+.bill .sv{color:var(--good);font-weight:700;font-size:15px}
+.bars{display:grid;gap:8px}
+.bar{display:grid;grid-template-columns:96px 1fr auto;gap:10px;align-items:center;font-size:14.5px}
+.bar .nm{display:flex;align-items:center;gap:6px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar .track{display:block;height:10px;border-radius:999px;background:var(--chip);overflow:hidden}
+.bar .fill{display:block;height:100%;border-radius:999px}
+.bar .v{font-weight:700;font-variant-numeric:tabular-nums;min-width:68px;text-align:right}
+.grp{display:grid;gap:6px}
+.grp h3{display:flex;align-items:center;gap:8px;margin:6px 0 0;font-family:var(--f-display);font-size:22px;font-weight:800}
+.grp h3 .gs{margin-left:auto;font-size:20px;font-variant-numeric:tabular-nums}
+.grp .meta{font-size:13px;color:var(--muted);margin-top:-4px}
+.li{display:grid;grid-template-columns:auto 52px 1fr auto auto;gap:10px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.li .ck{width:28px;height:28px;border-radius:8px;border:2px solid var(--muted);background:none;cursor:pointer;display:grid;place-items:center;color:var(--bg)}
+.li.done .ck{background:var(--ink);border-color:var(--ink)}
+.li .ck svg{width:16px;height:16px}
+.li .mini{width:52px;height:52px;border-radius:6px;background:var(--photo);display:grid;place-items:center;overflow:hidden}
+.li .mini img{max-width:90%;max-height:90%}
+.li .mini.ic{background:var(--chip)} .li .mini svg{width:30px;height:30px}
+.li .t{font-weight:600;font-size:15px;line-height:1.2;min-width:0}
+.li .s{font-size:12.5px;color:var(--muted)}
+.li .r{display:grid;justify-items:end;gap:4px}
+.li .lt{font-weight:800;font-variant-numeric:tabular-nums}
+.li.done .t,.li.done .lt{text-decoration:line-through;color:var(--muted)}
+.li .del{width:34px;height:34px;border:0;border-radius:999px;background:var(--chip);color:var(--muted);display:grid;place-items:center;cursor:pointer}
+.li .del svg{width:16px;height:16px}
+.li .del:hover{color:var(--save)}
+@media (max-width:380px){.li{grid-template-columns:auto 44px 1fr auto auto;gap:8px}.li .mini{width:44px;height:44px}}
+.li .step{height:30px}.li .step button{width:30px;height:30px;font-size:18px}
+.gone{font-size:12px;color:var(--save);font-weight:600}
+.tools{display:flex;flex-wrap:wrap;gap:8px}
+.tools button{border:1px solid var(--line);background:var(--surface);border-radius:999px;height:38px;padding:0 14px;font-weight:600;cursor:pointer}
+.tools .danger{color:var(--save)}
+.syncnote{font-size:12.5px;color:var(--muted)}
+.emptylist{background:var(--surface);border:1px dashed var(--line);border-radius:var(--r);padding:22px 16px;text-align:center;color:var(--muted);display:grid;gap:6px}
+.emptylist b{color:var(--ink);font-size:17px}
+</style>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="week"><span class="kw" id="kw"></span><span id="range"></span></div>
+    <h1>Angebote Lübeck</h1>
+    <div class="stats" id="stats"></div>
+    <div class="alert" id="feiertag" hidden><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="M4 6h16v14H4zM4 10h16M9 3v4M15 3v4"/></svg><span></span></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section>
+    <div class="sh"><h2>Top-Rabatte</h2></div>
+    <div class="rail" id="railTop"></div>
+  </section>
+
+  <section>
+    <div class="sh"><h2>Fleisch &amp; Wurst</h2><button class="more" type="button" data-cat="Fleisch &amp; Wurst">Alle ansehen</button></div>
+    <div class="rail" id="railMeat"></div>
+  </section>
+
+  <section>
+    <div class="sh"><h2>Getränke</h2><button class="more" type="button" data-cat="Getränke">Alle ansehen</button></div>
+    <div class="rail" id="railDrinks"></div>
+  </section>
+
+  <section id="alle">
+    <div class="sh"><h2>Alle Angebote</h2></div>
+    <div class="filters">
+      <div class="search">
+        <input id="q" type="search" placeholder="Suchen, z. B. Hack" aria-label="Produkt suchen" autocomplete="off">
+        <select id="sort" aria-label="Sortierung">
+          <option value="pct">Rabatt</option>
+          <option value="price">Preis</option>
+          <option value="store">Markt</option>
+        </select>
+      </div>
+      <div class="chips" id="storeChips" aria-label="Märkte"></div>
+      <div class="chips" id="catChips" aria-label="Kategorien"></div>
+    </div>
+    <div class="count" id="count"></div>
+    <div class="list" id="list"></div>
+  </section>
+
+  <section>
+    <div class="sh"><h2>Prospekte</h2></div>
+    <p class="hint">Tippe auf eine Seite, um sie groß zu sehen.</p>
+    <div class="gal" id="gal"></div>
+  </section>
+
+  <section>
+    <div class="sh"><h2>Märkte &amp; Gültigkeit</h2></div>
+    <div class="stores" id="stores"></div>
+  </section>
+
+  <footer id="foot"></footer>
+</main>
+
+<div class="cartbar"><button type="button" id="openList" aria-label="Einkaufsliste öffnen"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="M3 4h2l2.4 11.2a1.5 1.5 0 0 0 1.5 1.2h8.6a1.5 1.5 0 0 0 1.5-1.1L21 8H6.2"/><circle cx="9.5" cy="20" r="1.4" fill="currentColor"/><circle cx="17" cy="20" r="1.4" fill="currentColor"/></svg><span>Einkaufsliste</span><span class="n" id="cartN">0</span><span class="sum" id="cartSum">0,00 €</span></button></div>
+
+<div class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+  <div class="top"><h2 id="sheetTitle">Einkaufsliste</h2><button type="button" class="close" id="closeList">Fertig</button></div>
+  <div class="inner">
+    <div class="addfree">
+      <form id="freeForm"><input id="freeIn" type="text" placeholder="Hinzufügen, z. B. Butter" aria-label="Artikel hinzufügen" autocomplete="off"><button class="go" type="submit">Hinzufügen</button></form>
+      <div class="sugg" id="sugg"></div>
+    </div>
+    <div id="billWrap"></div>
+    <div id="groups"></div>
+    <div class="tools" id="tools"></div>
+    <div class="syncnote" id="syncNote"></div>
+  </div>
+</div>
+
+<div class="box" id="box" hidden role="dialog" aria-modal="true" aria-label="Prospektseite">
+  <div class="bar"><span id="boxCap"></span><span><button type="button" id="boxPrev" aria-label="Vorherige Seite">‹</button><button type="button" id="boxNext" aria-label="Nächste Seite">›</button><button type="button" id="boxClose">Schließen</button></span></div>
+  <div class="view"><img id="boxImg" alt=""></div>
+</div>
+
+<script>
+window.startApp=function(){
+  var S='stroke="currentColor" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"';
+  var ICON={
+    steak:'<path class="f3" '+S+' d="M12 30c0-10 10-16 22-16s18 8 18 16-8 18-20 18S12 40 12 30z"/><ellipse class="f2" '+S+' cx="40" cy="28" rx="5" ry="4"/>',
+    chicken:'<path class="f1" '+S+' d="M22 14c10-4 22 4 20 16-1 7-8 11-14 10l-8 8a4 4 0 1 1-5-5l2-2a4 4 0 1 1 4-5l1-1c-4-6-6-17 0-21z"/>',
+    sausage:'<path class="f3" '+S+' d="M14 40c6-14 20-24 34-26 4 0 6 4 3 7-10 4-20 12-28 24-3 4-11 1-9-5z"/>',
+    fish:'<path class="f4" '+S+' d="M10 32c8-10 20-12 30-6l12-8v28l-12-8c-10 6-22 4-30-6z"/><circle cx="22" cy="30" r="2" fill="currentColor"/>',
+    dairy:'<path class="f2" '+S+' d="M22 10h20v8l6 8v28H16V26l6-8z"/><path class="f4" '+S+' d="M16 34h32v10H16z"/>',
+    butter:'<path class="f1" '+S+' d="M10 28l22-10 22 10v14L32 52 10 42z"/><path '+S+' fill="none" d="M10 28l22 10 22-10M32 38v14"/>',
+    cola:'<path class="f3" '+S+' d="M27 8h10v8c6 4 7 8 7 14v24a4 4 0 0 1-4 4H24a4 4 0 0 1-4-4V30c0-6 1-10 7-14z"/><path class="f2" '+S+' d="M20 32h24v10H20z"/>',
+    beer:'<path class="f1" '+S+' d="M16 18h26v34a4 4 0 0 1-4 4H20a4 4 0 0 1-4-4z"/><path class="f2" '+S+' d="M14 18a6 6 0 0 1 8-8 7 7 0 0 1 12 0 6 6 0 0 1 10 8z"/><path '+S+' fill="none" d="M42 26h6a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4h-6"/>',
+    wine:'<path class="f3" '+S+' d="M28 8h8v12c5 3 7 7 7 12v20a4 4 0 0 1-4 4H25a4 4 0 0 1-4-4V32c0-5 2-9 7-12z"/>',
+    coffee:'<path class="f2" '+S+' d="M14 24h30v16a12 12 0 0 1-12 12h-6a12 12 0 0 1-12-12z"/><path '+S+' fill="none" d="M44 28h4a5 5 0 0 1 0 10h-5M22 10c-2 4 2 6 0 10M30 10c-2 4 2 6 0 10"/>',
+    choc:'<path class="f3" '+S+' d="M14 12h36v40H14z"/><path '+S+' fill="none" d="M14 25h36M14 38h36M26 12v40M38 12v40"/>',
+    sweets:'<circle class="f1" '+S+' cx="32" cy="32" r="12"/><path class="f3" '+S+' d="M20 32l-10-8v16zM44 32l10-8v16z"/>',
+    chips:'<path class="f1" '+S+' d="M20 12h24v40H20z"/><ellipse class="f2" '+S+' cx="32" cy="12" rx="12" ry="4"/><path '+S+' fill="none" d="M20 26h24M20 40h24"/>',
+    apple:'<path class="f3" '+S+' d="M32 20c-6-5-18-3-18 10 0 12 8 22 14 22 2 0 3-1 4-1s2 1 4 1c6 0 14-10 14-22 0-13-12-15-18-10z"/><path '+S+' fill="none" d="M32 20c0-6 2-9 6-11"/>',
+    veg:'<path class="f1" '+S+' d="M44 18L16 50c-2 2-5-1-3-3l23-33c4-4 10 0 8 4z"/><path class="f4" '+S+' d="M44 18c2-6 6-8 10-8-1 4-3 8-10 8zM44 18c6-2 10 0 12 3-4 1-9 1-12-3z"/>',
+    potato:'<path class="f1" '+S+' d="M14 34c0-10 8-18 20-18s16 6 16 14-6 18-20 18c-10 0-16-6-16-14z"/><circle cx="26" cy="30" r="1.6" fill="currentColor"/><circle cx="38" cy="36" r="1.6" fill="currentColor"/>',
+    pizza:'<path class="f1" '+S+' d="M32 52L12 16c12-6 28-6 40 0z"/><circle class="f3" cx="28" cy="24" r="3"/><circle class="f3" cx="38" cy="30" r="3"/><circle class="f3" cx="31" cy="38" r="2.5"/>',
+    grain:'<path class="f2" '+S+' d="M18 16h28l-2 8 4 28H16l4-28z"/><path '+S+' fill="none" d="M20 24h24"/>',
+    clean:'<path class="f4" '+S+' d="M22 26h20v26H22z"/><path class="f2" '+S+' d="M26 14h10l2 12H24zM36 16h10"/>',
+    tool:'<path class="f2" '+S+' d="M12 40h40v10H12zM18 40V22h28v18"/><path '+S+' fill="none" d="M24 30h16"/>',
+    battery:'<path class="f1" '+S+' d="M22 14h20v40H22z"/><path '+S+' fill="currentColor" d="M28 8h8v6h-8z"/><path class="f3" d="M24 40h16v12H24z"/>',
+    star:'<path class="f1" '+S+' d="M32 8l7 15 16 2-12 11 3 16-14-8-14 8 3-16L9 25l16-2z"/>',
+    shirt:'<path class="f4" '+S+' d="M22 10l-12 8 5 10 5-3v29h24V25l5 3 5-10-12-8c-2 4-6 6-10 6s-8-2-10-6z"/>',
+    paw:'<circle class="f1" '+S+' cx="20" cy="26" r="5"/><circle class="f1" '+S+' cx="44" cy="26" r="5"/><circle class="f1" '+S+' cx="27" cy="16" r="5"/><circle class="f1" '+S+' cx="37" cy="16" r="5"/><path class="f1" '+S+' d="M32 30c-8 0-14 10-12 16 2 6 8 4 12 4s10 2 12-4c2-6-4-16-12-16z"/>',
+    plant:'<path class="f3" '+S+' d="M20 38h24l-3 16H23z"/><path class="f4" '+S+' d="M32 38c0-12-6-20-14-22 0 10 6 18 14 22zM32 38c0-10 6-16 14-18 0 8-6 16-14 18z"/>',
+    toy:'<path class="f1" '+S+' d="M12 30h20v20H12z"/><path class="f4" '+S+' d="M32 30h20v20H32z"/><path class="f3" '+S+' d="M22 10h20v20H22z"/>',
+    bag:'<path class="f1" '+S+' d="M14 22h36l-4 32H18z"/><path '+S+' fill="none" d="M24 22v-4a8 8 0 0 1 16 0v4"/>'
+  };
+  var RULES=[
+    [/hähnchen|chicken|wings|pute|geflügel-brat|nugget/i,'chicken'],
+    [/wurst|wiener|salami|schinken|aufschnitt/i,'sausage'],
+    [/hack|steak|roulade|gulasch|bifteki|nacken|klopse|fleisch/i,'steak'],
+    [/fisch|thunfisch|lachs|scholle/i,'fish'],
+    [/butter/i,'butter'],
+    [/käse|buko|philadelphia|joghurt|milch|pudding|milchreis|sahne|grünländer|mozzarella|drink/i,'dairy'],
+    [/cola|fanta|sprite|red bull|energy|barista|hafer/i,'cola'],
+    [/bier|pils|radler|urquell/i,'beer'],
+    [/sekt|wein|merlot|bourbon|jim beam|amarula/i,'wine'],
+    [/kaffee|jacobs|nescaf|lavazza/i,'coffee'],
+    [/schokolade|milka|twix|nestlé minis|celebrations|favourites|m&m/i,'choc'],
+    [/fruchtgummi|trolli|knoppers|eis\b|mövenpick eis|süß/i,'sweets'],
+    [/pringles|chips|cashew|nuss/i,'chips'],
+    [/äpfel|apfel|banane|zitrone|clementine|obst/i,'apple'],
+    [/kartoffel|pommes/i,'potato'],
+    [/möhren|gurke|tomate|kürbis|champignon|rotkohl|weißkraut|gemüse/i,'veg'],
+    [/pizza/i,'pizza'],
+    [/reis|zucker|nudel|kondensmilch|frühstück|konfitüre|sauce|fertiggericht/i,'grain'],
+    [/batterie/i,'battery'],
+    [/reiniger|ariel|citronensäure|waschmittel/i,'clean'],
+    [/pfanne|stabmixer|schüssel|staubsauger|kaffeemaschine/i,'tool'],
+    [/hoodie|pullover|hose|shirt|pyjama|stiefel/i,'shirt'],
+    [/led|tanne|baum|flocke|stern/i,'star'],
+    [/katze|hund|tier/i,'paw'],
+    [/kaktus|pflanze|blume/i,'plant'],
+    [/lupilu|holz-küche|spiel/i,'toy'],
+    [/steppdecke|kissen|bettwäsche/i,'bag']
+  ];
+  var CATICON={'Fleisch & Wurst':'steak','Getränke':'cola','Süßes':'sweets','Haushalt':'clean','Deko':'star','Mode':'shirt','Tier':'paw','Pflanzen':'plant','Spielzeug':'toy'};
+  function iconFor(i){
+    for (var k=0;k<RULES.length;k++) if (RULES[k][0].test(i.name)) return ICON[RULES[k][1]];
+    return ICON[CATICON[i.cat]] || ICON.bag;
+  }
+
+  var D = window.__D; var IMG = D.img || {}, PIMG = {};
+  function imgTag(s){
+    if(!s.b) return '<img loading="lazy" decoding="async" alt="" src="'+esc(s.u)+'">';
+    var b=s.b, bw=b[2]-b[0], bh=b[3]-b[1], a=bw/(bh*(s.r||1.4));
+    var st='aspect-ratio:'+a.toFixed(4)+';'+(a>=1?'width:92%;':'height:92%;')+'background-image:url(\''+s.u+'\');background-size:'+(100/bw).toFixed(3)+'% '+(100/bh).toFixed(3)+'%;background-position:'+(bw<1?(b[0]/(1-bw)*100).toFixed(3):0)+'% '+(bh<1?(b[1]/(1-bh)*100).toFixed(3):0)+'%';
+    return '<span class="crop" style="'+st+'"></span>';
+  }
+  var COLORS = {"Aldi Nord":"#2a5cad","Lidl":"#f2c200","Penny":"#cd1719","REWE":"#b8001f","Netto":"#ffcc00","Norma":"#e3051b","Jawoll":"#e85d04","Krümet":"#7a1fa2"};
+  function esc(t){return String(t).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function eur(n){return n.toFixed(2).replace('.', ',') + ' €';}
+  var items = D.items.map(function(r){
+    var pct = r[4] ? Math.round((1 - r[3]/r[4]) * 100) : (r[7] || 0);
+    return {k:r[0]+'|'+r[1], store:r[0], name:r[1], unit:r[2], price:r[3], old:r[4], cat:r[5], note:(r[6]||'').replace(/(,\s*)?−?\d+ % lt\. Prospekt(,\s*)?/,''), pct:pct};
+  });
+  var storeNames = Object.keys(D.stores);
+  var CAT_ORDER = ['Fleisch & Wurst','Lebensmittel','Getränke','Süßes','Haushalt','Deko','Mode','Pflanzen','Tier','Spielzeug'];
+  var cats = CAT_ORDER.filter(function(c){return items.some(function(i){return i.cat===c;});});
+
+  function dot(st){return '<span class="dot" style="background:'+(COLORS[st]||'#888')+'"></span>';}
+  function photo(i){
+    var src = IMG[i.store+'|'+i.name], b = i.pct ? '<span class="badge">−'+i.pct+'%</span>' : '';
+    if (src) return '<div class="ph">'+imgTag(src)+b+'</div>';
+    return '<div class="ph ic" aria-hidden="true"><svg viewBox="0 0 64 64">'+iconFor(i)+'</svg>'+b+'</div>';
+  }
+  function priceHtml(i){
+    return '<div class="price"><span class="p">'+eur(i.price)+'</span>'+(i.old?'<span class="old">'+eur(i.old)+'</span>':'')+'</div>';
+  }
+  function tile(i){
+    var el=document.createElement('div'); el.className='tile'; el.dataset.k=i.k;
+    el.innerHTML = photo(i)+'<div class="body"><div class="store">'+dot(i.store)+esc(i.store)+'</div><div class="nm">'+esc(i.name)+'</div>'+priceHtml(i)+(i.unit?'<div class="unit">'+esc(i.unit)+'</div>':'')+'</div><div class="act"></div>';
+    return el;
+  }
+  function row(i){
+    var el=document.createElement('div'); el.className='row'; el.dataset.k=i.k;
+    el.innerHTML = photo(i)+'<div class="body"><div class="store">'+dot(i.store)+esc(i.store)+'</div><div class="nm">'+esc(i.name)+'</div>'+(i.unit?'<div class="unit">'+esc(i.unit)+'</div>':'')+priceHtml(i)+(i.note?'<div class="note">'+esc(i.note)+'</div>':'')+'</div><div class="act"></div>';
+    return el;
+  }
+  function fill(id, arr){var r=document.getElementById(id); arr.forEach(function(i){r.appendChild(tile(i));});}
+  var byPct=function(a,b){return b.pct-a.pct||a.price-b.price;};
+  var hasP=function(i){return IMG[i.store+'|'+i.name]?1:0;}; var railSort=function(a,b){return hasP(b)-hasP(a)||byPct(a,b);};
+  fill('railTop', items.filter(function(i){return i.pct && ['Mode','Deko'].indexOf(i.cat)<0;}).sort(railSort).slice(0,14));
+  fill('railMeat', items.filter(function(i){return i.cat==='Fleisch & Wurst';}).sort(railSort).slice(0,14));
+  fill('railDrinks', items.filter(function(i){return i.cat==='Getränke';}).sort(railSort).slice(0,14));
+
+  // Kopf
+  document.getElementById('kw').textContent = D.kw;
+  document.getElementById('range').textContent = D.von + ' – ' + D.bis + ' · Stand ' + D.stand + (window.__OFF?' · offline':'');
+  document.getElementById('stats').innerHTML = '<span><b>'+items.length+'</b>Angebote</span><span><b>'+storeNames.length+'</b>Märkte</span><span><b>'+Object.keys(IMG).length+'</b>mit Foto</span>';
+  if (D.feiertag){ var fe=document.getElementById('feiertag'); fe.querySelector('span').textContent=D.feiertag; fe.hidden=false; }
+
+  // Filter
+  var state={stores:new Set(), cat:'', q:'', sort:'pct'};
+  try{ var s=JSON.parse(localStorage.getItem('angebote-filter2')||'{}'); if(s.stores) state.stores=new Set(s.stores.filter(function(x){return storeNames.indexOf(x)>-1;})); if(s.sort) state.sort=s.sort; }catch(e){}
+  function chip(html,pressed,fn){var b=document.createElement('button'); b.type='button'; b.className='chip'; b.innerHTML=html; b.setAttribute('aria-pressed',pressed?'true':'false'); b.addEventListener('click',fn); return b;}
+  function renderChips(){
+    var sc=document.getElementById('storeChips'); sc.innerHTML='';
+    sc.appendChild(chip('Alle Märkte',state.stores.size===0,function(){state.stores.clear();update();}));
+    storeNames.forEach(function(n){ sc.appendChild(chip(dot(n)+esc(n),state.stores.has(n),function(){state.stores.has(n)?state.stores.delete(n):state.stores.add(n);update();})); });
+    var cc=document.getElementById('catChips'); cc.innerHTML='';
+    cc.appendChild(chip('Alles',!state.cat,function(){state.cat='';update();}));
+    cats.forEach(function(c){ cc.appendChild(chip(esc(c),state.cat===c,function(){state.cat=state.cat===c?'':c;update();})); });
+  }
+  function renderList(){
+    var q=state.q.trim().toLowerCase();
+    var f=items.filter(function(i){return (state.stores.size===0||state.stores.has(i.store))&&(!state.cat||i.cat===state.cat)&&(!q||(i.name+' '+i.store+' '+i.cat).toLowerCase().indexOf(q)>-1);});
+    f.sort(function(a,b){ if(state.sort==='price') return a.price-b.price; if(state.sort==='store') return storeNames.indexOf(a.store)-storeNames.indexOf(b.store)||byPct(a,b); return byPct(a,b); });
+    var l=document.getElementById('list'); l.innerHTML='';
+    if(!f.length){ l.innerHTML='<div class="empty">Keine Angebote für diese Auswahl. Tippe auf „Alle Märkte“ und „Alles“, um die Filter zurückzusetzen.</div>'; }
+    f.forEach(function(i){l.appendChild(row(i));});
+    document.getElementById('count').textContent = f.length+' von '+items.length+' Angeboten';
+  }
+  function update(){ renderChips(); renderList(); try{localStorage.setItem('angebote-filter2',JSON.stringify({stores:Array.from(state.stores),sort:state.sort}));}catch(e){} }
+  var qEl=document.getElementById('q'); qEl.addEventListener('input',function(){state.q=qEl.value;renderList();});
+  var sEl=document.getElementById('sort'); sEl.value=state.sort; sEl.addEventListener('change',function(){state.sort=sEl.value;update();});
+  Array.prototype.forEach.call(document.querySelectorAll('.more'),function(b){ b.addEventListener('click',function(){ state.cat=b.getAttribute('data-cat'); state.stores.clear(); state.q=''; qEl.value=''; update(); document.getElementById('alle').scrollIntoView({block:'start'}); }); });
+  update();
+
+  // Prospekte
+  var gal=document.getElementById('gal'), box=document.getElementById('box'), boxImg=document.getElementById('boxImg'), boxCap=document.getElementById('boxCap'), cur={s:'',i:0};
+  function show(st,i){ var L=D.prospekte[st]; cur={s:st,i:(i+L.length)%L.length}; boxImg.src=PIMG[L[cur.i]]||L[cur.i]; boxImg.alt=st+' Prospekt Seite '+(cur.i+1); boxCap.textContent=st+' · '+(cur.i+1)+'/'+L.length; box.hidden=false; box.querySelector('.view').scrollTop=0; }
+  document.getElementById('boxClose').addEventListener('click',function(){box.hidden=true;});
+  document.getElementById('boxPrev').addEventListener('click',function(){show(cur.s,cur.i-1);});
+  document.getElementById('boxNext').addEventListener('click',function(){show(cur.s,cur.i+1);});
+  document.addEventListener('keydown',function(e){ if(box.hidden) return; if(e.key==='Escape') box.hidden=true; if(e.key==='ArrowRight') show(cur.s,cur.i+1); if(e.key==='ArrowLeft') show(cur.s,cur.i-1); });
+  Object.keys(D.prospekte||{}).forEach(function(st){
+    var L=D.prospekte[st]; if(!L||!L.length) return;
+    var r=document.createElement('div'); r.className='galrow'; r.innerHTML='<h3>'+dot(st)+esc(st)+'</h3>';
+    var rail=document.createElement('div'); rail.className='rail';
+    L.forEach(function(k,i){ var b=document.createElement('button'); b.type='button'; b.className='thumb'; b.setAttribute('aria-label',st+' Seite '+(i+1)+' vergrößern'); b.innerHTML='<img decoding="async" alt="" src="'+(PIMG[k]||k)+'">'; b.addEventListener('click',function(){show(st,i);}); rail.appendChild(b); });
+    r.appendChild(rail); gal.appendChild(r);
+  });
+
+  // Märkte
+  var stEl=document.getElementById('stores');
+  storeNames.forEach(function(n){ var s=D.stores[n], d=document.createElement('div'); d.className='st'; d.innerHTML='<b>'+dot(n)+esc(n)+'</b><span>gültig '+esc(s.gilt)+'</span>'+(s.hinweis?'<span class="note">'+esc(s.hinweis)+'</span>':''); stEl.appendChild(d); });
+  // ---------- Einkaufsliste ----------
+  var BYK={}; items.forEach(function(i){BYK[i.k]=i;});
+  var LIST={entries:[]}; // {k, q, done, snap:{store,name,unit,price,old}} oder frei {free:'Text', done}
+  var ICON_CART='<svg viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" d="M12 5v14M5 12h14"/></svg>';
+  var ICON_OK='<svg viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+  function find(k){for(var j=0;j<LIST.entries.length;j++) if(LIST.entries[j].k===k) return LIST.entries[j]; return null;}
+  function qtyOf(k){var e=find(k); return e?e.q:0;}
+  function setQty(k,q){
+    var e=find(k);
+    if(q<=0){ if(e) LIST.entries.splice(LIST.entries.indexOf(e),1); }
+    else if(e){ e.q=q; }
+    else { var i=BYK[k]; LIST.entries.push({k:k,q:q,done:false,snap:{store:i.store,name:i.name,unit:i.unit,price:i.price,old:i.old}}); }
+    changed();
+  }
+  function actHtml(k){
+    var q=qtyOf(k);
+    if(!q) return '<button type="button" class="add" data-a="add" aria-label="Auf die Einkaufsliste">'+ICON_CART+'</button>';
+    return '<span class="step"><button type="button" data-a="dec" aria-label="Weniger">−</button><span>'+q+'</span><button type="button" data-a="inc" aria-label="Mehr">+</button></span>';
+  }
+  function paintActs(){
+    Array.prototype.forEach.call(document.querySelectorAll('[data-k]'),function(el){
+      var a=el.querySelector('.act'); if(!a) return; var k=el.dataset.k; a.innerHTML=actHtml(k); el.classList.toggle('inlist',qtyOf(k)>0);
+    });
+  }
+  document.addEventListener('click',function(e){
+    var b=e.target.closest('[data-a]'); if(!b) return; var host=b.closest('[data-k]'); if(!host) return;
+    var k=host.dataset.k, a=b.dataset.a, q=qtyOf(k);
+    if(a==='add'||a==='inc') setQty(k,q+1); else if(a==='dec') setQty(k,q-1);
+  });
+  var _renderList=renderList; renderList=function(){_renderList(); paintActs();};
+
+  function entryInfo(e){
+    if(e.free) return null;
+    var cur=BYK[e.k], s=cur||e.snap; return {store:s.store,name:s.name,unit:s.unit,price:s.price,old:s.old,gone:!cur,k:e.k};
+  }
+  function miniHtml(k,i){
+    var src=IMG[k]; if(src) return '<div class="mini">'+imgTag(src)+'</div>';
+    return '<div class="mini ic" aria-hidden="true"><svg viewBox="0 0 64 64">'+iconFor(i)+'</svg></div>';
+  }
+  function renderSheet(){
+    var groups={}, order=[], total=0, save=0, open=0;
+    LIST.entries.forEach(function(e,idx){
+      var inf=entryInfo(e), st=inf?inf.store:'Sonstiges';
+      if(!groups[st]){groups[st]={list:[],sum:0,save:0}; order.push(st);}
+      groups[st].list.push({e:e,inf:inf,idx:idx});
+      if(inf){ var line=inf.price*e.q; groups[st].sum+=line; total+=line; if(inf.old){var sv=(inf.old-inf.price)*e.q; groups[st].save+=sv; save+=sv;} }
+      if(!e.done) open++;
+    });
+    order.sort(function(a,b){var ia=storeNames.indexOf(a), ib=storeNames.indexOf(b); return (ia<0?99:ia)-(ib<0?99:ib);});
+    var bw=document.getElementById('billWrap'), gw=document.getElementById('groups'), tw=document.getElementById('tools');
+    if(!LIST.entries.length){
+      bw.innerHTML='<div class="emptylist"><b>Deine Liste ist noch leer</b><span>Tippe bei einem Angebot auf +, oder gib oben ein, was du brauchst. Die Liste sortiert sich automatisch nach Läden.</span></div>';
+      gw.innerHTML=''; tw.innerHTML=''; return;
+    }
+    var stores=order.filter(function(s){return s!=='Sonstiges';});
+    var max=Math.max.apply(null,stores.map(function(s){return groups[s].sum;}).concat([0.01]));
+    var h='<div class="bill"><div class="tot"><span>Gesamt'+(stores.length?' in '+stores.length+' '+(stores.length===1?'Laden':'Läden'):'')+'</span><b>'+eur(total)+'</b></div>';
+    if(save>0.004) h+='<div class="sv">Du sparst '+eur(save)+' gegenüber dem Normalpreis</div>';
+    h+='<div class="bars">'+stores.map(function(s){var g=groups[s]; return '<div class="bar"><span class="nm">'+dot(s)+esc(s)+'</span><span class="track"><span class="fill" style="width:'+Math.max(4,Math.round(g.sum/max*100))+'%;background:'+(COLORS[s]||'#888')+'"></span></span><span class="v">'+eur(g.sum)+'</span></div>';}).join('')+'</div></div>';
+    bw.innerHTML=h;
+    gw.innerHTML='';
+    order.forEach(function(st){
+      var g=groups[st], d=document.createElement('div'); d.className='grp';
+      var n=g.list.length, left=g.list.filter(function(x){return !x.e.done;}).length;
+      d.innerHTML='<h3>'+(st!=='Sonstiges'?dot(st):'')+esc(st)+(st!=='Sonstiges'?'<span class="gs">'+eur(g.sum)+'</span>':'')+'</h3><div class="meta">'+left+' von '+n+' offen'+(g.save>0.004?' · spart '+eur(g.save):'')+(st!=='Sonstiges'&&D.stores[st]?' · gültig '+esc(D.stores[st].gilt):'')+'</div>';
+      g.list.forEach(function(x){
+        var e=x.e, inf=x.inf, li=document.createElement('div'); li.className='li'+(e.done?' done':''); li.dataset.i=x.idx;
+        if(inf){
+          li.dataset.k=inf.k;
+          li.innerHTML='<button type="button" class="ck" data-l="ck" aria-label="Abhaken">'+(e.done?ICON_OK:'')+'</button>'+miniHtml(inf.k,inf)+'<div><div class="t">'+esc(inf.name)+'</div><div class="s">'+(inf.unit?esc(inf.unit)+' · ':'')+eur(inf.price)+(e.q>1?' × '+e.q:'')+'</div>'+(inf.gone?'<div class="gone">Nicht mehr im Angebot – Preis kann abweichen</div>':'')+'</div><div class="r"><span class="lt">'+eur(inf.price*e.q)+'</span><span class="step"><button type="button" data-l="dec" aria-label="Weniger">−</button><span>'+e.q+'</span><button type="button" data-l="inc" aria-label="Mehr">+</button></span></div><button type="button" class="del" data-l="del" aria-label="Löschen"><svg viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" d="M6 6l12 12M18 6L6 18"/></svg></button>';
+        } else {
+          li.innerHTML='<button type="button" class="ck" data-l="ck" aria-label="Abhaken">'+(e.done?ICON_OK:'')+'</button><div class="mini ic" aria-hidden="true"><svg viewBox="0 0 64 64">'+ICON.bag+'</svg></div><div><div class="t">'+esc(e.free)+'</div><div class="s">Kein Angebot gefunden</div></div><div class="r"></div><button type="button" class="del" data-l="del" aria-label="Löschen"><svg viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" d="M6 6l12 12M18 6L6 18"/></svg></button>';
+        }
+        d.appendChild(li);
+      });
+      gw.appendChild(d);
+    });
+    var anyDone=LIST.entries.some(function(e){return e.done;});
+    tw.innerHTML=(anyDone?'<button type="button" data-t="clean">Abgehakte entfernen</button>':'')+'<button type="button" class="danger" data-t="clear">'+(confirmClear?'Wirklich alles löschen?':'Liste leeren')+'</button>'+(confirmClear?'<button type="button" data-t="keep">Abbrechen</button>':'');
+  }
+  var confirmClear=false;
+  document.getElementById('groups').addEventListener('click',function(ev){
+    var b=ev.target.closest('[data-l]'); if(!b) return; var li=b.closest('.li'); var e=LIST.entries[+li.dataset.i]; if(!e) return;
+    var a=b.dataset.l;
+    if(a==='ck') e.done=!e.done; else if(a==='inc') e.q++; else if(a==='dec'){ e.q--; if(e.q<=0) LIST.entries.splice(+li.dataset.i,1); } else if(a==='del') LIST.entries.splice(+li.dataset.i,1);
+    changed();
+  });
+  document.getElementById('tools').addEventListener('click',function(ev){
+    var b=ev.target.closest('[data-t]'); if(!b) return; var a=b.dataset.t;
+    if(a==='clean'){ LIST.entries=LIST.entries.filter(function(e){return !e.done;}); changed(); }
+    else if(a==='clear'){ if(!confirmClear){confirmClear=true; renderSheet(); return;} confirmClear=false; LIST.entries=[]; changed(); }
+    else if(a==='keep'){ confirmClear=false; renderSheet(); }
+  });
+  // Vorschläge
+  var freeIn=document.getElementById('freeIn'), sugg=document.getElementById('sugg');
+  function matches(q){ q=q.trim().toLowerCase(); if(q.length<2) return []; return items.filter(function(i){return (i.name+' '+i.cat).toLowerCase().indexOf(q)>-1;}).sort(function(a,b){return a.price-b.price;}).slice(0,6); }
+  function renderSugg(){
+    var m=matches(freeIn.value);
+    sugg.innerHTML=m.map(function(i){return '<button type="button" data-sk="'+esc(i.k)+'">'+miniHtml(i.k,i)+'<span><span class="t">'+esc(i.name)+'</span><br><span class="s">'+esc(i.store)+(i.unit?' · '+esc(i.unit):'')+'</span></span><span class="pp">'+eur(i.price)+'</span></button>';}).join('');
+  }
+  freeIn.addEventListener('input',renderSugg);
+  sugg.addEventListener('click',function(ev){ var b=ev.target.closest('[data-sk]'); if(!b) return; setQty(b.dataset.sk,qtyOf(b.dataset.sk)+1); freeIn.value=''; renderSugg(); });
+  document.getElementById('freeForm').addEventListener('submit',function(ev){
+    ev.preventDefault(); var v=freeIn.value.trim(); if(!v) return;
+    var m=matches(v); if(m.length){ setQty(m[0].k,qtyOf(m[0].k)+1); } else { LIST.entries.push({free:v,done:false}); changed(); }
+    freeIn.value=''; renderSugg();
+  });
+  // Öffnen / Schließen
+  var sheet=document.getElementById('sheet');
+  function openSheet(){ sheet.hidden=false; renderSheet(); if(location.hash!=='#liste'){ try{history.replaceState(null,'','#liste');}catch(e){ location.hash='liste'; } } }
+  function closeSheet(){ sheet.hidden=true; confirmClear=false; if(location.hash==='#liste'){ try{history.replaceState(null,'',location.pathname+location.search);}catch(e){ location.hash=''; } } }
+  document.getElementById('openList').addEventListener('click',openSheet);
+  document.getElementById('closeList').addEventListener('click',closeSheet);
+  window.addEventListener('hashchange',function(){ if(location.hash==='#liste') openSheet(); else if(!sheet.hidden) closeSheet(); });
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!sheet.hidden&&box.hidden) closeSheet(); });
+  function paintBar(){
+    var n=0,t=0; LIST.entries.forEach(function(e){ var inf=entryInfo(e); n+= e.free?1:e.q; if(inf) t+=inf.price*e.q; });
+    document.getElementById('cartN').textContent=n; document.getElementById('cartSum').textContent=eur(t);
+  }
+  // Speichern: im Konto (db), sonst im Browser
+  var dbRef=null, writing=false, pending=false, timer=null, lastJson='';
+  function sanitize(o){ var en=Array.isArray(o&&o.entries)?o.entries:[]; return {entries:en.filter(function(e){return e&&(typeof e.free==='string'||(typeof e.k==='string'&&e.snap&&typeof e.snap.price==='number'));}).map(function(e){ return e.free!=null?{free:String(e.free).slice(0,80),done:!!e.done}:{k:e.k,q:Math.max(1,Math.min(99,+e.q||1)),done:!!e.done,snap:{store:String(e.snap.store),name:String(e.snap.name),unit:String(e.snap.unit||''),price:+e.snap.price,old:e.snap.old==null?null:+e.snap.old}}; })}; }
+  function local(save){ try{ if(save) localStorage.setItem('einkaufsliste',JSON.stringify(LIST)); else return JSON.parse(localStorage.getItem('einkaufsliste')||'null'); }catch(e){} return null; }
+  function flush(){
+    if(!dbRef) return; if(writing){pending=true;return;}
+    var j=JSON.stringify(LIST); if(j===lastJson) return;
+    writing=true; dbRef.set({entries:LIST.entries,updated:Date.now()}).then(function(){lastJson=j;}).catch(function(){ document.getElementById('syncNote').textContent='Speichern im Konto gerade nicht möglich – die Liste bleibt auf diesem Gerät erhalten.'; }).then(function(){ writing=false; if(pending){pending=false; flush();} });
+  }
+  function changed(){ paintBar(); paintActs(); if(!sheet.hidden) renderSheet(); local(true); clearTimeout(timer); timer=setTimeout(flush,700); }
+  function applyRemote(data){ var s=sanitize(data); var j=JSON.stringify(s); if(j===JSON.stringify(LIST)) return; LIST=s; lastJson=j; paintBar(); paintActs(); if(!sheet.hidden) renderSheet(); local(true); }
+  var saved=local(false); if(saved) LIST=sanitize(saved);
+  paintBar(); paintActs();
+  document.getElementById('syncNote').textContent='Die Liste wird auf diesem Gerät gespeichert.';
+  if(location.hash==='#liste') openSheet();
+  Promise.all([window.claude&&claude.use?claude.use('db'):null, window.claude&&claude.use?claude.use('user'):null]).then(function(r){
+    var db=r[0], user=r[1]; if(!db||!user) return;
+    return user.id().then(function(id){
+      if(!id) return;
+      dbRef=db.doc('data/users/'+id+'/liste');
+      document.getElementById('syncNote').textContent='Die Liste ist in deinem Konto gespeichert und auf allen Geräten gleich.';
+      return dbRef.get().then(function(snap){
+        if(snap.exists){ applyRemote(snap.data()); } else if(LIST.entries.length){ flush(); }
+        dbRef.onSnapshot(function(s){ if(s.exists && !writing && !pending) applyRemote(s.data()); },function(){});
+      });
+    });
+  }).catch(function(){});
+
+  document.getElementById('foot').innerHTML='<p>Preise aus den Wochenprospekten und den Angebotsseiten der Märkte. Angebote gelten, solange der Vorrat reicht, und können je Filiale abweichen. Nächste Aktualisierung: '+esc(D.naechstes)+'.</p><p>Quellen: '+D.quellen.map(function(q){return '<a href="'+esc(q[1])+'" target="_blank" rel="noopener">'+esc(q[0])+'</a>';}).join(' · ')+'</p>';
+};
+</script>
+
+<script>
+(function(){
+  var URL='https://raw.githubusercontent.com/ritzrowcinema-cloud/angebote-luebeck/main/data.json';
+  var EMB={"kw":"KW 44","feiertag":"Sa. 31.10. ist Reformationstag – in Schleswig-Holstein sind die Märkte geschlossen. Letzter Einkaufstag dieser Woche ist Freitag, 30.10.","von":"26.10.2026","bis":"31.10.2026","stand":"29.10.2026","naechstes":"Freitag, 30.10.2026 (Angebote ab 02.11.)","stores":{"Aldi Nord":{"gilt":"26.10.–30.10.","hinweis":"Wegen Feiertag nur bis Freitag; einige Angebote ab Do 29.10."},"Lidl":{"gilt":"26.10.–31.10.","hinweis":"Teils nur mit Lidl Plus"},"Penny":{"gilt":"26.10.–01.11.","hinweis":"Griechische Woche ab Do"},"REWE":{"gilt":"26.10.–31.10.","hinweis":"Preise je Markt leicht verschieden"},"Netto":{"gilt":"26.10.–31.10.","hinweis":"Netto Marken-Discount"},"Norma":{"gilt":"26.10.–31.10.","hinweis":""},"Jawoll":{"gilt":"26.10.–31.10.","hinweis":"Grootkoppel 4–6, 23566 Lübeck"},"Krümet":{"gilt":"26.10.–31.10.","hinweis":"Im Gleisdreieck 19A, 23566 Lübeck"}},"items":[["Aldi Nord","Rinderhackfleisch XXL","800 g",6.99,8.79,"Fleisch & Wurst",""],["Aldi Nord","Hähnchen-Innenfilets","400 g",3.69,4.99,"Fleisch & Wurst",""],["Aldi Nord","Hähnchenbrustfilet-Teilstücke","600 g",5.19,6.79,"Fleisch & Wurst",""],["Aldi Nord","Grobe Bratwurst XXL","800 g",3.49,null,"Fleisch & Wurst",""],["Aldi Nord","Currystar Currywurst XXL","5 × 180 g",4.99,null,"Fleisch & Wurst",""],["Aldi Nord","Rindergulasch XXL","750 g",8.49,null,"Fleisch & Wurst",""],["Aldi Nord","Pekingente","pro kg",5.79,null,"Fleisch & Wurst",""],["Aldi Nord","Koch-Hinterschinken XXL","250 g",1.49,null,"Fleisch & Wurst",""],["Aldi Nord","Wiltmann Genießerteller","Packung",1.29,2.29,"Fleisch & Wurst",""],["Aldi Nord","Geflügelfrikadellen XXL","600 g",2.99,null,"Fleisch & Wurst",""],["Aldi Nord","Chicken Wings","750 g",3.99,null,"Fleisch & Wurst",""],["Aldi Nord","Rinder-Rouladen XXL","800 g",9.99,null,"Fleisch & Wurst","ab Donnerstag"],["Aldi Nord","Geflügel-Wiener XXL","500 g",3.29,null,"Fleisch & Wurst","ab Donnerstag"],["Aldi Nord","Salami XXL","240 g",1.69,null,"Fleisch & Wurst","ab Donnerstag"],["Aldi Nord","Knusperrollbraten","pro kg",6.99,null,"Fleisch & Wurst","ab Donnerstag"],["Aldi Nord","Coca-Cola oder Zero","2 l",1.29,2.19,"Getränke","ab Donnerstag"],["Aldi Nord","Fanta, Sprite oder Mezzo Mix","2 l",1.29,2.19,"Getränke","ab Donnerstag"],["Aldi Nord","Red Bull Energydrink","0,25 l",0.89,1.49,"Getränke",""],["Aldi Nord","Gerolsteiner Medium","1,5 l",0.75,1.09,"Getränke",""],["Aldi Nord","Jacobs Krönung","500 g",6.49,9.99,"Getränke",""],["Aldi Nord","Rotkäppchen Sekt","0,75 l",3.29,4.99,"Getränke",""],["Aldi Nord","Guinness Draught","4 × 0,44 l",4.99,6.49,"Getränke","ab Donnerstag"],["Aldi Nord","Speisekartoffeln","5 kg",2.99,null,"Lebensmittel",""],["Aldi Nord","Zwiebeln","5 kg",2.99,null,"Lebensmittel",""],["Aldi Nord","Bananen","pro kg",1.19,null,"Lebensmittel",""],["Aldi Nord","Leerdammer Käsescheiben","Packung",1.29,2.69,"Lebensmittel",""],["Aldi Nord","Weihenstephan Butter","250 g",1.49,null,"Lebensmittel",""],["Aldi Nord","Babybel Mini","6 × 20 g",1.79,2.89,"Lebensmittel","ab Donnerstag"],["Aldi Nord","Actimel XXL","12 × 100 g",2.99,null,"Lebensmittel",""],["Aldi Nord","Dr. Oetker La Mia Grande","360–380 g",3.29,4.19,"Lebensmittel","ab Donnerstag"],["Aldi Nord","Mövenpick Eis","850 ml",1.59,3.99,"Süßes",""],["Aldi Nord","Lay's Chips","150 g",0.99,1.99,"Süßes",""],["Aldi Nord","Haribo Fruchtgummi","Beutel",0.89,1.19,"Süßes",""],["Aldi Nord","Kinder Maxi King","3 × 35 g",1.49,1.99,"Süßes",""],["Aldi Nord","Celebrations","230 g",3.49,6.29,"Süßes","ab Donnerstag"],["Aldi Nord","Ehrmann Grand Dessert","190 g",0.44,1.19,"Süßes","ab Donnerstag"],["Aldi Nord","Persil Waschmittel","100 WL",15.99,27.99,"Haushalt",""],["Aldi Nord","Pringles","185 g",1.49,2.79,"Süßes","UVP"],["Aldi Nord","Finello Reibekäse","150 g",1.29,2.59,"Lebensmittel","UVP"],["Aldi Nord","Rougette Ofenkäse","320 g",3.99,5.99,"Lebensmittel","UVP"],["Aldi Nord","Mentos","Packung",1.99,2.89,"Süßes","UVP"],["Lidl","Milka Tafelschokolade","Großtafel",2.59,4.99,"Süßes","UVP"],["Lidl","Hohes C Saft","1 l",1.39,2.89,"Getränke","UVP, zzgl. Pfand"],["Lidl","Chef Select Chili-Cheese Nuggets XXL","750 g",4.99,null,"Lebensmittel","−24 % lt. Prospekt",24],["Lidl","Jules Mumm Sekt","0,75 l",3.79,5.49,"Getränke","UVP"],["Lidl","Dulano Geflügel-Bratwurst","",2.79,3.69,"Fleisch & Wurst",""],["Lidl","Dulano Putenbrust XXL","",1.59,null,"Fleisch & Wurst",""],["Lidl","Delikatess Kochschinken XXL","",1.59,null,"Fleisch & Wurst",""],["Lidl","Katzensticks","",1.19,1.69,"Tier",""],["Lidl","Arla Buko Frischkäse","",0.77,null,"Lebensmittel",""],["Lidl","Milbona Kondensmilch XXL","",0.79,null,"Lebensmittel",""],["Lidl","Vemondo Bio Barista Hafer","1 l",1.25,null,"Getränke",""],["Lidl","Harvest Basket Pommes XXL","",2.99,null,"Lebensmittel",""],["Lidl","Silvercrest Edelstahl-Pfanne","",14.99,null,"Haushalt",""],["Lidl","Lupilu Holz-Küche","",29.99,null,"Spielzeug","mit Lidl Plus"],["Lidl","Schweinefilet","pro kg",4.39,6.2,"Fleisch & Wurst","mit Lidl Plus"],["Lidl","Mini-Knusperchen Cornflakes XXL","960 g",6.66,null,"Fleisch & Wurst",""],["Lidl","Deluxe Lammlachse","pro kg",7.29,8.99,"Fleisch & Wurst","mit Lidl Plus"],["Lidl","Hähnchen-Knusperchen Cordon Bleu XXL","750 g",5.79,null,"Fleisch & Wurst",""],["Lidl","Hähnchen-Geschnetzeltes","400 g",3.79,null,"Fleisch & Wurst",""],["Lidl","Veltins Pilsener Bierfass","5 l",9.49,11.99,"Getränke","UVP, zzgl. Pfand"],["Lidl","Ciabatta","300 g",0.59,0.79,"Lebensmittel",""],["Lidl","Celebrations","173 g",2.49,4.49,"Süßes","mit Lidl Plus"],["Penny","Coca-Cola, Fanta oder Sprite","1,25 l",0.99,null,"Getränke","zzgl. 0,25 € Pfand"],["Penny","Pringles","185 g",1.49,null,"Süßes",""],["Penny","Rotkäppchen Sekt","0,75 l",2.99,null,"Getränke",""],["Penny","Jacobs Auslese, gemahlen","500 g",5.49,null,"Getränke",""],["Penny","Weiße Champignons","",0.99,null,"Lebensmittel",""],["Penny","Zitronen","750-g-Netz",1.29,null,"Lebensmittel",""],["Penny","Clementinen","",1.69,null,"Lebensmittel",""],["Penny","Mitakos Expressreis","",0.99,null,"Lebensmittel","ab Donnerstag"],["Penny","Back-Hirtenkäse","",2.79,null,"Lebensmittel","ab Donnerstag"],["Penny","Bifteki mit Frischkäsefüllung","",5.99,null,"Fleisch & Wurst","ab Donnerstag"],["Penny","Ariel Universal Pulver","",18.99,null,"Haushalt","Preis in Lübeck"],["Penny","AEG Bodenstaubsauger","",59.99,null,"Haushalt","mit PENNY App, ab Do"],["Penny","Knusperstange mit Hähnchen","",1.0,null,"Fleisch & Wurst",""],["Penny","Quarkbällchen","",1.0,null,"Süßes",""],["Penny","Honigpomelo","Stück",1.99,null,"Lebensmittel",""],["Penny","Rotfleischige Äpfel","",1.79,null,"Lebensmittel",""],["REWE","Müller Grießpudding / Milchreis","",0.49,null,"Lebensmittel",""],["REWE","funny-frisch Ofen Chips","",0.99,null,"Süßes",""],["REWE","Apfelringe","",0.79,null,"Süßes","Trolli"],["REWE","Storck Knoppers","5er-Pack",1.69,null,"Süßes",""],["REWE","Ristorante Pizza Salame","",1.79,null,"Lebensmittel",""],["REWE","Rispentomaten","",1.89,null,"Lebensmittel",""],["REWE","Butternut-Kürbis","",1.11,null,"Lebensmittel",""],["REWE","Celebrations / Snickers Minis","",2.99,null,"Süßes",""],["REWE","Weihnachtskaktus","Topf",2.29,null,"Pflanzen",""],["REWE","Wiener Würstchen","",1.11,null,"Fleisch & Wurst","Preis in Lübeck"],["REWE","Würstchen Frankfurter Art","",3.49,null,"Fleisch & Wurst",""],["REWE","Smarties Minis","",2.49,null,"Süßes",""],["REWE","Duplo","18er",4.44,null,"Süßes",""],["REWE","Haribo Fruchtgummi Minis Starmix","",1.79,null,"Süßes",""],["REWE","Erdnuss Locken","",1.11,null,"Süßes",""],["Netto","Frau Antje Butter","250 g",0.88,2.99,"Lebensmittel",""],["Netto","Bauer Fruchtjoghurt","",0.44,0.99,"Lebensmittel",""],["Netto","Philadelphia Frischkäse","",1.11,2.29,"Lebensmittel",""],["Netto","Nescafé Gold","",5.99,11.99,"Getränke",""],["Netto","Chicken Wings Box","",3.99,7.99,"Fleisch & Wurst",""],["Netto","Hofmaier Salami-Aufschnitt","200 g",1.39,null,"Fleisch & Wurst",""],["Netto","Grünländer Scheiben","",1.69,2.99,"Lebensmittel","1,49 € mit App"],["Netto","Gourmetmaxx Thermoschüssel-Set","",9.99,29.99,"Haushalt",""],["Netto","Bosch Stabmixer MSM14200N","",24.99,54.99,"Haushalt",""],["Netto","Steppdecke oder Kopfkissen","",22.22,44.95,"Haushalt",""],["Netto","Salatgurke","Stück",0.89,null,"Lebensmittel",""],["Netto","Milka Schokolade","87–100 g",0.95,1.99,"Süßes","UVP"],["Netto","Hähnchen-Brustfilet, mager","600 g",4.99,5.79,"Fleisch & Wurst","UVP"],["Netto","Schweine-Schnitzel","500 g",3.33,4.49,"Fleisch & Wurst","UVP"],["Netto","Coca-Cola oder Zero","1,5 l",1.29,1.87,"Getränke","UVP, zzgl. Pfand"],["Netto","Pringles","160–200 g",1.69,2.79,"Süßes","UVP"],["Netto","Südzucker Feiner Zucker","1 kg",0.88,0.99,"Lebensmittel","UVP"],["Netto","Rey Italienische Teigwaren","500 g",0.99,1.89,"Lebensmittel",""],["Netto","Lorenz Erdnuss Locken","130–175 g",1.0,2.29,"Süßes",""],["Netto","Puten-Geschnetzeltes","400 g",3.99,4.59,"Fleisch & Wurst",""],["Netto","Hähnchen-Ministeaks","400 g",3.79,null,"Fleisch & Wurst",""],["Netto","Bratwürste vom Schwein","400 g",1.99,2.49,"Fleisch & Wurst",""],["Netto","Bockwurst XXL","1000 g",5.49,6.49,"Fleisch & Wurst",""],["Netto","Münchner Weißwurst","500 g",2.49,2.99,"Fleisch & Wurst",""],["Netto","Krustenschinken","100 g",1.29,1.59,"Fleisch & Wurst",""],["Netto","Schweine-Rücken","pro kg",3.99,4.99,"Fleisch & Wurst",""],["Netto","Kasseler Nacken","pro kg",6.49,7.99,"Fleisch & Wurst",""],["Netto","XXL Frikadellenbällchen","2 × 400 g",3.99,4.99,"Fleisch & Wurst","3,49 € mit App"],["Netto","Meica Curry King","",1.99,2.69,"Fleisch & Wurst",""],["Netto","Schinken-Gulasch","500 g",3.49,null,"Fleisch & Wurst",""],["Norma","Red Bull Energy Drink","24 × 0,25 l",19.99,null,"Getränke","−44 % lt. Prospekt",44],["Norma","Pilsner Urquell","Kasten",14.8,null,"Getränke","−28 % lt. Prospekt",28],["Norma","Keli Joghurt Drink","",1.11,null,"Lebensmittel",""],["Norma","Dreistern Königsberger Klopse","",2.29,null,"Lebensmittel",""],["Norma","Ardilla Cashewkerne","",2.49,null,"Süßes",""],["Norma","Landliebe Konfitüre","",1.99,null,"Lebensmittel",""],["Norma","Bio Merlot","0,75 l",2.6,null,"Getränke",""],["Norma","Reine Citronensäure","",2.49,null,"Haushalt",""],["Norma","WC-Intensiv-Reiniger","3er-Pack",2.95,null,"Haushalt",""],["Norma","Flanell-Bettwäsche","",17.99,null,"Haushalt",""],["Norma","Entenkeulen-Pfanne","",9.99,null,"Fleisch & Wurst","−28 % lt. Prospekt",28],["Norma","Dreistern Rindfleisch","400 g",3.99,null,"Fleisch & Wurst","−20 % lt. Prospekt",20],["Norma","Kühne Rotkohl","680 g",1.29,null,"Lebensmittel","−41 % lt. Prospekt",41],["Norma","Maggi Wirtshaus Käse-Spätzle","",1.19,null,"Lebensmittel","−33 % lt. Prospekt",33],["Norma","Mondamin Milchreis / Grießbrei","",0.99,null,"Lebensmittel","−33 % lt. Prospekt",33],["Norma","Saupiquet Thunfisch-Salat","2 × 160 g",3.99,null,"Lebensmittel","−25 % lt. Prospekt",25],["Norma","Youcook Mango Chicken","420 g",3.79,null,"Lebensmittel","−20 % lt. Prospekt",20],["Norma","Weltenburger Klosterbier","6 × 0,5 l",4.99,null,"Getränke","−16 % lt. Prospekt, zzgl. Pfand",16],["Jawoll","Heinz HP BBQ Sauce","400 ml",1.49,3.49,"Lebensmittel",""],["Jawoll","Twix Minis","500 g",5.99,12.99,"Süßes",""],["Jawoll","Bergader Bergbauern Käse","140 g",1.29,2.69,"Lebensmittel",""],["Jawoll","Milka Schokolade","85–100 g",0.99,1.99,"Süßes",""],["Jawoll","Mövenpick Gourmet Frühstück","250 g",1.49,2.99,"Lebensmittel",""],["Jawoll","Nestlé Minis","148–185 g",1.99,3.79,"Süßes",""],["Jawoll","Hengstenberg Bio Rotkohl / Weißkraut","350 g",0.79,1.49,"Lebensmittel",""],["Jawoll","Hawesta Thunfischfilets","160 g",1.69,2.99,"Lebensmittel",""],["Jawoll","Speisekartoffeln","5-kg-Sack",3.49,null,"Lebensmittel",""],["Jawoll","Äpfel","2-kg-Beutel",1.99,null,"Lebensmittel",""],["Jawoll","Wiener oder Geflügel-Wiener","",3.99,null,"Fleisch & Wurst",""],["Jawoll","LED-Baum, 240 Lichter","",14.99,null,"Deko",""],["Jawoll","Pfefferbeißer","350 g",2.8,null,"Fleisch & Wurst",""],["Jawoll","Fleischwurst am Stück","750 g",2.99,null,"Fleisch & Wurst",""],["Jawoll","Entenkeulen","2 Stück, 500 g",4.99,null,"Fleisch & Wurst",""],["Jawoll","Kasseler","pro kg",9.99,null,"Fleisch & Wurst",""],["Jawoll","Sauerfleisch","500 g",5.29,null,"Fleisch & Wurst",""],["Krümet","Damen-Sweathoodie","",9.95,59.95,"Mode",""],["Krümet","Herren-Trikot-Brush-Hose","",7.95,34.95,"Mode",""],["Krümet","Damen-Pullover Weboptik","",9.9,39.9,"Mode",""],["Krümet","LED-Flocke","",2.99,9.9,"Deko",""],["Krümet","Milka Favourites","",1.59,4.49,"Süßes",""],["Krümet","Herren-T-Shirts","4er-Set",9.95,29.95,"Mode",""],["Krümet","Kunsttanne","ca. 23 cm",1.99,4.98,"Deko",""],["Krümet","Benediktiner Festbier","20 × 0,5 l",8.88,16.99,"Getränke",""],["Krümet","König Pilsener Radler","6er-Pack",2.99,null,"Getränke",""]],"prospekte":{"Aldi Nord":["https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-01-768x1342.webp","https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-02-768x1342.webp","https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-03-768x1342.webp","https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-04-768x1342.webp","https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-05-768x1342.webp","https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-06-768x1342.webp"],"Lidl":["https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-10-1-768x1303.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-13-1-768x1303.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-14-1-768x1303.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-03-1-768x1301.webp"],"Netto":["https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-06-768x1076.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-08-768x1076.webp"],"Norma":["https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-01-768x1205.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-02-768x1205.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-03-768x1205.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-04-768x1205.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-05-768x1205.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp"],"Jawoll":["https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-01-768x1382.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-02-768x1382.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-04-768x1382.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-05-768x1382.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp"],"Krümet":["https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-2-768x1087.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-3-768x1087.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-4-768x1087.webp","https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp"]},"quellen":[["Aldi Nord – aldi-nord.de Angebote","https://www.aldi-nord.de/angebote.html"],["Lidl – kaufDA Magazin","https://www.kaufda.de/insights/lidl-prospekt-26-10-2026-xxl-deals-und-alles-fuer-eure-haustiere/"],["Penny – kaufDA Lübeck","https://www.kaufda.de/Luebeck/Penny-Markt/p-r75"],["REWE – kaufDA Lübeck","https://www.kaufda.de/Luebeck/REWE/p-r101"],["Lidl – kaufDA","https://www.kaufda.de/Geschaefte/Lidl"],["Penny – kaufDA Magazin","https://www.kaufda.de/insights/penny-prospekt-26-10-2026-griechische-woche-zum-sparpreis/"],["Penny – prospektderwoche.de","https://prospektderwoche.de/prospekt/penny-prospekt-26-10-2026-31-10-2026"],["REWE – kaufDA Magazin","https://www.kaufda.de/insights/rewe-prospekt-26-10-2026-auf-geht-s-richtung-halloween/"],["REWE – meinprospekt.de","https://www.meinprospekt.de/rewe-de"],["Netto – rabatprospekt.de","https://rabatprospekt.de/netto-marken-discount-prospekt-ab-26-10-2026-aktuelle-ab-montag-1/"],["REWE – rabatprospekt.de","https://rabatprospekt.de/rewe-ihr-kaufpark-prospekt-ab-26-10-2026-aktuelle-ab-montag-1/"],["Netto – prospektwelten.com","https://www.prospektwelten.com/netto-marken-discount-prospekt/"],["Norma – prospektangebote.de","https://www.prospektangebote.de/anzeigen/angebote/norma-prospekt-3855151"],["Norma – kaufDA Magazin","https://www.kaufda.de/insights/norma-prospekt-26-10-2026-mit-allen-highlights-im-ueberblick/"],["Jawoll – prospektwelten.com","https://www.prospektwelten.com/jawoll/"],["Krümet – prospektwelten.com","https://www.prospektwelten.com/kruemet-prospekt/"],["Lidl – prospektwelten.com","https://www.prospektwelten.com/lidl/"]],"img":{"Aldi Nord|Rinderhackfleisch XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/1008973_44_2026_rindhackfleischxxl_02_on_151026_121243?wid=400&fmt=webp"},"Aldi Nord|Hähnchen-Innenfilets":{"u":"https://s7g10.scene7.com/is/image/aldinord/3574_44_2026_haehncheninnenfilet400g_neu_on_151026_082213?wid=400&fmt=webp"},"Aldi Nord|Hähnchenbrustfilet-Teilstücke":{"u":"https://s7g10.scene7.com/is/image/aldinord/8998_44_2026_haehnchenbrust_600g_on_151026_081022?wid=400&fmt=webp"},"Aldi Nord|Grobe Bratwurst XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/6783_44_2026_bratwurst_03_on?wid=400&fmt=webp"},"Aldi Nord|Currystar Currywurst XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/6747_44_2026_currybockwurstxxl_01_on?wid=400&fmt=webp"},"Aldi Nord|Rindergulasch XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/1040067_44_2026_rind_gulasch_750g_on?wid=400&fmt=webp"},"Aldi Nord|Pekingente":{"u":"https://s7g10.scene7.com/is/image/aldinord/7843_44_2026_jungeente_01mithaltungsform_on?wid=400&fmt=webp"},"Aldi Nord|Koch-Hinterschinken XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/1008263_44_2026_kochhinterschinkenxxl_01_on?wid=400&fmt=webp"},"Aldi Nord|Wiltmann Genießerteller":{"u":"https://s7g10.scene7.com/is/image/aldinord/1028816_45_2023_feinschmeckersalami_03_on_comp?wid=400&fmt=webp"},"Aldi Nord|Geflügelfrikadellen XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/1038516_44_2026_gefluegelfrikadelle_xxl_600g_1_on?wid=400&fmt=webp"},"Aldi Nord|Chicken Wings":{"u":"https://s7g10.scene7.com/is/image/aldinord/1035265_44_2026_chicken_fried_wings_750g_on?wid=400&fmt=webp"},"Aldi Nord|Rinder-Rouladen XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/1000843_44_2026_rind_rouladen_gewuerzt_xxl_800_g_on?wid=400&fmt=webp"},"Aldi Nord|Geflügel-Wiener XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/1038550_44_2026_gefluegel_on?wid=400&fmt=webp"},"Aldi Nord|Salami XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/1023464_44_2026_salamixxl_01_on?wid=400&fmt=webp"},"Aldi Nord|Knusperrollbraten":{"u":"https://s7g10.scene7.com/is/image/aldinord/1035034_44_2026_knusperrollbraten_qs_kg_1_on?wid=400&fmt=webp"},"Aldi Nord|Coca-Cola oder Zero":{"u":"https://s7g10.scene7.com/is/image/aldinord/1000302_44_2026_cocacola2l_01_on?wid=400&fmt=webp"},"Aldi Nord|Fanta, Sprite oder Mezzo Mix":{"u":"https://s7g10.scene7.com/is/image/aldinord/1024877_44_2026_fantaspritemezzomixx_sprite_on_comp?wid=400&fmt=webp"},"Aldi Nord|Red Bull Energydrink":{"u":"https://s7g10.scene7.com/is/image/aldinord/1004898_44_2026_redbullclassic_01_on_061026_181353?wid=400&fmt=webp"},"Aldi Nord|Gerolsteiner Medium":{"u":"https://s7g10.scene7.com/is/image/aldinord/7308_35_2026_gerolsteiner_medium_on_100826_184141?wid=400&fmt=webp"},"Aldi Nord|Jacobs Krönung":{"u":"https://s7g10.scene7.com/is/image/aldinord/1015157_14_2026_jacobskroenung_2024_on_120326_093451?wid=400&fmt=webp"},"Aldi Nord|Rotkäppchen Sekt":{"u":"https://s7g10.scene7.com/is/image/aldinord/1003366_34_2022_rotkaeppchentrocken_01_on?wid=400&fmt=webp"},"Aldi Nord|Guinness Draught":{"u":"https://s7g10.scene7.com/is/image/aldinord/7536_44_2026_guinness_irish_draught_4_x_044_l_1_on?wid=400&fmt=webp"},"Aldi Nord|Speisekartoffeln":{"u":"https://s7g10.scene7.com/is/image/aldinord/6104_18_2026_speisekartoffeln_on_081026_113348?wid=400&fmt=webp"},"Aldi Nord|Zwiebeln":{"u":"https://s7g10.scene7.com/is/image/aldinord/1022871_36_2026_zwiebeln_on_081026_113809?wid=400&fmt=webp"},"Aldi Nord|Bananen":{"u":"https://s7g10.scene7.com/is/image/aldinord/6151_25_2026_bananen_bund_on_081026_115747?wid=400&fmt=webp"},"Aldi Nord|Leerdammer Käsescheiben":{"u":"https://s7g10.scene7.com/is/image/aldinord/1022666_20_2024_leerdammerscheibenkaesesortiert_original7s140g_on_comp?wid=400&fmt=webp"},"Aldi Nord|Weihenstephan Butter":{"u":"https://s7g10.scene7.com/is/image/aldinord/9362_44_2026_weihenstephanbutter_01_on?wid=400&fmt=webp"},"Aldi Nord|Babybel Mini":{"u":"https://s7g10.scene7.com/is/image/aldinord/1000865_45_2023_minibabybel_fs_on?wid=400&fmt=webp"},"Aldi Nord|Actimel XXL":{"u":"https://s7g10.scene7.com/is/image/aldinord/1027751_44_2026_actimelxxl_01_on?wid=400&fmt=webp"},"Aldi Nord|Dr. Oetker La Mia Grande":{"u":"https://s7g10.scene7.com/is/image/aldinord/1026528_44_2026_tk_dr_oetker_la_mia_grande_1_on?wid=400&fmt=webp"},"Aldi Nord|Mövenpick Eis":{"u":"https://s7g10.scene7.com/is/image/aldinord/7857_51_2023_moevenpickeis_02_on_comp?wid=400&fmt=webp"},"Aldi Nord|Lay's Chips":{"u":"https://s7g10.scene7.com/is/image/aldinord/1033875_44_2026_lays_gesalzen_on?wid=400&fmt=webp"},"Aldi Nord|Haribo Fruchtgummi":{"u":"https://s7g10.scene7.com/is/image/aldinord/1021428_51_2023_haribogolbaeren_02_on_comp?wid=400&fmt=webp"},"Aldi Nord|Kinder Maxi King":{"u":"https://s7g10.scene7.com/is/image/aldinord/1004882_44_2026_kindermaxiking_01_on?wid=400&fmt=webp"},"Aldi Nord|Celebrations":{"u":"https://s7g10.scene7.com/is/image/aldinord/1044886_44_2026_celebrations_on?wid=400&fmt=webp"},"Aldi Nord|Ehrmann Grand Dessert":{"u":"https://s7g10.scene7.com/is/image/aldinord/1009614_51_2023_ehrmanngranddessert_vanille_on_comp?wid=400&fmt=webp"},"Aldi Nord|Persil Waschmittel":{"u":"https://s7g10.scene7.com/is/image/aldinord/6728_44_2026_persiluniversalgel100wl_universal_on?wid=400&fmt=webp"},"Aldi Nord|Finello Reibekäse":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-05-768x1342.webp","r":1.7474,"b":[0.6836,0.5343,0.9661,0.6341]},"Aldi Nord|Rougette Ofenkäse":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-05-768x1342.webp","r":1.7474,"b":[0.375,0.5291,0.6589,0.62]},"Aldi Nord|Mentos":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-06-768x1342.webp","r":1.7474,"b":[0.6667,0.5343,0.9661,0.658]},"Aldi Nord|Pringles":{"u":"https://s7g10.scene7.com/is/image/aldinord/1019542_44_2026_pringles_185g_comp_061026_173609?wid=400&fmt=webp"},"Netto|Coca-Cola oder Zero":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp","r":1.401,"b":[0.0586,0.2797,0.5417,0.4935]},"Netto|Pringles":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp","r":1.401,"b":[0.375,0.6004,0.6081,0.8745]},"Netto|Südzucker Feiner Zucker":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp","r":1.401,"b":[0.7331,0.0353,0.9505,0.2556]},"Netto|Hofmaier Salami-Aufschnitt":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp","r":1.401,"b":[0.7083,0.2797,0.9089,0.4108]},"Netto|Rey Italienische Teigwaren":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp","r":1.401,"b":[0.7083,0.5,0.9336,0.6245]},"Netto|Lorenz Erdnuss Locken":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp","r":1.401,"b":[0.3997,0.1608,0.5586,0.3625]},"Netto|Puten-Geschnetzeltes":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp","r":1.401,"b":[0.0247,0.039,0.3372,0.1747]},"Netto|Hähnchen-Ministeaks":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp","r":1.401,"b":[0.3451,0.039,0.6628,0.1747]},"Netto|Bratwürste vom Schwein":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp","r":1.401,"b":[0.6706,0.039,0.987,0.1747]},"Netto|Bockwurst XXL":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp","r":1.401,"b":[0.0247,0.2853,0.25,0.4136]},"Netto|Münchner Weißwurst":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp","r":1.401,"b":[0.3503,0.2853,0.5794,0.4136]},"Netto|Krustenschinken":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp","r":1.401,"b":[0.6745,0.2853,0.862,0.4136]},"Netto|Schweine-Rücken":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp","r":1.401,"b":[0.0378,0.2407,0.513,0.4368]},"Netto|Kasseler Nacken":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp","r":1.401,"b":[0.6628,0.289,0.8945,0.4071]},"Netto|XXL Frikadellenbällchen":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp","r":1.401,"b":[0.138,0.5028,0.4245,0.6636]},"Netto|Meica Curry King":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp","r":1.401,"b":[0.0378,0.7351,0.25,0.8783]},"Netto|Schinken-Gulasch":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp","r":1.401,"b":[0.3451,0.7407,0.5195,0.8597]},"Lidl|Schweinefilet":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-10-1-768x1303.webp","r":1.6966,"b":[0.0195,0.5641,0.3372,0.6953]},"Lidl|Mini-Knusperchen Cornflakes XXL":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-10-1-768x1303.webp","r":1.6966,"b":[0.3451,0.5641,0.6549,0.6585]},"Lidl|Deluxe Lammlachse":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-10-1-768x1303.webp","r":1.6966,"b":[0.0195,0.7544,0.3372,0.8573]},"Lidl|Hähnchen-Knusperchen Cordon Bleu XXL":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp","r":1.6953,"b":[0.0195,0.5645,0.3372,0.6736]},"Lidl|Hähnchen-Geschnetzeltes":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp","r":1.6953,"b":[0.3581,0.563,0.6549,0.6667]},"Lidl|Veltins Pilsener Bierfass":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp","r":1.6953,"b":[0.7956,0.4793,0.9948,0.6713]},"Lidl|Ciabatta":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp","r":1.6953,"b":[0.0195,0.0853,0.3372,0.2181]},"Lidl|Celebrations":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp","r":1.6953,"b":[0.0521,0.5238,0.2214,0.6237]},"Jawoll|Pfefferbeißer":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.7422,0.2315,0.9661,0.3799]},"Jawoll|Fleischwurst am Stück":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.6328,0.4124,0.75,0.5948]},"Jawoll|Entenkeulen":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.4961,0.2315,0.7135,0.3502]},"Jawoll|Kasseler":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.7461,0.644,0.9753,0.7113]},"Jawoll|Sauerfleisch":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.0417,0.4124,0.2331,0.4986]},"Netto|Chicken Wings Box":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-18-768x1076.webp","r":1.401,"b":[0.7031,0.7361,0.9531,0.8745]},"Krümet|König Pilsener Radler":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp","r":1.4141,"b":[0.1966,0.163,0.3333,0.2311]},"Lidl|Lupilu Holz-Küche":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp","r":1.6953,"b":[0.5013,0.7949,0.6576,0.8986]},"Netto|Hähnchen-Brustfilet, mager":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp","r":1.401,"b":[0.0339,0.1543,0.3581,0.303]},"Netto|Salatgurke":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp","r":1.401,"b":[0.0339,0.3922,0.2747,0.5]},"Netto|Grünländer Scheiben":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp","r":1.401,"b":[0.0417,0.5948,0.2747,0.7556]},"Netto|Milka Schokolade":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp","r":1.401,"b":[0.5,0.6543,0.8333,0.7491]},"Netto|Philadelphia Frischkäse":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-06-768x1076.webp","r":1.401,"b":[0.0417,0.5948,0.4245,0.8569]},"Netto|Bauer Fruchtjoghurt":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-06-768x1076.webp","r":1.401,"b":[0.5169,0.5948,0.9661,0.8569]},"Netto|Schweine-Schnitzel":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-06-768x1076.webp","r":1.401,"b":[0.0339,0.2435,0.5,0.4461]},"Jawoll|Bergader Bergbauern Käse":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.5,0.0369,0.6862,0.1592]},"Jawoll|Wiener oder Geflügel-Wiener":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.2839,0.4168,0.5586,0.5051]},"Jawoll|Speisekartoffeln":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.4167,0.7967,0.5964,0.8907]},"Jawoll|Äpfel":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp","r":1.7995,"b":[0.0417,0.7967,0.2201,0.8907]},"Jawoll|Twix Minis":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp","r":1.7995,"b":[0.75,0.0557,0.9466,0.178]},"Jawoll|Nestlé Minis":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp","r":1.7995,"b":[0.0417,0.2453,0.2695,0.3726]},"Jawoll|Mövenpick Gourmet Frühstück":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp","r":1.7995,"b":[0.5495,0.259,0.7461,0.3632]},"Jawoll|Heinz HP BBQ Sauce":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp","r":1.7995,"b":[0.3529,0.4146,0.5039,0.5557]},"Jawoll|Hawesta Thunfischfilets":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp","r":1.7995,"b":[0.5078,0.4168,0.737,0.5391]},"Jawoll|Hengstenberg Bio Rotkohl / Weißkraut":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp","r":1.7995,"b":[0.2747,0.5926,0.5039,0.7149]},"Krümet|Benediktiner Festbier":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp","r":1.4141,"b":[0.0365,0.2219,0.1966,0.3444]},"Krümet|Milka Favourites":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp","r":1.4141,"b":[0.0365,0.3444,0.1862,0.4098]},"Krümet|Kunsttanne":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp","r":1.4141,"b":[0.7005,0.477,0.9701,0.6363]},"Krümet|Damen-Sweathoodie":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp","r":1.4154,"b":[0.4701,0.3827,0.8333,0.7065]},"Krümet|Herren-Trikot-Brush-Hose":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp","r":1.4154,"b":[0.1589,0.6219,0.4245,0.9476]},"Krümet|Damen-Pullover Weboptik":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp","r":1.4154,"b":[0.1003,0.0414,0.8255,0.3477]},"Krümet|Herren-T-Shirts":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp","r":1.4154,"b":[0.0638,0.3652,0.4531,0.5943]},"Krümet|LED-Flocke":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp","r":1.4154,"b":[0.6471,0.7203,0.9701,0.9328]},"Norma|Saupiquet Thunfisch-Salat":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp","r":1.569,"b":[0.0169,0.083,0.3372,0.2249]},"Norma|Youcook Mango Chicken":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp","r":1.569,"b":[0.6745,0.083,0.9948,0.2075]},"Norma|Maggi Wirtshaus Käse-Spätzle":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp","r":1.569,"b":[0.0169,0.2423,0.3372,0.4124]},"Norma|Kühne Rotkohl":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp","r":1.569,"b":[0.3411,0.2531,0.6615,0.4124]},"Norma|Entenkeulen-Pfanne":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp","r":1.569,"b":[0.6745,0.2954,0.9948,0.4166]},"Norma|Mondamin Milchreis / Grießbrei":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp","r":1.569,"b":[0.6745,0.4548,0.9948,0.5967]},"Norma|Weltenburger Klosterbier":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp","r":1.569,"b":[0.6745,0.6349,0.9948,0.7992]},"Norma|Dreistern Rindfleisch":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp","r":1.569,"b":[0.3411,0.6349,0.6615,0.7668]},"Lidl|Hohes C Saft":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp","r":1.6953,"b":[0.0195,0.2803,0.1979,0.4624]},"Lidl|Chef Select Chili-Cheese Nuggets XXL":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp","r":1.6953,"b":[0.5729,0.0576,0.9961,0.3226]},"Lidl|Dulano Putenbrust XXL":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp","r":1.6953,"b":[0.4297,0.1959,0.7448,0.3856]},"Lidl|Milbona Kondensmilch XXL":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp","r":1.6953,"b":[0.6185,0.3748,0.8359,0.5315]},"Lidl|Silvercrest Edelstahl-Pfanne":{"u":"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp","r":1.6953,"b":[0.7005,0.8003,0.974,0.8733]},"REWE|Wiener Würstchen":{"u":"https://content-media.bonial.biz/a272c571-428a-4f18-b7bb-ecdc9f38ed98/2b351baf-6ed4-4ea9-b5cc-516be4890e41.jpg"},"REWE|Ristorante Pizza Salame":{"u":"https://content-media.bonial.biz/935ed7d7-58bc-4f65-a9d6-25a5ecdde216/ca7624a8-b0ed-434e-ace5-0da5428f5c52.jpg"},"REWE|funny-frisch Ofen Chips":{"u":"https://content-media.bonial.biz/6ba4613f-3389-43c6-8736-a7053f7da466/778cf8bf-ce0d-41cd-9f6d-42d091160d60.jpg"},"REWE|Storck Knoppers":{"u":"https://content-media.bonial.biz/8e00632f-8a42-453b-8855-741e1d3d2eb9/c04912b9-0399-4713-8b0f-21c4cfd62fcb.jpg"},"REWE|Müller Grießpudding / Milchreis":{"u":"https://content-media.bonial.biz/f841e505-1807-41b7-ad0e-df0c3bf428ff/55280bec-ba06-4b3b-8796-99531406b5f9.jpg"},"REWE|Celebrations / Snickers Minis":{"u":"https://content-media.bonial.biz/183ceb4a-d567-40ea-b76f-d682fbb67b21/b0fd0806-e1cc-42fb-b27f-72c15183a63b.jpg"},"REWE|Apfelringe":{"u":"https://content-media.bonial.biz/8cd11f0b-c419-4eac-8454-c74126c789db/c5b3b983-a6a2-4392-9297-d9420a2c06e4.jpg"},"REWE|Smarties Minis":{"u":"https://content-media.bonial.biz/e62fef15-24bd-4f13-b917-8e3ee8f37658/5a6dcc54-6c05-435a-ab9d-03c0455a432a.jpg"},"REWE|Duplo":{"u":"https://content-media.bonial.biz/86fed33b-6717-471f-bcc3-b341c02e5a05/890d01f4-ff5b-47d7-beea-9e4f3553424e.jpg"},"REWE|Haribo Fruchtgummi Minis Starmix":{"u":"https://content-media.bonial.biz/54557b14-7f90-48e5-bedb-389b85467b23/f322ef68-6485-4d4b-a01f-972d4e80491e.jpg"},"REWE|Würstchen Frankfurter Art":{"u":"https://content-media.bonial.biz/e22090f6-1200-4870-bb80-bb59bdaba63e/0d35d9eb-5df5-4483-a08d-f8901f128670.jpg"},"Penny|Zitronen":{"u":"https://content-media.bonial.biz/926f0b20-439b-4cb4-b2d2-19979628ba39/832c5dce-16bf-4a50-8786-62c54f67867c.jpg"},"Penny|Rotkäppchen Sekt":{"u":"https://content-media.bonial.biz/a1e15de8-56c0-4b19-8a15-77fa56a2ce73/bfe16eeb-85e1-436e-81a1-b745db95f690.jpg"},"Penny|Ariel Universal Pulver":{"u":"https://content-media.bonial.biz/b9339c3b-4e0a-4d47-9613-1ccb8d61cb8b/4dedd637-1318-41d2-9cf7-dc2079ee6468.jpg"},"Penny|Coca-Cola, Fanta oder Sprite":{"u":"https://content-media.bonial.biz/1b4cb2c1-de78-4564-b3e8-13b30406bcd8/8589a6d0-f481-41e5-8e7c-4858df4ffef0.jpg"},"Penny|Pringles":{"u":"https://content-media.bonial.biz/79c83a0b-c12c-4c1a-993d-0f11df81521c/18b0a4a7-2ad4-4725-a59a-77c69844f6a6.jpg"},"Penny|Clementinen":{"u":"https://content-media.bonial.biz/ce23fb38-9d3b-42f6-a31d-40dfd8a73b1b/b8377136-fada-4ed0-8fba-c58ae65d29bd.jpg"},"Penny|Weiße Champignons":{"u":"https://content-media.bonial.biz/6a335ac9-e1dd-4646-9f63-7eee5734da89/e518fe56-d8eb-4459-ab98-05defcc7fdda.jpg"},"Penny|Quarkbällchen":{"u":"https://content-media.bonial.biz/3edb78a5-92e8-4d91-a2d4-49fee8799350/2efafa04-8ecf-4a0d-977e-60c1c7002c84.jpg"},"Penny|Knusperstange mit Hähnchen":{"u":"https://content-media.bonial.biz/ec360a64-7953-4ad5-80b2-2331f5af6d3d/c0c10055-24ad-4899-8790-f9c0ca39857e.jpg"},"Penny|Honigpomelo":{"u":"https://content-media.bonial.biz/ff55e0ae-83a5-488d-a3f8-39b33110954f/20807c3c-b9fa-4d49-8fd7-4d4c6fd61b34.jpg"}},"ts":1793302028};
+  var cached=null; try{cached=JSON.parse(localStorage.getItem('angebote-data')||'null');}catch(e){}
+  var best=(cached&&cached.ts>EMB.ts)?cached:EMB;
+  var done=false;
+  function go(d,off){ if(done) return; done=true; if(d.pages&&!d.prospekte){d.prospekte=d.pages;} window.__D=d; window.__OFF=off; window.startApp(); }
+  var ctl=window.AbortController?new AbortController():null;
+  var to=setTimeout(function(){ if(ctl) ctl.abort(); go(best,true); },8000);
+  fetch(URL+'?t='+Math.floor(Date.now()/300000),{cache:'no-store',signal:ctl?ctl.signal:undefined})
+    .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(d){ clearTimeout(to); if(!d||!d.items) throw new Error('bad'); if(!d.ts||d.ts>=best.ts){ try{localStorage.setItem('angebote-data',JSON.stringify(d));}catch(e){} go(d,false);} else go(best,false); })
+    .catch(function(){ clearTimeout(to); go(best,true); });
+})();
+</script>
+</body></html>
