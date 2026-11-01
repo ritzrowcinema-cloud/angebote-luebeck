@@ -1,2782 +1,4551 @@
 {
-"kw": "KW 44",
-"feiertag": "Sa. 31.10. ist Reformationstag – in Schleswig-Holstein sind die Märkte geschlossen. Letzter Einkaufstag dieser Woche ist Freitag, 30.10.",
-"von": "26.10.2026",
-"bis": "31.10.2026",
-"stand": "29.10.2026",
-"naechstes": "Freitag, 30.10.2026 (Angebote ab 02.11.)",
-"stores": {
-"Aldi Nord": {
-"gilt": "26.10.–30.10.",
-"hinweis": "Wegen Feiertag nur bis Freitag; einige Angebote ab Do 29.10."
-},
-"Lidl": {
-"gilt": "26.10.–31.10.",
-"hinweis": "Teils nur mit Lidl Plus"
-},
-"Penny": {
-"gilt": "26.10.–01.11.",
-"hinweis": "Griechische Woche ab Do"
-},
-"REWE": {
-"gilt": "26.10.–31.10.",
-"hinweis": "Preise je Markt leicht verschieden"
-},
-"Netto": {
-"gilt": "26.10.–31.10.",
-"hinweis": "Netto Marken-Discount"
-},
-"Norma": {
-"gilt": "26.10.–31.10.",
-"hinweis": ""
-},
-"Jawoll": {
-"gilt": "26.10.–31.10.",
-"hinweis": "Grootkoppel 4–6, 23566 Lübeck"
-},
-"Krümet": {
-"gilt": "26.10.–31.10.",
-"hinweis": "Im Gleisdreieck 19A, 23566 Lübeck"
-}
-},
-"items": [
-[
-"Aldi Nord",
-"Rinderhackfleisch XXL",
-"800 g",
-6.99,
-8.79,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Hähnchen-Innenfilets",
-"400 g",
-3.69,
-4.99,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Hähnchenbrustfilet-Teilstücke",
-"600 g",
-5.19,
-6.79,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Grobe Bratwurst XXL",
-"800 g",
-3.49,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Currystar Currywurst XXL",
-"5 × 180 g",
-4.99,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Rindergulasch XXL",
-"750 g",
-8.49,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Pekingente",
-"pro kg",
-5.79,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Koch-Hinterschinken XXL",
-"250 g",
-1.49,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Wiltmann Genießerteller",
-"Packung",
-1.29,
-2.29,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Geflügelfrikadellen XXL",
-"600 g",
-2.99,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Chicken Wings",
-"750 g",
-3.99,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Aldi Nord",
-"Rinder-Rouladen XXL",
-"800 g",
-9.99,
-null,
-"Fleisch & Wurst",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Geflügel-Wiener XXL",
-"500 g",
-3.29,
-null,
-"Fleisch & Wurst",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Salami XXL",
-"240 g",
-1.69,
-null,
-"Fleisch & Wurst",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Knusperrollbraten",
-"pro kg",
-6.99,
-null,
-"Fleisch & Wurst",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Coca-Cola oder Zero",
-"2 l",
-1.29,
-2.19,
-"Getränke",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Fanta, Sprite oder Mezzo Mix",
-"2 l",
-1.29,
-2.19,
-"Getränke",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Red Bull Energydrink",
-"0,25 l",
-0.89,
-1.49,
-"Getränke",
-""
-],
-[
-"Aldi Nord",
-"Gerolsteiner Medium",
-"1,5 l",
-0.75,
-1.09,
-"Getränke",
-""
-],
-[
-"Aldi Nord",
-"Jacobs Krönung",
-"500 g",
-6.49,
-9.99,
-"Getränke",
-""
-],
-[
-"Aldi Nord",
-"Rotkäppchen Sekt",
-"0,75 l",
-3.29,
-4.99,
-"Getränke",
-""
-],
-[
-"Aldi Nord",
-"Guinness Draught",
-"4 × 0,44 l",
-4.99,
-6.49,
-"Getränke",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Speisekartoffeln",
-"5 kg",
-2.99,
-null,
-"Lebensmittel",
-""
-],
-[
-"Aldi Nord",
-"Zwiebeln",
-"5 kg",
-2.99,
-null,
-"Lebensmittel",
-""
-],
-[
-"Aldi Nord",
-"Bananen",
-"pro kg",
-1.19,
-null,
-"Lebensmittel",
-""
-],
-[
-"Aldi Nord",
-"Leerdammer Käsescheiben",
-"Packung",
-1.29,
-2.69,
-"Lebensmittel",
-""
-],
-[
-"Aldi Nord",
-"Weihenstephan Butter",
-"250 g",
-1.49,
-null,
-"Lebensmittel",
-""
-],
-[
-"Aldi Nord",
-"Babybel Mini",
-"6 × 20 g",
-1.79,
-2.89,
-"Lebensmittel",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Actimel XXL",
-"12 × 100 g",
-2.99,
-null,
-"Lebensmittel",
-""
-],
-[
-"Aldi Nord",
-"Dr. Oetker La Mia Grande",
-"360–380 g",
-3.29,
-4.19,
-"Lebensmittel",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Mövenpick Eis",
-"850 ml",
-1.59,
-3.99,
-"Süßes",
-""
-],
-[
-"Aldi Nord",
-"Lay's Chips",
-"150 g",
-0.99,
-1.99,
-"Süßes",
-""
-],
-[
-"Aldi Nord",
-"Haribo Fruchtgummi",
-"Beutel",
-0.89,
-1.19,
-"Süßes",
-""
-],
-[
-"Aldi Nord",
-"Kinder Maxi King",
-"3 × 35 g",
-1.49,
-1.99,
-"Süßes",
-""
-],
-[
-"Aldi Nord",
-"Celebrations",
-"230 g",
-3.49,
-6.29,
-"Süßes",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Ehrmann Grand Dessert",
-"190 g",
-0.44,
-1.19,
-"Süßes",
-"ab Donnerstag"
-],
-[
-"Aldi Nord",
-"Persil Waschmittel",
-"100 WL",
-15.99,
-27.99,
-"Haushalt",
-""
-],
-[
-"Aldi Nord",
-"Pringles",
-"185 g",
-1.49,
-2.79,
-"Süßes",
-"UVP"
-],
-[
-"Aldi Nord",
-"Finello Reibekäse",
-"150 g",
-1.29,
-2.59,
-"Lebensmittel",
-"UVP"
-],
-[
-"Aldi Nord",
-"Rougette Ofenkäse",
-"320 g",
-3.99,
-5.99,
-"Lebensmittel",
-"UVP"
-],
-[
-"Aldi Nord",
-"Mentos",
-"Packung",
-1.99,
-2.89,
-"Süßes",
-"UVP"
-],
-[
-"Lidl",
-"Milka Tafelschokolade",
-"Großtafel",
-2.59,
-4.99,
-"Süßes",
-"UVP"
-],
-[
-"Lidl",
-"Hohes C Saft",
-"1 l",
-1.39,
-2.89,
-"Getränke",
-"UVP, zzgl. Pfand"
-],
-[
-"Lidl",
-"Chef Select Chili-Cheese Nuggets XXL",
-"750 g",
-4.99,
-null,
-"Lebensmittel",
-"−24 % lt. Prospekt",
-24
-],
-[
-"Lidl",
-"Jules Mumm Sekt",
-"0,75 l",
-3.79,
-5.49,
-"Getränke",
-"UVP"
-],
-[
-"Lidl",
-"Dulano Geflügel-Bratwurst",
-"",
-2.79,
-3.69,
-"Fleisch & Wurst",
-""
-],
-[
-"Lidl",
-"Dulano Putenbrust XXL",
-"",
-1.59,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Lidl",
-"Delikatess Kochschinken XXL",
-"",
-1.59,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Lidl",
-"Katzensticks",
-"",
-1.19,
-1.69,
-"Tier",
-""
-],
-[
-"Lidl",
-"Arla Buko Frischkäse",
-"",
-0.77,
-null,
-"Lebensmittel",
-""
-],
-[
-"Lidl",
-"Milbona Kondensmilch XXL",
-"",
-0.79,
-null,
-"Lebensmittel",
-""
-],
-[
-"Lidl",
-"Vemondo Bio Barista Hafer",
-"1 l",
-1.25,
-null,
-"Getränke",
-""
-],
-[
-"Lidl",
-"Harvest Basket Pommes XXL",
-"",
-2.99,
-null,
-"Lebensmittel",
-""
-],
-[
-"Lidl",
-"Silvercrest Edelstahl-Pfanne",
-"",
-14.99,
-null,
-"Haushalt",
-""
-],
-[
-"Lidl",
-"Lupilu Holz-Küche",
-"",
-29.99,
-null,
-"Spielzeug",
-"mit Lidl Plus"
-],
-[
-"Lidl",
-"Schweinefilet",
-"pro kg",
-4.39,
-6.2,
-"Fleisch & Wurst",
-"mit Lidl Plus"
-],
-[
-"Lidl",
-"Mini-Knusperchen Cornflakes XXL",
-"960 g",
-6.66,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Lidl",
-"Deluxe Lammlachse",
-"pro kg",
-7.29,
-8.99,
-"Fleisch & Wurst",
-"mit Lidl Plus"
-],
-[
-"Lidl",
-"Hähnchen-Knusperchen Cordon Bleu XXL",
-"750 g",
-5.79,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Lidl",
-"Hähnchen-Geschnetzeltes",
-"400 g",
-3.79,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Lidl",
-"Veltins Pilsener Bierfass",
-"5 l",
-9.49,
-11.99,
-"Getränke",
-"UVP, zzgl. Pfand"
-],
-[
-"Lidl",
-"Ciabatta",
-"300 g",
-0.59,
-0.79,
-"Lebensmittel",
-""
-],
-[
-"Lidl",
-"Celebrations",
-"173 g",
-2.49,
-4.49,
-"Süßes",
-"mit Lidl Plus"
-],
-[
-"Penny",
-"Coca-Cola, Fanta oder Sprite",
-"1,25 l",
-0.99,
-null,
-"Getränke",
-"zzgl. 0,25 € Pfand"
-],
-[
-"Penny",
-"Pringles",
-"185 g",
-1.49,
-null,
-"Süßes",
-""
-],
-[
-"Penny",
-"Rotkäppchen Sekt",
-"0,75 l",
-2.99,
-null,
-"Getränke",
-""
-],
-[
-"Penny",
-"Jacobs Auslese, gemahlen",
-"500 g",
-5.49,
-null,
-"Getränke",
-""
-],
-[
-"Penny",
-"Weiße Champignons",
-"",
-0.99,
-null,
-"Lebensmittel",
-""
-],
-[
-"Penny",
-"Zitronen",
-"750-g-Netz",
-1.29,
-null,
-"Lebensmittel",
-""
-],
-[
-"Penny",
-"Clementinen",
-"",
-1.69,
-null,
-"Lebensmittel",
-""
-],
-[
-"Penny",
-"Mitakos Expressreis",
-"",
-0.99,
-null,
-"Lebensmittel",
-"ab Donnerstag"
-],
-[
-"Penny",
-"Back-Hirtenkäse",
-"",
-2.79,
-null,
-"Lebensmittel",
-"ab Donnerstag"
-],
-[
-"Penny",
-"Bifteki mit Frischkäsefüllung",
-"",
-5.99,
-null,
-"Fleisch & Wurst",
-"ab Donnerstag"
-],
-[
-"Penny",
-"Ariel Universal Pulver",
-"",
-18.99,
-null,
-"Haushalt",
-"Preis in Lübeck"
-],
-[
-"Penny",
-"AEG Bodenstaubsauger",
-"",
-59.99,
-null,
-"Haushalt",
-"mit PENNY App, ab Do"
-],
-[
-"Penny",
-"Knusperstange mit Hähnchen",
-"",
-1.0,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Penny",
-"Quarkbällchen",
-"",
-1.0,
-null,
-"Süßes",
-""
-],
-[
-"Penny",
-"Honigpomelo",
-"Stück",
-1.99,
-null,
-"Lebensmittel",
-""
-],
-[
-"Penny",
-"Rotfleischige Äpfel",
-"",
-1.79,
-null,
-"Lebensmittel",
-""
-],
-[
-"REWE",
-"Müller Grießpudding / Milchreis",
-"",
-0.49,
-null,
-"Lebensmittel",
-""
-],
-[
-"REWE",
-"funny-frisch Ofen Chips",
-"",
-0.99,
-null,
-"Süßes",
-""
-],
-[
-"REWE",
-"Apfelringe",
-"",
-0.79,
-null,
-"Süßes",
-"Trolli"
-],
-[
-"REWE",
-"Storck Knoppers",
-"5er-Pack",
-1.69,
-null,
-"Süßes",
-""
-],
-[
-"REWE",
-"Ristorante Pizza Salame",
-"",
-1.79,
-null,
-"Lebensmittel",
-""
-],
-[
-"REWE",
-"Rispentomaten",
-"",
-1.89,
-null,
-"Lebensmittel",
-""
-],
-[
-"REWE",
-"Butternut-Kürbis",
-"",
-1.11,
-null,
-"Lebensmittel",
-""
-],
-[
-"REWE",
-"Celebrations / Snickers Minis",
-"",
-2.99,
-null,
-"Süßes",
-""
-],
-[
-"REWE",
-"Weihnachtskaktus",
-"Topf",
-2.29,
-null,
-"Pflanzen",
-""
-],
-[
-"REWE",
-"Wiener Würstchen",
-"",
-1.11,
-null,
-"Fleisch & Wurst",
-"Preis in Lübeck"
-],
-[
-"REWE",
-"Würstchen Frankfurter Art",
-"",
-3.49,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"REWE",
-"Smarties Minis",
-"",
-2.49,
-null,
-"Süßes",
-""
-],
-[
-"REWE",
-"Duplo",
-"18er",
-4.44,
-null,
-"Süßes",
-""
-],
-[
-"REWE",
-"Haribo Fruchtgummi Minis Starmix",
-"",
-1.79,
-null,
-"Süßes",
-""
-],
-[
-"REWE",
-"Erdnuss Locken",
-"",
-1.11,
-null,
-"Süßes",
-""
-],
-[
-"Netto",
-"Frau Antje Butter",
-"250 g",
-0.88,
-2.99,
-"Lebensmittel",
-""
-],
-[
-"Netto",
-"Bauer Fruchtjoghurt",
-"",
-0.44,
-0.99,
-"Lebensmittel",
-""
-],
-[
-"Netto",
-"Philadelphia Frischkäse",
-"",
-1.11,
-2.29,
-"Lebensmittel",
-""
-],
-[
-"Netto",
-"Nescafé Gold",
-"",
-5.99,
-11.99,
-"Getränke",
-""
-],
-[
-"Netto",
-"Chicken Wings Box",
-"",
-3.99,
-7.99,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Hofmaier Salami-Aufschnitt",
-"200 g",
-1.39,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Grünländer Scheiben",
-"",
-1.69,
-2.99,
-"Lebensmittel",
-"1,49 € mit App"
-],
-[
-"Netto",
-"Gourmetmaxx Thermoschüssel-Set",
-"",
-9.99,
-29.99,
-"Haushalt",
-""
-],
-[
-"Netto",
-"Bosch Stabmixer MSM14200N",
-"",
-24.99,
-54.99,
-"Haushalt",
-""
-],
-[
-"Netto",
-"Steppdecke oder Kopfkissen",
-"",
-22.22,
-44.95,
-"Haushalt",
-""
-],
-[
-"Netto",
-"Salatgurke",
-"Stück",
-0.89,
-null,
-"Lebensmittel",
-""
-],
-[
-"Netto",
-"Milka Schokolade",
-"87–100 g",
-0.95,
-1.99,
-"Süßes",
-"UVP"
-],
-[
-"Netto",
-"Hähnchen-Brustfilet, mager",
-"600 g",
-4.99,
-5.79,
-"Fleisch & Wurst",
-"UVP"
-],
-[
-"Netto",
-"Schweine-Schnitzel",
-"500 g",
-3.33,
-4.49,
-"Fleisch & Wurst",
-"UVP"
-],
-[
-"Netto",
-"Coca-Cola oder Zero",
-"1,5 l",
-1.29,
-1.87,
-"Getränke",
-"UVP, zzgl. Pfand"
-],
-[
-"Netto",
-"Pringles",
-"160–200 g",
-1.69,
-2.79,
-"Süßes",
-"UVP"
-],
-[
-"Netto",
-"Südzucker Feiner Zucker",
-"1 kg",
-0.88,
-0.99,
-"Lebensmittel",
-"UVP"
-],
-[
-"Netto",
-"Rey Italienische Teigwaren",
-"500 g",
-0.99,
-1.89,
-"Lebensmittel",
-""
-],
-[
-"Netto",
-"Lorenz Erdnuss Locken",
-"130–175 g",
-1.0,
-2.29,
-"Süßes",
-""
-],
-[
-"Netto",
-"Puten-Geschnetzeltes",
-"400 g",
-3.99,
-4.59,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Hähnchen-Ministeaks",
-"400 g",
-3.79,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Bratwürste vom Schwein",
-"400 g",
-1.99,
-2.49,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Bockwurst XXL",
-"1000 g",
-5.49,
-6.49,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Münchner Weißwurst",
-"500 g",
-2.49,
-2.99,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Krustenschinken",
-"100 g",
-1.29,
-1.59,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Schweine-Rücken",
-"pro kg",
-3.99,
-4.99,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Kasseler Nacken",
-"pro kg",
-6.49,
-7.99,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"XXL Frikadellenbällchen",
-"2 × 400 g",
-3.99,
-4.99,
-"Fleisch & Wurst",
-"3,49 € mit App"
-],
-[
-"Netto",
-"Meica Curry King",
-"",
-1.99,
-2.69,
-"Fleisch & Wurst",
-""
-],
-[
-"Netto",
-"Schinken-Gulasch",
-"500 g",
-3.49,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Norma",
-"Red Bull Energy Drink",
-"24 × 0,25 l",
-19.99,
-null,
-"Getränke",
-"−44 % lt. Prospekt",
-44
-],
-[
-"Norma",
-"Pilsner Urquell",
-"Kasten",
-14.8,
-null,
-"Getränke",
-"−28 % lt. Prospekt",
-28
-],
-[
-"Norma",
-"Keli Joghurt Drink",
-"",
-1.11,
-null,
-"Lebensmittel",
-""
-],
-[
-"Norma",
-"Dreistern Königsberger Klopse",
-"",
-2.29,
-null,
-"Lebensmittel",
-""
-],
-[
-"Norma",
-"Ardilla Cashewkerne",
-"",
-2.49,
-null,
-"Süßes",
-""
-],
-[
-"Norma",
-"Landliebe Konfitüre",
-"",
-1.99,
-null,
-"Lebensmittel",
-""
-],
-[
-"Norma",
-"Bio Merlot",
-"0,75 l",
-2.6,
-null,
-"Getränke",
-""
-],
-[
-"Norma",
-"Reine Citronensäure",
-"",
-2.49,
-null,
-"Haushalt",
-""
-],
-[
-"Norma",
-"WC-Intensiv-Reiniger",
-"3er-Pack",
-2.95,
-null,
-"Haushalt",
-""
-],
-[
-"Norma",
-"Flanell-Bettwäsche",
-"",
-17.99,
-null,
-"Haushalt",
-""
-],
-[
-"Norma",
-"Entenkeulen-Pfanne",
-"",
-9.99,
-null,
-"Fleisch & Wurst",
-"−28 % lt. Prospekt",
-28
-],
-[
-"Norma",
-"Dreistern Rindfleisch",
-"400 g",
-3.99,
-null,
-"Fleisch & Wurst",
-"−20 % lt. Prospekt",
-20
-],
-[
-"Norma",
-"Kühne Rotkohl",
-"680 g",
-1.29,
-null,
-"Lebensmittel",
-"−41 % lt. Prospekt",
-41
-],
-[
-"Norma",
-"Maggi Wirtshaus Käse-Spätzle",
-"",
-1.19,
-null,
-"Lebensmittel",
-"−33 % lt. Prospekt",
-33
-],
-[
-"Norma",
-"Mondamin Milchreis / Grießbrei",
-"",
-0.99,
-null,
-"Lebensmittel",
-"−33 % lt. Prospekt",
-33
-],
-[
-"Norma",
-"Saupiquet Thunfisch-Salat",
-"2 × 160 g",
-3.99,
-null,
-"Lebensmittel",
-"−25 % lt. Prospekt",
-25
-],
-[
-"Norma",
-"Youcook Mango Chicken",
-"420 g",
-3.79,
-null,
-"Lebensmittel",
-"−20 % lt. Prospekt",
-20
-],
-[
-"Norma",
-"Weltenburger Klosterbier",
-"6 × 0,5 l",
-4.99,
-null,
-"Getränke",
-"−16 % lt. Prospekt, zzgl. Pfand",
-16
-],
-[
-"Jawoll",
-"Heinz HP BBQ Sauce",
-"400 ml",
-1.49,
-3.49,
-"Lebensmittel",
-""
-],
-[
-"Jawoll",
-"Twix Minis",
-"500 g",
-5.99,
-12.99,
-"Süßes",
-""
-],
-[
-"Jawoll",
-"Bergader Bergbauern Käse",
-"140 g",
-1.29,
-2.69,
-"Lebensmittel",
-""
-],
-[
-"Jawoll",
-"Milka Schokolade",
-"85–100 g",
-0.99,
-1.99,
-"Süßes",
-""
-],
-[
-"Jawoll",
-"Mövenpick Gourmet Frühstück",
-"250 g",
-1.49,
-2.99,
-"Lebensmittel",
-""
-],
-[
-"Jawoll",
-"Nestlé Minis",
-"148–185 g",
-1.99,
-3.79,
-"Süßes",
-""
-],
-[
-"Jawoll",
-"Hengstenberg Bio Rotkohl / Weißkraut",
-"350 g",
-0.79,
-1.49,
-"Lebensmittel",
-""
-],
-[
-"Jawoll",
-"Hawesta Thunfischfilets",
-"160 g",
-1.69,
-2.99,
-"Lebensmittel",
-""
-],
-[
-"Jawoll",
-"Speisekartoffeln",
-"5-kg-Sack",
-3.49,
-null,
-"Lebensmittel",
-""
-],
-[
-"Jawoll",
-"Äpfel",
-"2-kg-Beutel",
-1.99,
-null,
-"Lebensmittel",
-""
-],
-[
-"Jawoll",
-"Wiener oder Geflügel-Wiener",
-"",
-3.99,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Jawoll",
-"LED-Baum, 240 Lichter",
-"",
-14.99,
-null,
-"Deko",
-""
-],
-[
-"Jawoll",
-"Pfefferbeißer",
-"350 g",
-2.8,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Jawoll",
-"Fleischwurst am Stück",
-"750 g",
-2.99,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Jawoll",
-"Entenkeulen",
-"2 Stück, 500 g",
-4.99,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Jawoll",
-"Kasseler",
-"pro kg",
-9.99,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Jawoll",
-"Sauerfleisch",
-"500 g",
-5.29,
-null,
-"Fleisch & Wurst",
-""
-],
-[
-"Krümet",
-"Damen-Sweathoodie",
-"",
-9.95,
-59.95,
-"Mode",
-""
-],
-[
-"Krümet",
-"Herren-Trikot-Brush-Hose",
-"",
-7.95,
-34.95,
-"Mode",
-""
-],
-[
-"Krümet",
-"Damen-Pullover Weboptik",
-"",
-9.9,
-39.9,
-"Mode",
-""
-],
-[
-"Krümet",
-"LED-Flocke",
-"",
-2.99,
-9.9,
-"Deko",
-""
-],
-[
-"Krümet",
-"Milka Favourites",
-"",
-1.59,
-4.49,
-"Süßes",
-""
-],
-[
-"Krümet",
-"Herren-T-Shirts",
-"4er-Set",
-9.95,
-29.95,
-"Mode",
-""
-],
-[
-"Krümet",
-"Kunsttanne",
-"ca. 23 cm",
-1.99,
-4.98,
-"Deko",
-""
-],
-[
-"Krümet",
-"Benediktiner Festbier",
-"20 × 0,5 l",
-8.88,
-16.99,
-"Getränke",
-""
-],
-[
-"Krümet",
-"König Pilsener Radler",
-"6er-Pack",
-2.99,
-null,
-"Getränke",
-""
-]
-],
-"quellen": [
-[
-"Aldi Nord – aldi-nord.de Angebote",
-"https://www.aldi-nord.de/angebote.html"
-],
-[
-"Lidl – kaufDA Magazin",
-"https://www.kaufda.de/insights/lidl-prospekt-26-10-2026-xxl-deals-und-alles-fuer-eure-haustiere/"
-],
-[
-"Penny – kaufDA Lübeck",
-"https://www.kaufda.de/Luebeck/Penny-Markt/p-r75"
-],
-[
-"REWE – kaufDA Lübeck",
-"https://www.kaufda.de/Luebeck/REWE/p-r101"
-],
-[
-"Lidl – kaufDA",
-"https://www.kaufda.de/Geschaefte/Lidl"
-],
-[
-"Penny – kaufDA Magazin",
-"https://www.kaufda.de/insights/penny-prospekt-26-10-2026-griechische-woche-zum-sparpreis/"
-],
-[
-"Penny – prospektderwoche.de",
-"https://prospektderwoche.de/prospekt/penny-prospekt-26-10-2026-31-10-2026"
-],
-[
-"REWE – kaufDA Magazin",
-"https://www.kaufda.de/insights/rewe-prospekt-26-10-2026-auf-geht-s-richtung-halloween/"
-],
-[
-"REWE – meinprospekt.de",
-"https://www.meinprospekt.de/rewe-de"
-],
-[
-"Netto – rabatprospekt.de",
-"https://rabatprospekt.de/netto-marken-discount-prospekt-ab-26-10-2026-aktuelle-ab-montag-1/"
-],
-[
-"REWE – rabatprospekt.de",
-"https://rabatprospekt.de/rewe-ihr-kaufpark-prospekt-ab-26-10-2026-aktuelle-ab-montag-1/"
-],
-[
-"Netto – prospektwelten.com",
-"https://www.prospektwelten.com/netto-marken-discount-prospekt/"
-],
-[
-"Norma – prospektangebote.de",
-"https://www.prospektangebote.de/anzeigen/angebote/norma-prospekt-3855151"
-],
-[
-"Norma – kaufDA Magazin",
-"https://www.kaufda.de/insights/norma-prospekt-26-10-2026-mit-allen-highlights-im-ueberblick/"
-],
-[
-"Jawoll – prospektwelten.com",
-"https://www.prospektwelten.com/jawoll/"
-],
-[
-"Krümet – prospektwelten.com",
-"https://www.prospektwelten.com/kruemet-prospekt/"
-],
-[
-"Lidl – prospektwelten.com",
-"https://www.prospektwelten.com/lidl/"
-]
-],
-"img": {
-"Aldi Nord|Rinderhackfleisch XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1008973_44_2026_rindhackfleischxxl_02_on_151026_121243?wid=400&fmt=webp"
-},
-"Aldi Nord|Hähnchen-Innenfilets": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/3574_44_2026_haehncheninnenfilet400g_neu_on_151026_082213?wid=400&fmt=webp"
-},
-"Aldi Nord|Hähnchenbrustfilet-Teilstücke": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/8998_44_2026_haehnchenbrust_600g_on_151026_081022?wid=400&fmt=webp"
-},
-"Aldi Nord|Grobe Bratwurst XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/6783_44_2026_bratwurst_03_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Currystar Currywurst XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/6747_44_2026_currybockwurstxxl_01_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Rindergulasch XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1040067_44_2026_rind_gulasch_750g_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Pekingente": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/7843_44_2026_jungeente_01mithaltungsform_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Koch-Hinterschinken XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1008263_44_2026_kochhinterschinkenxxl_01_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Wiltmann Genießerteller": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1028816_45_2023_feinschmeckersalami_03_on_comp?wid=400&fmt=webp"
-},
-"Aldi Nord|Geflügelfrikadellen XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1038516_44_2026_gefluegelfrikadelle_xxl_600g_1_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Chicken Wings": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1035265_44_2026_chicken_fried_wings_750g_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Rinder-Rouladen XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1000843_44_2026_rind_rouladen_gewuerzt_xxl_800_g_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Geflügel-Wiener XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1038550_44_2026_gefluegel_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Salami XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1023464_44_2026_salamixxl_01_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Knusperrollbraten": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1035034_44_2026_knusperrollbraten_qs_kg_1_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Coca-Cola oder Zero": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1000302_44_2026_cocacola2l_01_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Fanta, Sprite oder Mezzo Mix": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1024877_44_2026_fantaspritemezzomixx_sprite_on_comp?wid=400&fmt=webp"
-},
-"Aldi Nord|Red Bull Energydrink": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1004898_44_2026_redbullclassic_01_on_061026_181353?wid=400&fmt=webp"
-},
-"Aldi Nord|Gerolsteiner Medium": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/7308_35_2026_gerolsteiner_medium_on_100826_184141?wid=400&fmt=webp"
-},
-"Aldi Nord|Jacobs Krönung": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1015157_14_2026_jacobskroenung_2024_on_120326_093451?wid=400&fmt=webp"
-},
-"Aldi Nord|Rotkäppchen Sekt": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1003366_34_2022_rotkaeppchentrocken_01_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Guinness Draught": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/7536_44_2026_guinness_irish_draught_4_x_044_l_1_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Speisekartoffeln": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/6104_18_2026_speisekartoffeln_on_081026_113348?wid=400&fmt=webp"
-},
-"Aldi Nord|Zwiebeln": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1022871_36_2026_zwiebeln_on_081026_113809?wid=400&fmt=webp"
-},
-"Aldi Nord|Bananen": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/6151_25_2026_bananen_bund_on_081026_115747?wid=400&fmt=webp"
-},
-"Aldi Nord|Leerdammer Käsescheiben": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1022666_20_2024_leerdammerscheibenkaesesortiert_original7s140g_on_comp?wid=400&fmt=webp"
-},
-"Aldi Nord|Weihenstephan Butter": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/9362_44_2026_weihenstephanbutter_01_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Babybel Mini": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1000865_45_2023_minibabybel_fs_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Actimel XXL": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1027751_44_2026_actimelxxl_01_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Dr. Oetker La Mia Grande": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1026528_44_2026_tk_dr_oetker_la_mia_grande_1_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Mövenpick Eis": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/7857_51_2023_moevenpickeis_02_on_comp?wid=400&fmt=webp"
-},
-"Aldi Nord|Lay's Chips": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1033875_44_2026_lays_gesalzen_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Haribo Fruchtgummi": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1021428_51_2023_haribogolbaeren_02_on_comp?wid=400&fmt=webp"
-},
-"Aldi Nord|Kinder Maxi King": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1004882_44_2026_kindermaxiking_01_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Celebrations": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1044886_44_2026_celebrations_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Ehrmann Grand Dessert": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1009614_51_2023_ehrmanngranddessert_vanille_on_comp?wid=400&fmt=webp"
-},
-"Aldi Nord|Persil Waschmittel": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/6728_44_2026_persiluniversalgel100wl_universal_on?wid=400&fmt=webp"
-},
-"Aldi Nord|Finello Reibekäse": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-05-768x1342.webp",
-"r": 1.7474,
-"b": [
-0.6836,
-0.5343,
-0.9661,
-0.6341
-]
-},
-"Aldi Nord|Rougette Ofenkäse": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-05-768x1342.webp",
-"r": 1.7474,
-"b": [
-0.375,
-0.5291,
-0.6589,
-0.62
-]
-},
-"Aldi Nord|Mentos": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-06-768x1342.webp",
-"r": 1.7474,
-"b": [
-0.6667,
-0.5343,
-0.9661,
-0.658
-]
-},
-"Aldi Nord|Pringles": {
-"u": "https://s7g10.scene7.com/is/image/aldinord/1019542_44_2026_pringles_185g_comp_061026_173609?wid=400&fmt=webp"
-},
-"Netto|Coca-Cola oder Zero": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0586,
-0.2797,
-0.5417,
-0.4935
-]
-},
-"Netto|Pringles": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp",
-"r": 1.401,
-"b": [
-0.375,
-0.6004,
-0.6081,
-0.8745
-]
-},
-"Netto|Südzucker Feiner Zucker": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp",
-"r": 1.401,
-"b": [
-0.7331,
-0.0353,
-0.9505,
-0.2556
-]
-},
-"Netto|Hofmaier Salami-Aufschnitt": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp",
-"r": 1.401,
-"b": [
-0.7083,
-0.2797,
-0.9089,
-0.4108
-]
-},
-"Netto|Rey Italienische Teigwaren": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp",
-"r": 1.401,
-"b": [
-0.7083,
-0.5,
-0.9336,
-0.6245
-]
-},
-"Netto|Lorenz Erdnuss Locken": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp",
-"r": 1.401,
-"b": [
-0.3997,
-0.1608,
-0.5586,
-0.3625
-]
-},
-"Netto|Puten-Geschnetzeltes": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0247,
-0.039,
-0.3372,
-0.1747
-]
-},
-"Netto|Hähnchen-Ministeaks": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp",
-"r": 1.401,
-"b": [
-0.3451,
-0.039,
-0.6628,
-0.1747
-]
-},
-"Netto|Bratwürste vom Schwein": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp",
-"r": 1.401,
-"b": [
-0.6706,
-0.039,
-0.987,
-0.1747
-]
-},
-"Netto|Bockwurst XXL": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0247,
-0.2853,
-0.25,
-0.4136
-]
-},
-"Netto|Münchner Weißwurst": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp",
-"r": 1.401,
-"b": [
-0.3503,
-0.2853,
-0.5794,
-0.4136
-]
-},
-"Netto|Krustenschinken": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp",
-"r": 1.401,
-"b": [
-0.6745,
-0.2853,
-0.862,
-0.4136
-]
-},
-"Netto|Schweine-Rücken": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0378,
-0.2407,
-0.513,
-0.4368
-]
-},
-"Netto|Kasseler Nacken": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp",
-"r": 1.401,
-"b": [
-0.6628,
-0.289,
-0.8945,
-0.4071
-]
-},
-"Netto|XXL Frikadellenbällchen": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp",
-"r": 1.401,
-"b": [
-0.138,
-0.5028,
-0.4245,
-0.6636
-]
-},
-"Netto|Meica Curry King": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0378,
-0.7351,
-0.25,
-0.8783
-]
-},
-"Netto|Schinken-Gulasch": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp",
-"r": 1.401,
-"b": [
-0.3451,
-0.7407,
-0.5195,
-0.8597
-]
-},
-"Lidl|Schweinefilet": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-10-1-768x1303.webp",
-"r": 1.6966,
-"b": [
-0.0195,
-0.5641,
-0.3372,
-0.6953
-]
-},
-"Lidl|Mini-Knusperchen Cornflakes XXL": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-10-1-768x1303.webp",
-"r": 1.6966,
-"b": [
-0.3451,
-0.5641,
-0.6549,
-0.6585
-]
-},
-"Lidl|Deluxe Lammlachse": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-10-1-768x1303.webp",
-"r": 1.6966,
-"b": [
-0.0195,
-0.7544,
-0.3372,
-0.8573
-]
-},
-"Lidl|Hähnchen-Knusperchen Cordon Bleu XXL": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.0195,
-0.5645,
-0.3372,
-0.6736
-]
-},
-"Lidl|Hähnchen-Geschnetzeltes": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.3581,
-0.563,
-0.6549,
-0.6667
-]
-},
-"Lidl|Veltins Pilsener Bierfass": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.7956,
-0.4793,
-0.9948,
-0.6713
-]
-},
-"Lidl|Ciabatta": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.0195,
-0.0853,
-0.3372,
-0.2181
-]
-},
-"Lidl|Celebrations": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.0521,
-0.5238,
-0.2214,
-0.6237
-]
-},
-"Jawoll|Pfefferbeißer": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.7422,
-0.2315,
-0.9661,
-0.3799
-]
-},
-"Jawoll|Fleischwurst am Stück": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.6328,
-0.4124,
-0.75,
-0.5948
-]
-},
-"Jawoll|Entenkeulen": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.4961,
-0.2315,
-0.7135,
-0.3502
-]
-},
-"Jawoll|Kasseler": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.7461,
-0.644,
-0.9753,
-0.7113
-]
-},
-"Jawoll|Sauerfleisch": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.0417,
-0.4124,
-0.2331,
-0.4986
-]
-},
-"Netto|Chicken Wings Box": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-18-768x1076.webp",
-"r": 1.401,
-"b": [
-0.7031,
-0.7361,
-0.9531,
-0.8745
-]
-},
-"Krümet|König Pilsener Radler": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp",
-"r": 1.4141,
-"b": [
-0.1966,
-0.163,
-0.3333,
-0.2311
-]
-},
-"Lidl|Lupilu Holz-Küche": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.5013,
-0.7949,
-0.6576,
-0.8986
-]
-},
-"Netto|Hähnchen-Brustfilet, mager": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0339,
-0.1543,
-0.3581,
-0.303
-]
-},
-"Netto|Salatgurke": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0339,
-0.3922,
-0.2747,
-0.5
-]
-},
-"Netto|Grünländer Scheiben": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0417,
-0.5948,
-0.2747,
-0.7556
-]
-},
-"Netto|Milka Schokolade": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp",
-"r": 1.401,
-"b": [
-0.5,
-0.6543,
-0.8333,
-0.7491
-]
-},
-"Netto|Philadelphia Frischkäse": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-06-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0417,
-0.5948,
-0.4245,
-0.8569
-]
-},
-"Netto|Bauer Fruchtjoghurt": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-06-768x1076.webp",
-"r": 1.401,
-"b": [
-0.5169,
-0.5948,
-0.9661,
-0.8569
-]
-},
-"Netto|Schweine-Schnitzel": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-06-768x1076.webp",
-"r": 1.401,
-"b": [
-0.0339,
-0.2435,
-0.5,
-0.4461
-]
-},
-"Jawoll|Bergader Bergbauern Käse": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.5,
-0.0369,
-0.6862,
-0.1592
-]
-},
-"Jawoll|Wiener oder Geflügel-Wiener": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.2839,
-0.4168,
-0.5586,
-0.5051
-]
-},
-"Jawoll|Speisekartoffeln": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.4167,
-0.7967,
-0.5964,
-0.8907
-]
-},
-"Jawoll|Äpfel": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.0417,
-0.7967,
-0.2201,
-0.8907
-]
-},
-"Jawoll|Twix Minis": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.75,
-0.0557,
-0.9466,
-0.178
-]
-},
-"Jawoll|Nestlé Minis": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.0417,
-0.2453,
-0.2695,
-0.3726
-]
-},
-"Jawoll|Mövenpick Gourmet Frühstück": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.5495,
-0.259,
-0.7461,
-0.3632
-]
-},
-"Jawoll|Heinz HP BBQ Sauce": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.3529,
-0.4146,
-0.5039,
-0.5557
-]
-},
-"Jawoll|Hawesta Thunfischfilets": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.5078,
-0.4168,
-0.737,
-0.5391
-]
-},
-"Jawoll|Hengstenberg Bio Rotkohl / Weißkraut": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp",
-"r": 1.7995,
-"b": [
-0.2747,
-0.5926,
-0.5039,
-0.7149
-]
-},
-"Krümet|Benediktiner Festbier": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp",
-"r": 1.4141,
-"b": [
-0.0365,
-0.2219,
-0.1966,
-0.3444
-]
-},
-"Krümet|Milka Favourites": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp",
-"r": 1.4141,
-"b": [
-0.0365,
-0.3444,
-0.1862,
-0.4098
-]
-},
-"Krümet|Kunsttanne": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp",
-"r": 1.4141,
-"b": [
-0.7005,
-0.477,
-0.9701,
-0.6363
-]
-},
-"Krümet|Damen-Sweathoodie": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp",
-"r": 1.4154,
-"b": [
-0.4701,
-0.3827,
-0.8333,
-0.7065
-]
-},
-"Krümet|Herren-Trikot-Brush-Hose": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp",
-"r": 1.4154,
-"b": [
-0.1589,
-0.6219,
-0.4245,
-0.9476
-]
-},
-"Krümet|Damen-Pullover Weboptik": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp",
-"r": 1.4154,
-"b": [
-0.1003,
-0.0414,
-0.8255,
-0.3477
-]
-},
-"Krümet|Herren-T-Shirts": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp",
-"r": 1.4154,
-"b": [
-0.0638,
-0.3652,
-0.4531,
-0.5943
-]
-},
-"Krümet|LED-Flocke": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp",
-"r": 1.4154,
-"b": [
-0.6471,
-0.7203,
-0.9701,
-0.9328
-]
-},
-"Norma|Saupiquet Thunfisch-Salat": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"r": 1.569,
-"b": [
-0.0169,
-0.083,
-0.3372,
-0.2249
-]
-},
-"Norma|Youcook Mango Chicken": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"r": 1.569,
-"b": [
-0.6745,
-0.083,
-0.9948,
-0.2075
-]
-},
-"Norma|Maggi Wirtshaus Käse-Spätzle": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"r": 1.569,
-"b": [
-0.0169,
-0.2423,
-0.3372,
-0.4124
-]
-},
-"Norma|Kühne Rotkohl": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"r": 1.569,
-"b": [
-0.3411,
-0.2531,
-0.6615,
-0.4124
-]
-},
-"Norma|Entenkeulen-Pfanne": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"r": 1.569,
-"b": [
-0.6745,
-0.2954,
-0.9948,
-0.4166
-]
-},
-"Norma|Mondamin Milchreis / Grießbrei": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"r": 1.569,
-"b": [
-0.6745,
-0.4548,
-0.9948,
-0.5967
-]
-},
-"Norma|Weltenburger Klosterbier": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"r": 1.569,
-"b": [
-0.6745,
-0.6349,
-0.9948,
-0.7992
-]
-},
-"Norma|Dreistern Rindfleisch": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"r": 1.569,
-"b": [
-0.3411,
-0.6349,
-0.6615,
-0.7668
-]
-},
-"Lidl|Hohes C Saft": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.0195,
-0.2803,
-0.1979,
-0.4624
-]
-},
-"Lidl|Chef Select Chili-Cheese Nuggets XXL": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.5729,
-0.0576,
-0.9961,
-0.3226
-]
-},
-"Lidl|Dulano Putenbrust XXL": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.4297,
-0.1959,
-0.7448,
-0.3856
-]
-},
-"Lidl|Milbona Kondensmilch XXL": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.6185,
-0.3748,
-0.8359,
-0.5315
-]
-},
-"Lidl|Silvercrest Edelstahl-Pfanne": {
-"u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp",
-"r": 1.6953,
-"b": [
-0.7005,
-0.8003,
-0.974,
-0.8733
-]
-},
-"REWE|Wiener Würstchen": {
-"u": "https://content-media.bonial.biz/a272c571-428a-4f18-b7bb-ecdc9f38ed98/2b351baf-6ed4-4ea9-b5cc-516be4890e41.jpg"
-},
-"REWE|Ristorante Pizza Salame": {
-"u": "https://content-media.bonial.biz/935ed7d7-58bc-4f65-a9d6-25a5ecdde216/ca7624a8-b0ed-434e-ace5-0da5428f5c52.jpg"
-},
-"REWE|funny-frisch Ofen Chips": {
-"u": "https://content-media.bonial.biz/6ba4613f-3389-43c6-8736-a7053f7da466/778cf8bf-ce0d-41cd-9f6d-42d091160d60.jpg"
-},
-"REWE|Storck Knoppers": {
-"u": "https://content-media.bonial.biz/8e00632f-8a42-453b-8855-741e1d3d2eb9/c04912b9-0399-4713-8b0f-21c4cfd62fcb.jpg"
-},
-"REWE|Müller Grießpudding / Milchreis": {
-"u": "https://content-media.bonial.biz/f841e505-1807-41b7-ad0e-df0c3bf428ff/55280bec-ba06-4b3b-8796-99531406b5f9.jpg"
-},
-"REWE|Celebrations / Snickers Minis": {
-"u": "https://content-media.bonial.biz/183ceb4a-d567-40ea-b76f-d682fbb67b21/b0fd0806-e1cc-42fb-b27f-72c15183a63b.jpg"
-},
-"REWE|Apfelringe": {
-"u": "https://content-media.bonial.biz/8cd11f0b-c419-4eac-8454-c74126c789db/c5b3b983-a6a2-4392-9297-d9420a2c06e4.jpg"
-},
-"REWE|Smarties Minis": {
-"u": "https://content-media.bonial.biz/e62fef15-24bd-4f13-b917-8e3ee8f37658/5a6dcc54-6c05-435a-ab9d-03c0455a432a.jpg"
-},
-"REWE|Duplo": {
-"u": "https://content-media.bonial.biz/86fed33b-6717-471f-bcc3-b341c02e5a05/890d01f4-ff5b-47d7-beea-9e4f3553424e.jpg"
-},
-"REWE|Haribo Fruchtgummi Minis Starmix": {
-"u": "https://content-media.bonial.biz/54557b14-7f90-48e5-bedb-389b85467b23/f322ef68-6485-4d4b-a01f-972d4e80491e.jpg"
-},
-"REWE|Würstchen Frankfurter Art": {
-"u": "https://content-media.bonial.biz/e22090f6-1200-4870-bb80-bb59bdaba63e/0d35d9eb-5df5-4483-a08d-f8901f128670.jpg"
-},
-"Penny|Zitronen": {
-"u": "https://content-media.bonial.biz/926f0b20-439b-4cb4-b2d2-19979628ba39/832c5dce-16bf-4a50-8786-62c54f67867c.jpg"
-},
-"Penny|Rotkäppchen Sekt": {
-"u": "https://content-media.bonial.biz/a1e15de8-56c0-4b19-8a15-77fa56a2ce73/bfe16eeb-85e1-436e-81a1-b745db95f690.jpg"
-},
-"Penny|Ariel Universal Pulver": {
-"u": "https://content-media.bonial.biz/b9339c3b-4e0a-4d47-9613-1ccb8d61cb8b/4dedd637-1318-41d2-9cf7-dc2079ee6468.jpg"
-},
-"Penny|Coca-Cola, Fanta oder Sprite": {
-"u": "https://content-media.bonial.biz/1b4cb2c1-de78-4564-b3e8-13b30406bcd8/8589a6d0-f481-41e5-8e7c-4858df4ffef0.jpg"
-},
-"Penny|Pringles": {
-"u": "https://content-media.bonial.biz/79c83a0b-c12c-4c1a-993d-0f11df81521c/18b0a4a7-2ad4-4725-a59a-77c69844f6a6.jpg"
-},
-"Penny|Clementinen": {
-"u": "https://content-media.bonial.biz/ce23fb38-9d3b-42f6-a31d-40dfd8a73b1b/b8377136-fada-4ed0-8fba-c58ae65d29bd.jpg"
-},
-"Penny|Weiße Champignons": {
-"u": "https://content-media.bonial.biz/6a335ac9-e1dd-4646-9f63-7eee5734da89/e518fe56-d8eb-4459-ab98-05defcc7fdda.jpg"
-},
-"Penny|Quarkbällchen": {
-"u": "https://content-media.bonial.biz/3edb78a5-92e8-4d91-a2d4-49fee8799350/2efafa04-8ecf-4a0d-977e-60c1c7002c84.jpg"
-},
-"Penny|Knusperstange mit Hähnchen": {
-"u": "https://content-media.bonial.biz/ec360a64-7953-4ad5-80b2-2331f5af6d3d/c0c10055-24ad-4899-8790-f9c0ca39857e.jpg"
-},
-"Penny|Honigpomelo": {
-"u": "https://content-media.bonial.biz/ff55e0ae-83a5-488d-a3f8-39b33110954f/20807c3c-b9fa-4d49-8fd7-4d4c6fd61b34.jpg"
-}
-},
-"ts": 1793303135,
-"pages": {
-"Aldi Nord": [
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-01-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-02-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-03-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-04-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-05-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-06-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-07-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-08-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-09-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-10-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-11-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-12-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-13-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-14-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-15-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-16-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-17-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-18-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-19-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-20-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-21-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-22-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-23-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-24-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-25-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-26-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-27-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-28-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-29-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-30-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-31-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-32-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-33-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-34-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-35-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-36-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-37-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-38-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-39-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-40-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-41-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-42-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-43-768x1356.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-44-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-45-768x1342.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/09/aldi-nord-prospekt-ab-26-10-2026-kw44-seite-46-768x1188.webp"
-],
-"Lidl": [
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-01-1-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-02-1-768x1300.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-03-1-768x1301.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-04-1-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-05-1-768x1301.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-06-1-768x1301.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-07-1-768x1184.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-08-1-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-09-1-768x1184.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-10-1-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-11-1-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-12-1-768x1300.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-13-1-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-14-1-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-15-1-768x1184.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-16-1-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-17-1-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-18-1-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-19-1-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-20-768x1301.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-21-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-22-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-23-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-24-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-25-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-26-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-27-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-28-768x1300.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-29-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-30-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-31-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-32-768x1301.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-33-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-34-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-35-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-36-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-37-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-38-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-39-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-40-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-41-768x1184.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-42-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-43-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-44-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-45-768x1301.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-46-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-47-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-48-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-49-768x1184.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-50-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-51-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-52-768x1302.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-53-768x1303.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/lidl-prospekt-ab-26-10-2026-kw44-seite-54-768x1303.webp"
-],
-"Netto": [
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-01-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-02-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-03-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-04-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-05-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-06-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-07-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-08-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-09-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-10-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-11-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-12-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-13-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-14-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-15-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-16-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-17-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-18-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-19-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-20-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-21-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-22-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-23-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-24-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-25-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-26-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-27-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-28-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-29-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-30-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-31-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-32-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-33-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-34-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-35-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-36-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-37-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-38-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-39-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-40-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-41-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-42-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-43-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-44-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-45-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-46-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-47-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-48-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-49-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-50-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-51-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-52-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-53-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-54-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-55-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-56-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-57-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-58-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-59-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-60-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-61-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-62-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-63-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-64-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-65-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-66-768x1076.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-26-10-2026-kw44-seite-67-768x1076.webp"
-],
-"Norma": [
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-01-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-02-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-03-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-04-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-05-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-06-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-07-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-08-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-09-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-10-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-11-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-12-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-13-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-14-768x1205.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-15-768x1160.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-16-768x1160.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-17-768x1160.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-18-768x1160.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-19-768x1229.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-20-768x1084.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-21-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-22-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-23-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-24-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-25-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-26-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-prospekt-ab-26-10-2026-kw44-seite-27-768x1087.webp"
-],
-"Jawoll": [
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-01-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-02-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-03-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-04-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-05-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-06-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-07-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-08-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-09-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-10-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-11-768x1382.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-26-10-2026-kw44-seite-12-768x1382.webp"
-],
-"Krümet": [
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-1-768x1086.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-2-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-3-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-4-768x1087.webp",
-"https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-26-10-2026-kw44-seite-5-768x1087.webp"
-]
-}
+ "kw": "KW 45",
+ "feiertag": "",
+ "von": "02.11.2026",
+ "bis": "07.11.2026",
+ "stand": "01.11.2026",
+ "naechstes": "Freitag, 06.11.2026 (Angebote ab 09.11.)",
+ "stores": {
+  "Aldi Nord": {
+   "gilt": "02.11.–07.11.",
+   "hinweis": "Viele Angebote erst ab Do 05.11."
+  },
+  "Lidl": {
+   "gilt": "02.11.–07.11.",
+   "hinweis": "Teils nur mit Lidl Plus"
+  },
+  "Penny": {
+   "gilt": "02.11.–07.11.",
+   "hinweis": "Teils nur mit PENNY App; Preise können regional abweichen"
+  },
+  "REWE": {
+   "gilt": "02.11.–07.11.",
+   "hinweis": "Preise je Region und Markt verschieden"
+  },
+  "Netto": {
+   "gilt": "02.11.–07.11.",
+   "hinweis": "Netto Marken-Discount; einige Angebote ab Do 05.11."
+  },
+  "Norma": {
+   "gilt": "02.11.–07.11.",
+   "hinweis": "Wochenend-Spezial ab Fr 06.11."
+  },
+  "Jawoll": {
+   "gilt": "02.11.–07.11.",
+   "hinweis": "Grootkoppel 4–6, 23566 Lübeck"
+  },
+  "Krümet": {
+   "gilt": "02.11.–07.11.",
+   "hinweis": "Im Gleisdreieck 19A, 23566 Lübeck"
+  }
+ },
+ "items": [
+  [
+   "Lidl",
+   "Rinder-Hackfleisch",
+   "500 g",
+   4.69,
+   4.99,
+   "Fleisch & Wurst",
+   "mit Lidl Plus"
+  ],
+  [
+   "Lidl",
+   "Deluxe Lamm-Filets",
+   "ca. 499 g",
+   13.97,
+   14.97,
+   "Fleisch & Wurst",
+   "mit Lidl Plus; kg 29,99 €"
+  ],
+  [
+   "Lidl",
+   "Schweine-Schälrippe",
+   "pro kg",
+   3.49,
+   3.99,
+   "Fleisch & Wurst",
+   "mit Lidl Plus"
+  ],
+  [
+   "Lidl",
+   "Norwegische Lachsfilet-Portionen XXL",
+   "1 kg",
+   15.99,
+   null,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Lidl",
+   "Südamerikanisches Rindersteak",
+   "z. B. 299 g",
+   3.89,
+   5.23,
+   "Fleisch & Wurst",
+   "mit Lidl Plus; kg 12,99 €"
+  ],
+  [
+   "Lidl",
+   "Hähnchen-Unterkeulen",
+   "1 kg",
+   4.39,
+   5.59,
+   "Fleisch & Wurst",
+   "mit Lidl Plus"
+  ],
+  [
+   "Lidl",
+   "Hähnchen-Brustfilets",
+   "600 g",
+   5.19,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Lidl",
+   "Putenbrustfilet",
+   "1 kg",
+   8.29,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Lidl",
+   "Pom-Bär",
+   "75 g",
+   0.88,
+   1.79,
+   "Süßes",
+   ""
+  ],
+  [
+   "Lidl",
+   "Giovanni Rana Pasta Maxipack",
+   "500 g",
+   3.49,
+   6.99,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Mövenpick Der Himmlische",
+   "500 g",
+   5.99,
+   9.69,
+   "Getränke",
+   "UVP, gemahlen"
+  ],
+  [
+   "Lidl",
+   "Babybel",
+   "10er-Netz",
+   2.89,
+   4.79,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Wagner Die Backfrische / Big City Pizza",
+   "350–430 g",
+   1.99,
+   3.69,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Ben & Jerry's Eis",
+   "465 ml",
+   3.99,
+   6.99,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Ehrmann Almighurt",
+   "150 g",
+   0.39,
+   0.89,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Philadelphia",
+   "150–195 g",
+   1.11,
+   2.29,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Lidl",
+   "Barilla Pasta",
+   "500 g",
+   0.99,
+   1.99,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Barilla Pesto",
+   "190–200 g",
+   1.99,
+   3.49,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Nestlé KitKat / Lion",
+   "150–166 g",
+   1.79,
+   2.99,
+   "Süßes",
+   "mit Lidl Plus"
+  ],
+  [
+   "Lidl",
+   "Pringles",
+   "185 g",
+   1.69,
+   2.79,
+   "Süßes",
+   "mit Lidl Plus"
+  ],
+  [
+   "Lidl",
+   "Tomato al Gusto Tomatensauce",
+   "390 g",
+   1.29,
+   2.49,
+   "Lebensmittel",
+   "mit Lidl Plus"
+  ],
+  [
+   "Lidl",
+   "Emmi Caffè Latte",
+   "230 ml",
+   1.39,
+   2.49,
+   "Getränke",
+   ""
+  ],
+  [
+   "Lidl",
+   "Arla Skyr",
+   "450 g",
+   1.49,
+   1.99,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Grant's Triple Wood Whisky",
+   "0,7 l",
+   9.99,
+   null,
+   "Getränke",
+   "Aktion"
+  ],
+  [
+   "Lidl",
+   "Müller Reine Buttermilch",
+   "500 g",
+   0.59,
+   0.99,
+   "Lebensmittel",
+   "UVP, zzgl. Pfand"
+  ],
+  [
+   "Lidl",
+   "Captain Cook's Original Rum",
+   "0,7 l",
+   5.29,
+   6.49,
+   "Getränke",
+   "ganzer November"
+  ],
+  [
+   "Lidl",
+   "Kinder Mix Geschenktüte",
+   "193 g",
+   5.99,
+   null,
+   "Süßes",
+   ""
+  ],
+  [
+   "Lidl",
+   "Dulano Delikatess Edelsalami XXL",
+   "170 g",
+   1.39,
+   null,
+   "Fleisch & Wurst",
+   "−11 % ggü. Standardpackung",
+   11
+  ],
+  [
+   "Lidl",
+   "Dulano Bayerischer Mini-Leberkäse XXL",
+   "450/500 g",
+   3.49,
+   null,
+   "Fleisch & Wurst",
+   "−19 % ggü. Standardpackung",
+   19
+  ],
+  [
+   "Lidl",
+   "Dulano Frikadellen",
+   "600 g",
+   2.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Lidl",
+   "Dulano Delikatess Wiener Würstchen XXL",
+   "500 g",
+   2.99,
+   null,
+   "Fleisch & Wurst",
+   "−17 % ggü. Standardpackung",
+   17
+  ],
+  [
+   "Lidl",
+   "Kong Strong Energy Drink XXL",
+   "0,5 l",
+   0.49,
+   null,
+   "Getränke",
+   "zzgl. Pfand"
+  ],
+  [
+   "Lidl",
+   "Milbona Gouda Jung XXL",
+   "1 kg",
+   5.49,
+   null,
+   "Lebensmittel",
+   "−10 % ggü. Standardpackung",
+   10
+  ],
+  [
+   "Lidl",
+   "Milbona Mozzarella XXL",
+   "250 g",
+   1.49,
+   null,
+   "Lebensmittel",
+   "−12 % ggü. Standardpackung",
+   12
+  ],
+  [
+   "Lidl",
+   "Chef Select Chicken Nuggets XXL",
+   "1,2 kg",
+   7.49,
+   null,
+   "Fleisch & Wurst",
+   "−10 % ggü. Standardpackung",
+   10
+  ],
+  [
+   "Lidl",
+   "Dulano Kochschinken / Geflügelbrust XXL",
+   "400 g",
+   4.49,
+   null,
+   "Fleisch & Wurst",
+   "−15 % ggü. Standardpackung",
+   15
+  ],
+  [
+   "Lidl",
+   "Chef Select Chicken Wings XXL",
+   "1 kg",
+   4.99,
+   null,
+   "Fleisch & Wurst",
+   "−16 % ggü. Standardpackung",
+   16
+  ],
+  [
+   "Lidl",
+   "Trattoria Alfredo Steinofenpizza Edelsalami XXL",
+   "4 × 350 g",
+   4.69,
+   null,
+   "Lebensmittel",
+   "−11 % ggü. Standardpackung",
+   11
+  ],
+  [
+   "Lidl",
+   "Jules Mumm Sekt",
+   "0,75 l",
+   3.79,
+   5.49,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Granini Enjoy / Mix-it",
+   "0,75 l",
+   1.39,
+   2.69,
+   "Getränke",
+   "UVP, zzgl. Pfand"
+  ],
+  [
+   "Lidl",
+   "Milka Tafelschokolade",
+   "250–300 g",
+   2.59,
+   4.99,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Lidl",
+   "Christkindl Glühwein",
+   "1 l",
+   1.99,
+   null,
+   "Getränke",
+   ""
+  ],
+  [
+   "Lidl",
+   "Glühwein rot",
+   "1,5 l",
+   2.19,
+   null,
+   "Getränke",
+   ""
+  ],
+  [
+   "Netto",
+   "Hähnchen-Innenfilet XXL",
+   "800 g",
+   6.99,
+   8.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Lavazza Crema e Aroma ganze Bohnen",
+   "1 kg",
+   12.99,
+   19.99,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Landliebe Butter oder Streichzart",
+   "250 g",
+   0.99,
+   2.59,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Pfanni Speisekartoffeln",
+   "2,5 kg",
+   2.49,
+   3.29,
+   "Lebensmittel",
+   "2,29 € mit App"
+  ],
+  [
+   "Netto",
+   "Persil Waschmittel",
+   "76–100 WL",
+   16.99,
+   27.99,
+   "Haushalt",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Müller Joghurt mit der Ecke",
+   "113–150 g",
+   0.33,
+   0.89,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Hacker-Pschorr Münchner Hell / Kapuziner Weißbier",
+   "20 × 0,5 l",
+   11.99,
+   15.99,
+   "Getränke",
+   "statt 15,99–20,49 €, zzgl. 4,50 € Pfand"
+  ],
+  [
+   "Netto",
+   "Ferrero Rocher",
+   "200 g",
+   2.66,
+   4.79,
+   "Süßes",
+   "mit Payback; sonst 4,79 €"
+  ],
+  [
+   "Netto",
+   "Fol Epi Käse",
+   "90–150 g",
+   1.49,
+   2.69,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Netto",
+   "Hofmaier Wiener Würstchen XXL",
+   "1000 g",
+   5.49,
+   6.49,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Lorenz Crunchips oder NicNacs",
+   "2 × 110–175 g",
+   2.0,
+   3.98,
+   "Süßes",
+   "2 für 2 €"
+  ],
+  [
+   "Netto",
+   "Valdo Prosecco Superiore DOCG",
+   "0,75 l",
+   7.99,
+   10.99,
+   "Getränke",
+   ""
+  ],
+  [
+   "Netto",
+   "Lindt Lindor Pralinenkugeln",
+   "375 g",
+   7.99,
+   10.99,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "StarDrink Cola",
+   "1,5 l",
+   0.39,
+   0.49,
+   "Getränke",
+   "zzgl. Pfand"
+  ],
+  [
+   "Netto",
+   "Gulasch vom Rind XXL",
+   "750 g",
+   9.99,
+   12.9,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Suppenfleisch vom Rind",
+   "500 g",
+   6.49,
+   7.79,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Hähnchen-Oberkeulensteaks",
+   "400 g",
+   2.99,
+   3.79,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Bayerische Puten-Ministeaks",
+   "400 g",
+   4.29,
+   4.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Hackfleisch gemischt",
+   "500 g",
+   3.49,
+   4.49,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Schweine-Schälrippen",
+   "pro kg",
+   3.99,
+   4.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Schweine-Bauch",
+   "pro kg",
+   4.99,
+   6.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Schweine-Minutensteaks",
+   "400 g",
+   2.39,
+   2.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Almaufschnitt",
+   "120 g",
+   1.99,
+   2.29,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Netto",
+   "Mini Salami Classic",
+   "5 × 25 g",
+   1.69,
+   1.89,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Netto",
+   "Hofmaier Rinder-Burger / Chicken-Burger / Hot-Dog",
+   "2 × 100–150 g",
+   2.49,
+   2.79,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Mini Jamón Serrano Schinken",
+   "950 g",
+   19.99,
+   24.99,
+   "Fleisch & Wurst",
+   "mit Holzständer und Messer"
+  ],
+  [
+   "Netto",
+   "Karlsberg Mixery",
+   "0,5 l",
+   1.0,
+   1.29,
+   "Getränke",
+   "zzgl. Pfand"
+  ],
+  [
+   "Netto",
+   "Capri-Sun",
+   "10 × 0,2 l",
+   3.49,
+   4.29,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Oberbräu Hell oder Alkoholfrei",
+   "20 × 0,5 l",
+   14.99,
+   18.99,
+   "Getränke",
+   "zzgl. 3,10 € Pfand"
+  ],
+  [
+   "Netto",
+   "Nutella oder Kinder Bueno Eisbecher",
+   "455–470 ml",
+   3.99,
+   5.49,
+   "Süßes",
+   ""
+  ],
+  [
+   "Netto",
+   "Maggi Saucen",
+   "2–3 × 250 ml",
+   0.89,
+   1.59,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Netto",
+   "Erdinger Weißbier",
+   "20 × 0,5 l",
+   14.99,
+   20.99,
+   "Getränke",
+   "UVP, zzgl. 3,10 € Pfand"
+  ],
+  [
+   "Netto",
+   "Turmbläser Landbier",
+   "20 × 0,5 l",
+   10.99,
+   13.99,
+   "Getränke",
+   "zzgl. 4,50 € Pfand"
+  ],
+  [
+   "Netto",
+   "Adelholzener Mineralwasser",
+   "12 × 1 l",
+   6.49,
+   8.49,
+   "Getränke",
+   "UVP, zzgl. 4,80 € Pfand"
+  ],
+  [
+   "Netto",
+   "Weltenburger Winter-Traum",
+   "6 × 0,5 l",
+   4.99,
+   null,
+   "Getränke",
+   "zzgl. Pfand"
+  ],
+  [
+   "Netto",
+   "Tafelspitz vom Irischen Weiderind",
+   "100 g",
+   1.29,
+   1.79,
+   "Fleisch & Wurst",
+   "ab Donnerstag; kg 12,90 €"
+  ],
+  [
+   "Netto",
+   "Augustiner Lagerbier Hell",
+   "20 × 0,5 l",
+   16.99,
+   18.99,
+   "Getränke",
+   "ab Donnerstag, zzgl. 3,10 € Pfand"
+  ],
+  [
+   "Netto",
+   "Kinder Schokolade / Yogurette",
+   "100–125 g",
+   1.29,
+   1.69,
+   "Süßes",
+   "ab Donnerstag"
+  ],
+  [
+   "Netto",
+   "Finish Geschirrspültabs",
+   "38–43 WL",
+   6.99,
+   7.99,
+   "Haushalt",
+   "ab Donnerstag; 5,99 € mit App"
+  ],
+  [
+   "Norma",
+   "Schweinebauch mit Knochen und Schwarte",
+   "pro kg",
+   4.99,
+   null,
+   "Fleisch & Wurst",
+   "ab Mo erhältlich (Wochenend-Spezial)"
+  ],
+  [
+   "Norma",
+   "Hähnchen Pollo Fino",
+   "800 g",
+   6.49,
+   null,
+   "Fleisch & Wurst",
+   "−13 % lt. Prospekt",
+   13
+  ],
+  [
+   "Norma",
+   "Hähnchen Ministeaks",
+   "800 g",
+   6.99,
+   null,
+   "Fleisch & Wurst",
+   "ab Mo erhältlich"
+  ],
+  [
+   "Norma",
+   "Hackfleisch gemischt",
+   "1 kg",
+   6.99,
+   null,
+   "Fleisch & Wurst",
+   "−22 % lt. Prospekt",
+   22
+  ],
+  [
+   "Norma",
+   "Kerrygold Extra XXL",
+   "400 g",
+   1.99,
+   null,
+   "Lebensmittel",
+   "−62 % lt. Prospekt, ab Freitag",
+   62
+  ],
+  [
+   "Norma",
+   "Danone Activia XXL",
+   "8 × 115 g",
+   2.99,
+   null,
+   "Lebensmittel",
+   "−44 % lt. Prospekt, ab Freitag; 2,79 € mit Norma Plus",
+   44
+  ],
+  [
+   "Norma",
+   "Tempelburger Matjesfilethappen",
+   "500 g",
+   4.79,
+   5.39,
+   "Lebensmittel",
+   "UVP, ab Freitag"
+  ],
+  [
+   "Norma",
+   "Chio Red Paprika Chips",
+   "175 g",
+   1.29,
+   1.99,
+   "Süßes",
+   "UVP; 0,99 € mit Norma Plus"
+  ],
+  [
+   "Norma",
+   "Gut Langenhof Chicken Pops XXL",
+   "800 g",
+   5.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Norma",
+   "Femeg Die Fischkiste",
+   "700 g",
+   7.99,
+   8.99,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Norma",
+   "TUC Cracker",
+   "3 × 100 g",
+   1.99,
+   2.99,
+   "Süßes",
+   "1,79 € mit Norma Plus"
+  ],
+  [
+   "Norma",
+   "Storck Mini Dickmann's Schoko Trio",
+   "200 g",
+   1.59,
+   2.29,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Norma",
+   "Gut Langenhof Puten-Filetstreifen",
+   "800 g",
+   8.79,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Norma",
+   "Stolle Chicken Tulips BBQ",
+   "800 g",
+   6.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Norma",
+   "Gut Bartenhof Nussschinken XXL",
+   "250 g",
+   2.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Norma",
+   "Hella Mineralwasser",
+   "6 × 0,75 l",
+   3.49,
+   5.1,
+   "Getränke",
+   "UVP, zzgl. Pfand"
+  ],
+  [
+   "Norma",
+   "Knorr Jäger Soße / Soße zu Braten",
+   "2–2,75 l",
+   2.49,
+   2.89,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Norma",
+   "Camelion Batterien Plus Alkaline",
+   "24 Stück",
+   5.55,
+   9.99,
+   "Haushalt",
+   "UVP"
+  ],
+  [
+   "Norma",
+   "Kultur-Heidelbeeren",
+   "300 g",
+   3.33,
+   null,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Norma",
+   "Premium Speisekartoffeln",
+   "2,5 kg",
+   3.49,
+   null,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Norma",
+   "Stroh Rum 80",
+   "0,5 l",
+   12.99,
+   16.99,
+   "Getränke",
+   "UVP, ab Freitag"
+  ],
+  [
+   "Norma",
+   "Sheba Katzennassnahrung",
+   "60 × 85 g",
+   21.99,
+   null,
+   "Tier",
+   "−31 % lt. Prospekt, ab Freitag",
+   31
+  ],
+  [
+   "Norma",
+   "Jameson Irish Whiskey",
+   "0,7 l",
+   14.99,
+   21.99,
+   "Getränke",
+   "UVP, ab Freitag"
+  ],
+  [
+   "Norma",
+   "Metaxa 5 Sterne",
+   "0,7 l",
+   9.99,
+   15.99,
+   "Getränke",
+   "UVP, ab Freitag"
+  ],
+  [
+   "Norma",
+   "Berentzen Wintercream Likör",
+   "0,7 l",
+   6.99,
+   9.99,
+   "Getränke",
+   "UVP, ab Freitag"
+  ],
+  [
+   "Norma",
+   "Bertolli Olivenöl",
+   "500 ml",
+   5.99,
+   7.99,
+   "Lebensmittel",
+   "UVP, ab Freitag; 4,99 € mit Norma Plus"
+  ],
+  [
+   "Jawoll",
+   "Schweinebruchschnitzel paniert",
+   "1000 g",
+   5.55,
+   null,
+   "Fleisch & Wurst",
+   "tiefgekühlt"
+  ],
+  [
+   "Jawoll",
+   "Serrano-Schinken",
+   "400 g",
+   6.99,
+   8.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Schinken (Bauern- / Schwarzwälder)",
+   "z. B. 400 g",
+   3.6,
+   null,
+   "Fleisch & Wurst",
+   "kg 8,99 €"
+  ],
+  [
+   "Jawoll",
+   "Aufschnitt",
+   "200 g",
+   1.69,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Jawoll",
+   "Fingerfood (Chili Cheese Nuggets, Camembert Bites)",
+   "1000 g",
+   4.99,
+   null,
+   "Lebensmittel",
+   "tiefgekühlt"
+  ],
+  [
+   "Jawoll",
+   "Starbucks Chilled Coffee Caffè Latte",
+   "330 ml",
+   1.49,
+   2.89,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Müller Grieß- oder Schoko-Pudding",
+   "450 g",
+   1.19,
+   1.79,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Saint Albray Weichkäse",
+   "6 × 30 g",
+   1.79,
+   3.49,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Cocktail Garnelen",
+   "800 g",
+   8.99,
+   10.99,
+   "Lebensmittel",
+   "UVP, tiefgekühlt"
+  ],
+  [
+   "Jawoll",
+   "Hage Lüttje Mettenden",
+   "10 × 50 g",
+   4.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Jawoll",
+   "Grünkohl-Platte mit 5 Mettenden",
+   "650 g",
+   5.55,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Jawoll",
+   "Kasseler Lachs",
+   "pro kg",
+   5.99,
+   null,
+   "Fleisch & Wurst",
+   "ca. 1,2–1,7 kg"
+  ],
+  [
+   "Jawoll",
+   "Speisekartoffeln",
+   "5 kg",
+   3.49,
+   null,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Jawoll",
+   "Lindt Schokolade",
+   "100 g",
+   1.49,
+   2.49,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Snickers oder Mars",
+   "225/250 g",
+   1.99,
+   3.59,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Nestlé Lion, Nuts oder KitKat",
+   "150–166 g",
+   1.99,
+   3.19,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Nestlé Nesquik XXL",
+   "1 kg",
+   2.99,
+   6.99,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Dreistern Königsberger Klopse",
+   "1200 g",
+   5.55,
+   6.49,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Dreistern Gulasch",
+   "400 g",
+   3.33,
+   3.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Jola Rindfleisch Pure Beef",
+   "400 g",
+   4.99,
+   5.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Knackige Bockwurst",
+   "5 Stück, ATG 400 g",
+   2.99,
+   4.99,
+   "Fleisch & Wurst",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "Cheez-It Cracker",
+   "120 g",
+   0.99,
+   1.99,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Jawoll",
+   "China Pepsi",
+   "0,33 l",
+   1.11,
+   1.49,
+   "Getränke",
+   "UVP, zzgl. 0,25 € Pfand"
+  ],
+  [
+   "Jawoll",
+   "Capri-Sun",
+   "10 × 200 ml",
+   2.99,
+   4.39,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Königsgarnelen",
+   "200 g",
+   2.99,
+   6.99,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Iglo Filegro",
+   "240/250 g",
+   1.99,
+   3.99,
+   "Lebensmittel",
+   "UVP, tiefgekühlt"
+  ],
+  [
+   "Krümet",
+   "Somersby Cider",
+   "4 × 0,33 l",
+   2.49,
+   4.99,
+   "Getränke",
+   "UVP, pfandfrei"
+  ],
+  [
+   "Krümet",
+   "Schöfferhofer Grapefruit",
+   "6 × 0,5 l",
+   2.99,
+   5.49,
+   "Getränke",
+   "UVP, zzgl. 1,50 € Pfand"
+  ],
+  [
+   "Krümet",
+   "Estrella Damm",
+   "6 × 0,33 l",
+   2.99,
+   6.99,
+   "Getränke",
+   "UVP, zzgl. 0,48 € Pfand"
+  ],
+  [
+   "Krümet",
+   "Zewa Smart Toilettenpapier",
+   "4 Rollen",
+   2.99,
+   3.99,
+   "Haushalt",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Plenty Küchenrolle Super-Vorteilspack",
+   "12 Rollen",
+   6.99,
+   10.69,
+   "Haushalt",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Volvic Juicy",
+   "1 l",
+   0.79,
+   1.89,
+   "Getränke",
+   "UVP, zzgl. 0,25 € Pfand"
+  ],
+  [
+   "Krümet",
+   "Hela Gewürzketchup Curry",
+   "800 ml",
+   1.99,
+   3.39,
+   "Lebensmittel",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Toblerone Diamond Pralines",
+   "300 g",
+   3.99,
+   7.99,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Zwilling Filterkaffeemaschine",
+   "12 Tassen",
+   39.0,
+   109.0,
+   "Haushalt",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Cheez-It Cracker",
+   "120 g",
+   0.79,
+   2.79,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Martini Geschenke-Set mit Glas",
+   "0,75 l",
+   6.99,
+   10.99,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Heinz Saucen",
+   "220–415 ml",
+   0.99,
+   null,
+   "Lebensmittel",
+   "bis zu −60 % unter UVP; 400/415 ml 1,59 €",
+   60
+  ],
+  [
+   "Krümet",
+   "Feinste Marken-Confiserie Trüffel/Pralinen",
+   "250 g",
+   1.79,
+   3.49,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Schogetten",
+   "100 g",
+   0.99,
+   1.79,
+   "Süßes",
+   "UVP"
+  ],
+  [
+   "Krümet",
+   "Der Waschfuxx XXL-Jumbopack",
+   "6,5 kg",
+   9.9,
+   12.99,
+   "Haushalt",
+   "UVP, ca. 100 WL"
+  ],
+  [
+   "Penny",
+   "Jacobs Krönung gemahlen",
+   "500 g",
+   5.99,
+   10.49,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Penny",
+   "Leerdammer Trio-Scheiben / Käsescheiben",
+   "125–140 g",
+   1.49,
+   2.69,
+   "Lebensmittel",
+   "UVP; 1,29 € mit PENNY App"
+  ],
+  [
+   "Penny",
+   "Mango",
+   "Stück",
+   0.79,
+   null,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Penny",
+   "Mühlenhof Frische Hähnchen-Brustfilets XXL",
+   "1 kg",
+   7.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Iglo Backfisch-Stäbchen / Fischstäbchen",
+   "364–450 g",
+   2.79,
+   4.89,
+   "Lebensmittel",
+   "UVP; 2,49 € mit PENNY App"
+  ],
+  [
+   "Penny",
+   "Best Moments Knödel",
+   "400–500 g",
+   1.69,
+   null,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Penny",
+   "Mühlenhof Rinder-Hackfleisch fettreduziert XXL",
+   "800 g",
+   8.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Mühlenhof Rinder-Gulasch",
+   "500 g",
+   6.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Mühlenhof Chicken-Wings XXL",
+   "1 kg",
+   3.99,
+   4.99,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Geflügel-Hacksteaks XXL",
+   "560 g",
+   3.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Schweine-Nackenbraten",
+   "pro kg",
+   4.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Tillman's Cevapcici kroatische Art",
+   "500 g",
+   2.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Butcher's Pork Tomahawk Steak",
+   "z. B. 300 g",
+   2.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Dreistern Entenkeule",
+   "380 g",
+   5.49,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Penny",
+   "Aperol Aperitivo",
+   "0,7 l",
+   9.99,
+   13.99,
+   "Getränke",
+   "mit PENNY App; sonst 13,99 €"
+  ],
+  [
+   "Penny",
+   "Captain Morgan Spiced / Baileys",
+   "1,5 l",
+   19.99,
+   26.99,
+   "Getränke",
+   "UVP"
+  ],
+  [
+   "Penny",
+   "Corona Extra",
+   "0,5 l",
+   1.29,
+   1.79,
+   "Getränke",
+   "UVP, zzgl. 0,25 € Pfand"
+  ],
+  [
+   "Penny",
+   "Warsteiner Pils",
+   "6 × 0,5 l",
+   3.95,
+   4.95,
+   "Getränke",
+   "UVP, zzgl. 1,50 € Pfand"
+  ],
+  [
+   "Penny",
+   "Lenor XXL Waschmittel / All in 1 Pods",
+   "76–90 WL",
+   17.99,
+   null,
+   "Haushalt",
+   "16,99 € mit PENNY App"
+  ],
+  [
+   "REWE",
+   "Ben's Original Express Reis",
+   "220 g",
+   1.29,
+   null,
+   "Lebensmittel",
+   "0,20 € Bonus"
+  ],
+  [
+   "REWE",
+   "Hackfleisch gemischt (Bedientheke)",
+   "100 g",
+   1.11,
+   null,
+   "Fleisch & Wurst",
+   "Knaller"
+  ],
+  [
+   "REWE",
+   "Chiquita Bananen",
+   "1 kg",
+   1.99,
+   null,
+   "Lebensmittel",
+   "Knaller"
+  ],
+  [
+   "REWE",
+   "Granini Trinkgenuss",
+   "1 l",
+   1.49,
+   null,
+   "Getränke",
+   "zzgl. 0,25 € Pfand"
+  ],
+  [
+   "REWE",
+   "Bitburger Stubbi oder Alkoholfrei",
+   "20 × 0,33 l",
+   9.49,
+   null,
+   "Getränke",
+   "zzgl. 3,10 € Pfand"
+  ],
+  [
+   "REWE",
+   "Rügenwalder Vegane Mühlen Schnitzel",
+   "2 × 90 g",
+   2.49,
+   null,
+   "Lebensmittel",
+   "0,20 € Bonus"
+  ],
+  [
+   "REWE",
+   "Entrecôte vom Jungbullen (Bedientheke)",
+   "100 g",
+   3.29,
+   null,
+   "Fleisch & Wurst",
+   "Knaller-Aktion"
+  ],
+  [
+   "REWE",
+   "Rinder-Schmorbraten (Bedientheke)",
+   "100 g",
+   1.89,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "REWE",
+   "Schweine-Lachsbraten (Bedientheke)",
+   "100 g",
+   0.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "REWE",
+   "Schweine-Bauch (Bedientheke)",
+   "100 g",
+   0.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "REWE",
+   "Cordon Bleu (Bedientheke)",
+   "100 g",
+   1.39,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "REWE",
+   "Hähnchenschnitzel paniert (Bedientheke)",
+   "100 g",
+   1.79,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "REWE",
+   "Fairmast Hähnchen-Brustfilet (Bedientheke)",
+   "100 g",
+   1.59,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "REWE",
+   "Warsteiner Pils",
+   "20 × 0,5 l",
+   10.99,
+   null,
+   "Getränke",
+   "Knaller, zzgl. 3,10 € Pfand"
+  ],
+  [
+   "REWE",
+   "Coca-Cola",
+   "2 l",
+   1.49,
+   null,
+   "Getränke",
+   "zzgl. 0,25 € Pfand"
+  ],
+  [
+   "REWE",
+   "Rockstar Energy Drink / Mocktails",
+   "0,33–0,5 l",
+   0.99,
+   null,
+   "Getränke",
+   "0,15 € Bonus, zzgl. 0,25 € Pfand"
+  ],
+  [
+   "REWE",
+   "Volvic Mineralwasser",
+   "6 × 1,5 l",
+   4.49,
+   null,
+   "Getränke",
+   "zzgl. 1,50 € Pfand"
+  ],
+  [
+   "REWE",
+   "Budweiser Premium Czech Lager",
+   "20 × 0,5 l",
+   13.99,
+   null,
+   "Getränke",
+   "0,50 € Bonus, zzgl. 3,10 € Pfand"
+  ],
+  [
+   "REWE",
+   "Benediktiner Hell",
+   "20 × 0,5 l",
+   14.99,
+   null,
+   "Getränke",
+   "zzgl. 3,10 € Pfand"
+  ],
+  [
+   "REWE",
+   "Karlsberg Mixery Iced Blue",
+   "0,5 l",
+   0.99,
+   null,
+   "Getränke",
+   "zzgl. 0,25 € Pfand"
+  ],
+  [
+   "REWE",
+   "Jever Pilsener oder Fun",
+   "20 × 0,5 l",
+   11.99,
+   null,
+   "Getränke",
+   "zzgl. 3,10 € Pfand"
+  ],
+  [
+   "REWE",
+   "Kapuziner Weißbier",
+   "20 × 0,5 l",
+   12.99,
+   null,
+   "Getränke",
+   "zzgl. 4,50 € Pfand"
+  ],
+  [
+   "REWE",
+   "Butcher's Irish Beef Tomahawk Steak",
+   "pro kg",
+   28.88,
+   null,
+   "Fleisch & Wurst",
+   "Knaller-Aktion, SB-verpackt"
+  ],
+  [
+   "Aldi Nord",
+   "Gemischtes Hackfleisch XXL",
+   "1 kg",
+   4.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Hähnchenschenkel mit Rückenstück XXL",
+   "2 kg",
+   6.99,
+   8.49,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Schinken-Schnitzel",
+   "500 g",
+   3.29,
+   4.49,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Paprika-Schinkengeschnetzeltes",
+   "500 g",
+   2.49,
+   3.49,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Rinder-Cevapcici XXL",
+   "800 g",
+   8.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Gourmet Gänsebrust mit Knochen",
+   "z. B. 1 kg",
+   19.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Gourmet Hirschedelgulasch",
+   "500 g",
+   9.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Salami",
+   "400 g",
+   4.49,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Ungarische Salami XXL",
+   "120 g",
+   1.69,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Kabanossi",
+   "175 g",
+   1.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Balcerzak Würstchen",
+   "450 g",
+   2.99,
+   null,
+   "Fleisch & Wurst",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Putenrouladen",
+   "500 g",
+   4.99,
+   null,
+   "Fleisch & Wurst",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Suppenfleisch XXL",
+   "800 g",
+   5.49,
+   null,
+   "Fleisch & Wurst",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Rückenbraten XXL",
+   "pro kg",
+   4.49,
+   null,
+   "Fleisch & Wurst",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Alpenschmaus Mini-Haxen",
+   "500 g",
+   3.49,
+   null,
+   "Fleisch & Wurst",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Schweine-Nuggets mit Dip",
+   "1 kg",
+   5.49,
+   null,
+   "Fleisch & Wurst",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Thüringer Knackige Bockwurst",
+   "650-ml-Glas",
+   2.99,
+   4.99,
+   "Fleisch & Wurst",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Schinken-Lyoner XXL",
+   "250 g",
+   0.89,
+   null,
+   "Fleisch & Wurst",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Coca-Cola Original Taste",
+   "1,25 l",
+   1.19,
+   1.69,
+   "Getränke",
+   "zzgl. Pfand"
+  ],
+  [
+   "Aldi Nord",
+   "Coca-Cola Cherry / Vanilla / Lemon",
+   "1,25 l",
+   1.19,
+   1.69,
+   "Getränke",
+   "zzgl. Pfand"
+  ],
+  [
+   "Aldi Nord",
+   "Heineken Original",
+   "12 × 0,33 l",
+   7.99,
+   13.99,
+   "Getränke",
+   "ab Donnerstag, zzgl. Pfand"
+  ],
+  [
+   "Aldi Nord",
+   "Tyskie Gronie",
+   "6 × 0,5 l",
+   4.49,
+   null,
+   "Getränke",
+   "zzgl. Pfand"
+  ],
+  [
+   "Aldi Nord",
+   "Paulaner Spezi",
+   "6 × 0,33 l",
+   3.99,
+   5.69,
+   "Getränke",
+   "ab Donnerstag, zzgl. Pfand"
+  ],
+  [
+   "Aldi Nord",
+   "Krupnik Wódka",
+   "0,5 l",
+   4.99,
+   7.99,
+   "Getränke",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Kirsch- / Heidelbeerglühwein",
+   "1 l",
+   1.99,
+   null,
+   "Getränke",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Barilla Pasta (Fusilli, Penne, Spaghetti …)",
+   "1 kg",
+   1.69,
+   3.99,
+   "Lebensmittel",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Kerrygold Butter",
+   "250 g",
+   1.49,
+   null,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Dr. Oetker Ristorante Pizza",
+   "2er-Pack",
+   3.79,
+   6.79,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Philadelphia Frischkäse",
+   "195 g",
+   1.11,
+   2.29,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Iglo Filegro Ofen-Backfisch XXL",
+   "480 g",
+   3.99,
+   7.59,
+   "Lebensmittel",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Rama Original XXL",
+   "400 g",
+   1.29,
+   2.29,
+   "Lebensmittel",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Weihenstephan Frische Milch",
+   "1 l",
+   0.99,
+   1.49,
+   "Lebensmittel",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Dovgan Taschki Pelmeni",
+   "500 g",
+   2.29,
+   3.59,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Golden Seafood Garnelen",
+   "200 g",
+   2.99,
+   3.89,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Gourmet Lachsfiletseite",
+   "750 g",
+   11.89,
+   13.99,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Speisekartoffeln Drillinge",
+   "1 kg",
+   1.49,
+   2.19,
+   "Lebensmittel",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Storck Toffifee",
+   "125 g",
+   1.11,
+   1.49,
+   "Süßes",
+   ""
+  ],
+  [
+   "Aldi Nord",
+   "Nutella Eisbecher",
+   "470 ml",
+   3.99,
+   5.49,
+   "Süßes",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Nippon",
+   "200 g",
+   1.49,
+   2.69,
+   "Süßes",
+   "ab Donnerstag"
+  ],
+  [
+   "Aldi Nord",
+   "Colgate Zahnbürsten",
+   "6er-Pack",
+   2.99,
+   3.49,
+   "Haushalt",
+   ""
+  ]
+ ],
+ "quellen": [
+  [
+   "Aldi Nord – aldi-nord.de Angebote-Vorschau",
+   "https://www.aldi-nord.de/angebote-vorschau.html"
+  ],
+  [
+   "Aldi Nord – prospektwelten.com",
+   "https://www.prospektwelten.com/aldi-nord-angebote/"
+  ],
+  [
+   "Lidl – prospekterst.com",
+   "https://prospekterst.com/lidl-prospekt/"
+  ],
+  [
+   "Lidl – prospektwelten.com",
+   "https://www.prospektwelten.com/lidl-prospekt/"
+  ],
+  [
+   "Penny – prospekterst.com",
+   "https://prospekterst.com/penny-prospekt/"
+  ],
+  [
+   "Penny – kaufDA Magazin",
+   "https://www.kaufda.de/insights/penny-prospekt-02-11-2026-backt-euch-gluecklich/"
+  ],
+  [
+   "Penny – kaufDA Lübeck",
+   "https://www.kaufda.de/Luebeck/Penny-Markt/p-r75"
+  ],
+  [
+   "REWE – prospekterst.com",
+   "https://prospekterst.com/rewe-prospekt/"
+  ],
+  [
+   "REWE – kaufDA Lübeck",
+   "https://www.kaufda.de/Luebeck/REWE/p-r101"
+  ],
+  [
+   "Netto – prospektwelten.com",
+   "https://www.prospektwelten.com/netto-marken-discount/"
+  ],
+  [
+   "Norma – prospektwelten.com",
+   "https://www.prospektwelten.com/norma-angebote/"
+  ],
+  [
+   "Jawoll – prospektwelten.com",
+   "https://www.prospektwelten.com/jawoll-prospekt/"
+  ],
+  [
+   "Krümet – prospektwelten.com",
+   "https://www.prospektwelten.com/kruemet/"
+  ]
+ ],
+ "pages": {
+  "Aldi Nord": [
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-01-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-02-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-03-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-04-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-05-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-06-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-07-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-08-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-09-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-10-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-11-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-12-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-13-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-14-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-15-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-16-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-17-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-18-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-19-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-20-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-21-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-22-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-23-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-24-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-25-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-26-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-27-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-28-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-29-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-30-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-31-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-32-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-33-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-34-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-35-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-36-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-37-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-38-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-39-768x1356.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-40-768x1342.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/aldi-nord-angebote-ab-02-11-2026-kw45-seite-41-768x1188.webp"
+  ],
+  "Lidl": [
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-1_812-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-2_390-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-3_911-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-4_355-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-5_604-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-6_942-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-7_840-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-8_347-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-9_828-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-10_986-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-12_207-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-14_423-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-15_690-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-16_241-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-17_438-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-18_656-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-19_995-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-20_395-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-21_409-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-22_688-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-23_242-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-24_590-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-25_612-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-26_295-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-27_327-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-28_103-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-29_900-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-30_701-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-31_489-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-32_442-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-33_754-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-34_990-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-35_753-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-36_718-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-37_357-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-38_383-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-39_412-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-40_763-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-41_972-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-42_439-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-43_689-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-44_591-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-45_145-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-46_912-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-47_253-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-48_575-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-49_515-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-50_827-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-51_626-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-52_601-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-53_582-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-54_113-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-55_789-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-56_661-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-57_247-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-58_128-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-59_651-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-60_403-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-61_143-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-62_940-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-63_179-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-64_381-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-65_649-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-66_271-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-67_650-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-68_705-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-69_554-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-70_733-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-71_925-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-72_969-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-73_220-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-74_471-768x1304.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-75_944-768x1304.webp"
+  ],
+  "Penny": [
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-1-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-2-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-3-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-4-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-5-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-7-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-8-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-9-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-10-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-11-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-12-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-13-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-14-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-15-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-16-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-17-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-18-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-19-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-20-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-21-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-22-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-23-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-24-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-25-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-26-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-27-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-28-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-29-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-30-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-31-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-32-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-33-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-34-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-35-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-36-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-37-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-38-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-39-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-40-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-41-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-42-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-43-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-44-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-45-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-46-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-47-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-48-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-49-768x1358.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-50-768x1358.webp"
+  ],
+  "REWE": [
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-1_735-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-2_928-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-3_602-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-4_292-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-5_455-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-6_398-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-7_320-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-8_877-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-9_558-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-10_760-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-11_132-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-12_412-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-13_107-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-14_414-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-15_380-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-17_136-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-18_786-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-19_195-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-20_242-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-21_216-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-22_308-768x1356.webp",
+   "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-23_463-768x1356.webp"
+  ],
+  "Netto": [
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-02-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-03-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-04-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-05-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-06-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-07-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-08-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-09-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-10-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-11-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-12-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-13-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-14-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-15-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-17-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-18-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-19-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-20-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-21-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-22-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-23-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-24-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-25-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-26-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-27-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-28-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-29-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-30-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-31-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-32-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-33-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-34-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-35-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-36-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-37-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-38-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-39-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-40-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-41-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-42-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-43-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-44-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-45-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-46-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-47-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-48-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-49-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-50-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-51-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-52-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-53-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-54-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-55-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-56-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-57-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-58-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-59-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-60-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-61-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-62-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-63-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-64-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-65-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-66-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-67-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-68-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-69-768x1076.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-70-768x1076.webp"
+  ],
+  "Norma": [
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-01-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-02-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-03-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-04-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-05-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-06-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-07-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-08-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-09-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-10-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-11-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-12-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-13-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-14-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-15-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-16-768x1205.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-17-768x1160.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-18-768x1160.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-19-768x1160.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-20-768x1160.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-21-768x1228.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-22-768x1087.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-23-768x1087.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-24-768x1087.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-25-768x1087.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-26-768x1087.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-27-768x1024.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-28-768x1087.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-29-768x1051.webp"
+  ],
+  "Jawoll": [
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-01-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-02-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-04-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-05-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-06-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-07-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-09-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-10-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-11-768x1382.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-12-768x1382.webp"
+  ],
+  "Krümet": [
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-2-768x1086.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-3-768x1086.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-4-768x1086.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-5-768x1086.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-6-768x1086.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-7-768x1086.webp",
+   "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-8-768x1086.webp"
+  ]
+ },
+ "img": {
+  "Lidl|Rinder-Hackfleisch": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.025,
+    0.0834,
+    0.5,
+    0.3533
+   ]
+  },
+  "Lidl|Deluxe Lamm-Filets": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.5167,
+    0.0638,
+    0.9833,
+    0.3238
+   ]
+  },
+  "Lidl|Schweine-Schälrippe": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.025,
+    0.3484,
+    0.5,
+    0.5348
+   ]
+  },
+  "Lidl|Norwegische Lachsfilet-Portionen XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.5167,
+    0.3484,
+    0.9833,
+    0.5348
+   ]
+  },
+  "Lidl|Südamerikanisches Rindersteak": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.5496,
+    0.3333,
+    0.7458
+   ]
+  },
+  "Lidl|Hähnchen-Unterkeulen": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.5496,
+    0.6667,
+    0.7458
+   ]
+  },
+  "Lidl|Hähnchen-Brustfilets": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.675,
+    0.5496,
+    0.9917,
+    0.7458
+   ]
+  },
+  "Lidl|Putenbrustfilet": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-11_506-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.7507,
+    0.3333,
+    0.9421
+   ]
+  },
+  "Lidl|Pom-Bär": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-12_207-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.2748,
+    0.5,
+    0.6575
+   ]
+  },
+  "Lidl|Giovanni Rana Pasta Maxipack": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-12_207-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.5167,
+    0.314,
+    0.9917,
+    0.6575
+   ]
+  },
+  "Lidl|Mövenpick Der Himmlische": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-12_207-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.6575,
+    0.5,
+    0.9421
+   ]
+  },
+  "Lidl|Babybel": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-12_207-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.5167,
+    0.6575,
+    0.9917,
+    0.9421
+   ]
+  },
+  "Lidl|Wagner Die Backfrische / Big City Pizza": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.0589,
+    0.3417,
+    0.2748
+   ]
+  },
+  "Lidl|Ben & Jerry's Eis": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.0589,
+    0.6667,
+    0.2748
+   ]
+  },
+  "Lidl|Ehrmann Almighurt": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.2846,
+    0.6667,
+    0.4907
+   ]
+  },
+  "Lidl|Philadelphia": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.5054,
+    0.3417,
+    0.7066
+   ]
+  },
+  "Lidl|Barilla Pasta": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.7213,
+    0.3417,
+    0.9421
+   ]
+  },
+  "Lidl|Barilla Pesto": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.7213,
+    0.6667,
+    0.9421
+   ]
+  },
+  "Lidl|Nestlé KitKat / Lion": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.6667,
+    0.5054,
+    0.9917,
+    0.7066
+   ]
+  },
+  "Lidl|Pringles": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.6667,
+    0.7262,
+    0.9917,
+    0.9421
+   ]
+  },
+  "Lidl|Tomato al Gusto Tomatensauce": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-13_259-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.6667,
+    0.0589,
+    0.9917,
+    0.2453
+   ]
+  },
+  "Lidl|Emmi Caffè Latte": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-16_241-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.0589,
+    0.6667,
+    0.2748
+   ]
+  },
+  "Lidl|Arla Skyr": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-16_241-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.6667,
+    0.0589,
+    0.9917,
+    0.2748
+   ]
+  },
+  "Lidl|Grant's Triple Wood Whisky": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-16_241-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.2552,
+    0.3417,
+    0.4907
+   ]
+  },
+  "Lidl|Müller Reine Buttermilch": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-16_241-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.314,
+    0.6667,
+    0.4907
+   ]
+  },
+  "Lidl|Captain Cook's Original Rum": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-16_241-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.5888,
+    0.3417,
+    0.9421
+   ]
+  },
+  "Lidl|Kinder Mix Geschenktüte": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-16_241-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.6667,
+    0.7262,
+    0.9917,
+    0.9421
+   ]
+  },
+  "Lidl|Dulano Delikatess Edelsalami XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-19_995-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.5054,
+    0.3417,
+    0.9421
+   ]
+  },
+  "Lidl|Dulano Bayerischer Mini-Leberkäse XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-19_995-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.5103,
+    0.6667,
+    0.7164
+   ]
+  },
+  "Lidl|Dulano Frikadellen": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-19_995-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.6667,
+    0.5103,
+    0.9917,
+    0.7164
+   ]
+  },
+  "Lidl|Dulano Delikatess Wiener Würstchen XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-19_995-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.7262,
+    0.6667,
+    0.9421
+   ]
+  },
+  "Lidl|Kong Strong Energy Drink XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-19_995-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.6667,
+    0.7262,
+    0.9917,
+    0.9421
+   ]
+  },
+  "Lidl|Milbona Gouda Jung XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-19_995-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.675,
+    0.0589,
+    0.9917,
+    0.4907
+   ]
+  },
+  "Lidl|Milbona Mozzarella XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-19_995-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.2846,
+    0.6667,
+    0.4907
+   ]
+  },
+  "Lidl|Chef Select Chicken Nuggets XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-18_656-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.2944,
+    0.5,
+    0.4907
+   ]
+  },
+  "Lidl|Dulano Kochschinken / Geflügelbrust XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-18_656-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.5083,
+    0.2846,
+    0.9917,
+    0.4907
+   ]
+  },
+  "Lidl|Chef Select Chicken Wings XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-18_656-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.5054,
+    0.5,
+    0.9372
+   ]
+  },
+  "Lidl|Trattoria Alfredo Steinofenpizza Edelsalami XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-18_656-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.5083,
+    0.5054,
+    0.9917,
+    0.9372
+   ]
+  },
+  "Lidl|Jules Mumm Sekt": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-1_812-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.1865,
+    0.7,
+    0.7066
+   ]
+  },
+  "Lidl|Granini Enjoy / Mix-it": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-1_812-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.7,
+    0.1865,
+    0.9967,
+    0.5692
+   ]
+  },
+  "Lidl|Milka Tafelschokolade": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-1_812-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.4514,
+    0.9967,
+    0.7066
+   ]
+  },
+  "Lidl|Christkindl Glühwein": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-26_295-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.0167,
+    0.3533,
+    0.3333,
+    0.9323
+   ]
+  },
+  "Lidl|Glühwein rot": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/lidl-prospekt-november-2-7-26_295-768x1304.webp",
+   "r": 1.6979,
+   "b": [
+    0.3417,
+    0.3631,
+    0.6667,
+    0.6477
+   ]
+  },
+  "Netto|Hähnchen-Innenfilet XXL": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.1665,
+    0.3667,
+    0.3924
+   ]
+  },
+  "Netto|Lavazza Crema e Aroma ganze Bohnen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.3567,
+    0.3667,
+    0.5826
+   ]
+  },
+  "Netto|Landliebe Butter oder Streichzart": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.3833,
+    0.2973,
+    0.6667,
+    0.5945
+   ]
+  },
+  "Netto|Pfanni Speisekartoffeln": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.0713,
+    0.9967,
+    0.5945
+   ]
+  },
+  "Netto|Persil Waschmittel": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.5826,
+    0.3667,
+    0.7729
+   ]
+  },
+  "Netto|Müller Joghurt mit der Ecke": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.5,
+    0.6064,
+    0.9967,
+    0.7729
+   ]
+  },
+  "Netto|Hacker-Pschorr Münchner Hell / Kapuziner Weißbier": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.7729,
+    0.375,
+    0.9869
+   ]
+  },
+  "Netto|Ferrero Rocher": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-01-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.375,
+    0.7729,
+    0.9967,
+    0.9869
+   ]
+  },
+  "Netto|Fol Epi Käse": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-02-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.0476,
+    0.9967,
+    0.2616
+   ]
+  },
+  "Netto|Hofmaier Wiener Würstchen XXL": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-02-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.2616,
+    0.9967,
+    0.4875
+   ]
+  },
+  "Netto|Lorenz Crunchips oder NicNacs": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-02-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0333,
+    0.4935,
+    0.65,
+    0.7134
+   ]
+  },
+  "Netto|Valdo Prosecco Superiore DOCG": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-02-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.4875,
+    0.9967,
+    0.7253
+   ]
+  },
+  "Netto|Lindt Lindor Pralinenkugeln": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-02-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0333,
+    0.7194,
+    0.65,
+    0.9394
+   ]
+  },
+  "Netto|StarDrink Cola": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-02-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.7253,
+    0.9967,
+    0.9394
+   ]
+  },
+  "Netto|Gulasch vom Rind XXL": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.0713,
+    0.9967,
+    0.2735
+   ]
+  },
+  "Netto|Suppenfleisch vom Rind": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.2735,
+    0.9967,
+    0.4875
+   ]
+  },
+  "Netto|Hähnchen-Oberkeulensteaks": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.4875,
+    0.3417,
+    0.7134
+   ]
+  },
+  "Netto|Bayerische Puten-Ministeaks": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.3417,
+    0.4875,
+    0.6667,
+    0.7134
+   ]
+  },
+  "Netto|Hackfleisch gemischt": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.4875,
+    0.9967,
+    0.7134
+   ]
+  },
+  "Netto|Schweine-Schälrippen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.7194,
+    0.3417,
+    0.9394
+   ]
+  },
+  "Netto|Schweine-Bauch": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.3417,
+    0.7194,
+    0.6667,
+    0.9394
+   ]
+  },
+  "Netto|Schweine-Minutensteaks": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-16-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.7194,
+    0.9967,
+    0.9394
+   ]
+  },
+  "Netto|Almaufschnitt": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-17-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.0357,
+    0.3417,
+    0.2675
+   ]
+  },
+  "Netto|Mini Salami Classic": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-17-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.3417,
+    0.4875,
+    0.6667,
+    0.7134
+   ]
+  },
+  "Netto|Hofmaier Rinder-Burger / Chicken-Burger / Hot-Dog": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-17-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.4875,
+    0.9967,
+    0.7134
+   ]
+  },
+  "Netto|Mini Jamón Serrano Schinken": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-17-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.3417,
+    0.7194,
+    0.9967,
+    0.9394
+   ]
+  },
+  "Netto|Karlsberg Mixery": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-29-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.2675,
+    0.6583,
+    0.4875
+   ]
+  },
+  "Netto|Capri-Sun": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-29-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.4935,
+    0.6583,
+    0.7134
+   ]
+  },
+  "Netto|Oberbräu Hell oder Alkoholfrei": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-29-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.7194,
+    0.6583,
+    0.9394
+   ]
+  },
+  "Netto|Nutella oder Kinder Bueno Eisbecher": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-29-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.3417,
+    0.0595,
+    0.6583,
+    0.2616
+   ]
+  },
+  "Netto|Maggi Saucen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-29-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.2675,
+    0.9967,
+    0.4875
+   ]
+  },
+  "Netto|Erdinger Weißbier": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-30-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0333,
+    0.2675,
+    0.4967,
+    0.7134
+   ]
+  },
+  "Netto|Turmbläser Landbier": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-30-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.5033,
+    0.2675,
+    0.975,
+    0.7134
+   ]
+  },
+  "Netto|Adelholzener Mineralwasser": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-30-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0333,
+    0.7194,
+    0.4967,
+    0.9394
+   ]
+  },
+  "Netto|Weltenburger Winter-Traum": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-30-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.5033,
+    0.7194,
+    0.975,
+    0.9394
+   ]
+  },
+  "Netto|Tafelspitz vom Irischen Weiderind": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-47-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.0476,
+    0.6583,
+    0.2735
+   ]
+  },
+  "Netto|Augustiner Lagerbier Hell": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-47-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.7313,
+    0.6583,
+    0.9631
+   ]
+  },
+  "Netto|Kinder Schokolade / Yogurette": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-47-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.0167,
+    0.5232,
+    0.3417,
+    0.7253
+   ]
+  },
+  "Netto|Finish Geschirrspültabs": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/netto-marken-discount-prospekt-ab-02-11-2026-kw45-seite-47-768x1076.webp",
+   "r": 1.401,
+   "b": [
+    0.6667,
+    0.0476,
+    0.9967,
+    0.4875
+   ]
+  },
+  "Norma|Schweinebauch mit Knochen und Schwarte": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-18-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.05,
+    0.6126,
+    0.3583,
+    0.7892
+   ]
+  },
+  "Norma|Hähnchen Pollo Fino": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-18-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.3583,
+    0.6126,
+    0.675,
+    0.7892
+   ]
+  },
+  "Norma|Hähnchen Ministeaks": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-18-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.675,
+    0.6126,
+    0.9967,
+    0.7892
+   ]
+  },
+  "Norma|Hackfleisch gemischt": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-18-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.05,
+    0.7947,
+    0.4,
+    0.9823
+   ]
+  },
+  "Norma|Kerrygold Extra XXL": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-18-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.5167,
+    0.2042,
+    0.9967,
+    0.4139
+   ]
+  },
+  "Norma|Danone Activia XXL": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-18-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.05,
+    0.2042,
+    0.5167,
+    0.4139
+   ]
+  },
+  "Norma|Tempelburger Matjesfilethappen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-18-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.05,
+    0.4194,
+    0.3583,
+    0.5905
+   ]
+  },
+  "Norma|Chio Red Paprika Chips": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-08-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.013,
+    0.1369,
+    0.332,
+    0.3112
+   ]
+  },
+  "Norma|Gut Langenhof Chicken Pops XXL": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-08-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.3385,
+    0.1245,
+    0.6576,
+    0.3112
+   ]
+  },
+  "Norma|Femeg Die Fischkiste": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-08-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.6667,
+    0.1245,
+    0.987,
+    0.3112
+   ]
+  },
+  "Norma|TUC Cracker": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-08-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.013,
+    0.5602,
+    0.332,
+    0.7593
+   ]
+  },
+  "Norma|Storck Mini Dickmann's Schoko Trio": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-08-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.6667,
+    0.5602,
+    0.987,
+    0.7593
+   ]
+  },
+  "Norma|Gut Langenhof Puten-Filetstreifen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-08-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.0,
+    0.7676,
+    0.2539,
+    0.9627
+   ]
+  },
+  "Norma|Stolle Chicken Tulips BBQ": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-09-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.3411,
+    0.0996,
+    0.6615,
+    0.3112
+   ]
+  },
+  "Norma|Gut Bartenhof Nussschinken XXL": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-09-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.6706,
+    0.0913,
+    0.9896,
+    0.3112
+   ]
+  },
+  "Norma|Hella Mineralwasser": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-09-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.3411,
+    0.3195,
+    0.6615,
+    0.4979
+   ]
+  },
+  "Norma|Knorr Jäger Soße / Soße zu Braten": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-09-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.013,
+    0.5602,
+    0.332,
+    0.7593
+   ]
+  },
+  "Norma|Camelion Batterien Plus Alkaline": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-09-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.3411,
+    0.5602,
+    0.6615,
+    0.7593
+   ]
+  },
+  "Norma|Kultur-Heidelbeeren": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-09-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.2539,
+    0.7759,
+    0.5013,
+    0.9627
+   ]
+  },
+  "Norma|Premium Speisekartoffeln": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-09-768x1205.webp",
+   "r": 1.569,
+   "b": [
+    0.5013,
+    0.7759,
+    0.7487,
+    0.9627
+   ]
+  },
+  "Norma|Stroh Rum 80": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-17-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.0195,
+    0.2198,
+    0.3255,
+    0.4052
+   ]
+  },
+  "Norma|Sheba Katzennassnahrung": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-17-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.332,
+    0.2112,
+    0.6445,
+    0.4052
+   ]
+  },
+  "Norma|Jameson Irish Whiskey": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-17-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.0195,
+    0.4138,
+    0.3255,
+    0.5862
+   ]
+  },
+  "Norma|Metaxa 5 Sterne": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-17-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.332,
+    0.4138,
+    0.6445,
+    0.5862
+   ]
+  },
+  "Norma|Berentzen Wintercream Likör": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-17-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.0195,
+    0.6422,
+    0.3255,
+    0.806
+   ]
+  },
+  "Norma|Bertolli Olivenöl": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/norma-angebote-ab-02-11-2026-kw45-seite-17-768x1160.webp",
+   "r": 1.5104,
+   "b": [
+    0.6445,
+    0.6422,
+    0.9505,
+    0.806
+   ]
+  },
+  "Jawoll|Schweinebruchschnitzel paniert": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.0065,
+    0.0217,
+    0.2799,
+    0.17
+   ]
+  },
+  "Jawoll|Serrano-Schinken": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.2734,
+    0.0289,
+    0.5013,
+    0.246
+   ]
+  },
+  "Jawoll|Schinken (Bauern- / Schwarzwälder)": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.5078,
+    0.0253,
+    0.9896,
+    0.1447
+   ]
+  },
+  "Jawoll|Aufschnitt": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.5078,
+    0.1411,
+    0.9896,
+    0.246
+   ]
+  },
+  "Jawoll|Fingerfood (Chili Cheese Nuggets, Camembert Bites)": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.0065,
+    0.17,
+    0.2799,
+    0.3256
+   ]
+  },
+  "Jawoll|Starbucks Chilled Coffee Caffè Latte": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.2734,
+    0.2569,
+    0.4948,
+    0.4197
+   ]
+  },
+  "Jawoll|Müller Grieß- oder Schoko-Pudding": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.4948,
+    0.2569,
+    0.7422,
+    0.398
+   ]
+  },
+  "Jawoll|Saint Albray Weichkäse": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.7422,
+    0.2569,
+    0.9961,
+    0.4124
+   ]
+  },
+  "Jawoll|Cocktail Garnelen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.0065,
+    0.5246,
+    0.2799,
+    0.6802
+   ]
+  },
+  "Jawoll|Hage Lüttje Mettenden": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.2799,
+    0.644,
+    0.5013,
+    0.7959
+   ]
+  },
+  "Jawoll|Grünkohl-Platte mit 5 Mettenden": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.4818,
+    0.6151,
+    0.7422,
+    0.7959
+   ]
+  },
+  "Jawoll|Kasseler Lachs": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.7292,
+    0.6621,
+    0.9961,
+    0.7959
+   ]
+  },
+  "Jawoll|Speisekartoffeln": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-03-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.7357,
+    0.8068,
+    0.9896,
+    0.9732
+   ]
+  },
+  "Jawoll|Lindt Schokolade": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.0586,
+    0.047,
+    0.293,
+    0.2098
+   ]
+  },
+  "Jawoll|Snickers oder Mars": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.293,
+    0.047,
+    0.5143,
+    0.2098
+   ]
+  },
+  "Jawoll|Nestlé Lion, Nuts oder KitKat": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.7422,
+    0.047,
+    0.9961,
+    0.2315
+   ]
+  },
+  "Jawoll|Nestlé Nesquik XXL": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.293,
+    0.4088,
+    0.5208,
+    0.5933
+   ]
+  },
+  "Jawoll|Dreistern Königsberger Klopse": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.0586,
+    0.597,
+    0.2799,
+    0.7923
+   ]
+  },
+  "Jawoll|Dreistern Gulasch": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.2799,
+    0.597,
+    0.5208,
+    0.7742
+   ]
+  },
+  "Jawoll|Jola Rindfleisch Pure Beef": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.7487,
+    0.597,
+    0.9961,
+    0.767
+   ]
+  },
+  "Jawoll|Knackige Bockwurst": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.0586,
+    0.7959,
+    0.293,
+    0.966
+   ]
+  },
+  "Jawoll|Cheez-It Cracker": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.293,
+    0.7815,
+    0.5208,
+    0.966
+   ]
+  },
+  "Jawoll|China Pepsi": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.5208,
+    0.7779,
+    0.7422,
+    0.966
+   ]
+  },
+  "Jawoll|Capri-Sun": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/jawoll-prospekt-ab-02-11-2026-kw45-seite-08-768x1382.webp",
+   "r": 1.7995,
+   "b": [
+    0.7227,
+    0.7779,
+    0.9961,
+    0.966
+   ]
+  },
+  "Krümet|Königsgarnelen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.013,
+    0.1842,
+    0.2279,
+    0.3131
+   ]
+  },
+  "Krümet|Iglo Filegro": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.2279,
+    0.1703,
+    0.5534,
+    0.3131
+   ]
+  },
+  "Krümet|Somersby Cider": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.0065,
+    0.3177,
+    0.1888,
+    0.488
+   ]
+  },
+  "Krümet|Schöfferhofer Grapefruit": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.1888,
+    0.3177,
+    0.3711,
+    0.488
+   ]
+  },
+  "Krümet|Estrella Damm": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.3711,
+    0.3177,
+    0.5534,
+    0.488
+   ]
+  },
+  "Krümet|Zewa Smart Toilettenpapier": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.5599,
+    0.175,
+    0.7747,
+    0.3683
+   ]
+  },
+  "Krümet|Plenty Küchenrolle Super-Vorteilspack": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.7682,
+    0.2026,
+    0.9961,
+    0.4788
+   ]
+  },
+  "Krümet|Volvic Juicy": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.0065,
+    0.5046,
+    0.1888,
+    0.6722
+   ]
+  },
+  "Krümet|Hela Gewürzketchup Curry": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.1888,
+    0.5046,
+    0.3711,
+    0.6722
+   ]
+  },
+  "Krümet|Toblerone Diamond Pralines": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.3711,
+    0.5046,
+    0.5534,
+    0.6722
+   ]
+  },
+  "Krümet|Zwilling Filterkaffeemaschine": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-1-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.0065,
+    0.6814,
+    0.5534,
+    0.9576
+   ]
+  },
+  "Krümet|Cheez-It Cracker": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-8-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.4883,
+    0.1427,
+    0.6576,
+    0.3775
+   ]
+  },
+  "Krümet|Martini Geschenke-Set mit Glas": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-8-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.0195,
+    0.0506,
+    0.319,
+    0.2164
+   ]
+  },
+  "Krümet|Heinz Saucen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-8-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.013,
+    0.3131,
+    0.319,
+    0.4696
+   ]
+  },
+  "Krümet|Feinste Marken-Confiserie Trüffel/Pralinen": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-8-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.3255,
+    0.046,
+    0.6576,
+    0.1381
+   ]
+  },
+  "Krümet|Schogetten": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-8-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.3411,
+    0.3867,
+    0.6576,
+    0.4788
+   ]
+  },
+  "Krümet|Der Waschfuxx XXL-Jumbopack": {
+   "u": "https://www.prospektwelten.com/wp-content/uploads/2026/10/kruemet-prospekt-ab-02-11-2026-kw45-seite-8-768x1086.webp",
+   "r": 1.4141,
+   "b": [
+    0.6706,
+    0.0506,
+    0.9961,
+    0.2762
+   ]
+  },
+  "Penny|Jacobs Krönung gemahlen": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-1-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.3516,
+    0.1473,
+    0.6641,
+    0.4124
+   ]
+  },
+  "Penny|Leerdammer Trio-Scheiben / Käsescheiben": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-1-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.0391,
+    0.1473,
+    0.3451,
+    0.6554
+   ]
+  },
+  "Penny|Mango": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-1-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.6576,
+    0.1473,
+    1.0,
+    0.3829
+   ]
+  },
+  "Penny|Mühlenhof Frische Hähnchen-Brustfilets XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-1-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.3776,
+    0.3903,
+    1.0,
+    0.6259
+   ]
+  },
+  "Penny|Iglo Backfisch-Stäbchen / Fischstäbchen": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-1-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.0391,
+    0.6406,
+    0.3451,
+    0.9499
+   ]
+  },
+  "Penny|Best Moments Knödel": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-1-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.3516,
+    0.6406,
+    0.651,
+    0.9499
+   ]
+  },
+  "Penny|Mühlenhof Rinder-Hackfleisch fettreduziert XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.0326,
+    0.0442,
+    0.5013,
+    0.2651
+   ]
+  },
+  "Penny|Mühlenhof Rinder-Gulasch": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.5078,
+    0.0442,
+    0.9766,
+    0.2651
+   ]
+  },
+  "Penny|Mühlenhof Chicken-Wings XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.0326,
+    0.2761,
+    0.5013,
+    0.4934
+   ]
+  },
+  "Penny|Geflügel-Hacksteaks XXL": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.5078,
+    0.2761,
+    0.9766,
+    0.4934
+   ]
+  },
+  "Penny|Schweine-Nackenbraten": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.0326,
+    0.5081,
+    0.5013,
+    0.7069
+   ]
+  },
+  "Penny|Tillman's Cevapcici kroatische Art": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.5078,
+    0.5081,
+    0.9766,
+    0.7069
+   ]
+  },
+  "Penny|Butcher's Pork Tomahawk Steak": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.0326,
+    0.729,
+    0.3451,
+    0.9499
+   ]
+  },
+  "Penny|Dreistern Entenkeule": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-6-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.3451,
+    0.729,
+    0.6641,
+    0.9499
+   ]
+  },
+  "Penny|Aperol Aperitivo": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-24-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.0521,
+    0.0442,
+    0.2344,
+    0.2577
+   ]
+  },
+  "Penny|Captain Morgan Spiced / Baileys": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-24-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.4102,
+    0.0442,
+    0.612,
+    0.2577
+   ]
+  },
+  "Penny|Corona Extra": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-24-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.332,
+    0.2835,
+    0.5208,
+    0.4934
+   ]
+  },
+  "Penny|Warsteiner Pils": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-24-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.5208,
+    0.2835,
+    0.7422,
+    0.4934
+   ]
+  },
+  "Penny|Lenor XXL Waschmittel / All in 1 Pods": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/penny-prospekt-november-2-7-24-768x1358.webp",
+   "r": 1.7682,
+   "b": [
+    0.0391,
+    0.3829,
+    0.3255,
+    0.7216
+   ]
+  },
+  "REWE|Ben's Original Express Reis": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-1_735-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.6706,
+    0.295,
+    0.9701,
+    0.5
+   ]
+  },
+  "REWE|Hackfleisch gemischt (Bedientheke)": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-1_735-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.6641,
+    0.5383,
+    0.9766,
+    0.7485
+   ]
+  },
+  "REWE|Chiquita Bananen": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-1_735-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.3451,
+    0.5383,
+    0.6576,
+    0.7485
+   ]
+  },
+  "REWE|Granini Trinkgenuss": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-1_735-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.3451,
+    0.7596,
+    0.6576,
+    0.9735
+   ]
+  },
+  "REWE|Bitburger Stubbi oder Alkoholfrei": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-1_735-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.6641,
+    0.7596,
+    0.9766,
+    0.9735
+   ]
+  },
+  "REWE|Rügenwalder Vegane Mühlen Schnitzel": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-1_735-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.013,
+    0.5383,
+    0.3255,
+    0.7485
+   ]
+  },
+  "REWE|Entrecôte vom Jungbullen (Bedientheke)": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-8_877-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.6445,
+    0.0,
+    1.0,
+    0.3024
+   ]
+  },
+  "REWE|Rinder-Schmorbraten (Bedientheke)": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-8_877-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.0326,
+    0.3466,
+    0.5013,
+    0.5162
+   ]
+  },
+  "REWE|Schweine-Lachsbraten (Bedientheke)": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-8_877-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.0326,
+    0.5383,
+    0.3385,
+    0.7485
+   ]
+  },
+  "REWE|Schweine-Bauch (Bedientheke)": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-8_877-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.3385,
+    0.5383,
+    0.6576,
+    0.7485
+   ]
+  },
+  "REWE|Cordon Bleu (Bedientheke)": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-8_877-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.6576,
+    0.5531,
+    0.9766,
+    0.7485
+   ]
+  },
+  "REWE|Hähnchenschnitzel paniert (Bedientheke)": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-8_877-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.3451,
+    0.7633,
+    0.6576,
+    0.9735
+   ]
+  },
+  "REWE|Fairmast Hähnchen-Brustfilet (Bedientheke)": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-8_877-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.6576,
+    0.7633,
+    0.9766,
+    0.9735
+   ]
+  },
+  "REWE|Warsteiner Pils": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.026,
+    0.0147,
+    0.651,
+    0.3024
+   ]
+  },
+  "REWE|Coca-Cola": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.6706,
+    0.0147,
+    0.9766,
+    0.3024
+   ]
+  },
+  "REWE|Rockstar Energy Drink / Mocktails": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.026,
+    0.3097,
+    0.332,
+    0.5199
+   ]
+  },
+  "REWE|Volvic Mineralwasser": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.3451,
+    0.3097,
+    0.6576,
+    0.5199
+   ]
+  },
+  "REWE|Budweiser Premium Czech Lager": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.026,
+    0.5347,
+    0.332,
+    0.7485
+   ]
+  },
+  "REWE|Benediktiner Hell": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.3451,
+    0.5347,
+    0.6576,
+    0.7485
+   ]
+  },
+  "REWE|Karlsberg Mixery Iced Blue": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.026,
+    0.7596,
+    0.332,
+    0.9735
+   ]
+  },
+  "REWE|Jever Pilsener oder Fun": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.3451,
+    0.7596,
+    0.6576,
+    0.9735
+   ]
+  },
+  "REWE|Kapuziner Weißbier": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-16_458-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.6641,
+    0.7596,
+    0.9766,
+    0.9735
+   ]
+  },
+  "REWE|Butcher's Irish Beef Tomahawk Steak": {
+   "u": "https://prospekterst.com/wp-content/uploads/2026/10/rewe-prospekt-november-2-7-9_558-768x1356.webp",
+   "r": 1.7656,
+   "b": [
+    0.0,
+    0.0,
+    1.0,
+    0.3024
+   ]
+  },
+  "Aldi Nord|Gemischtes Hackfleisch XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1019420_45_2026_hackfleischgemischt_01_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Hähnchenschenkel mit Rückenstück XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1257_46_2026_haehnchenschenkelmitrueckenstueck_on_211026_122257?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Schinken-Schnitzel": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/8701_39_2026_schinkenschnitzelqs500gr_01_on1_on_100926_164742?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Paprika-Schinkengeschnetzeltes": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1035771_45_2026_schinkengeschnetzeltes_qs_500_g_vom_schwein_ma_1_on_141026_112034?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Rinder-Cevapcici XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1027727_45_2026_fug_rind_cevapcici_xxl_on_221026_101454?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Gourmet Gänsebrust mit Knochen": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/8467_45_2026_tk_gaensebrust_mit_knochen_1000_g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Gourmet Hirschedelgulasch": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/8978_45_2026_tk_gourmet_hirschedelgulasch_500_g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Salami": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1441_45_2026_echte_ungarische_salami_400_g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Ungarische Salami XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1038533_45_2026_ungarische_salami_120g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Kabanossi": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1038576_45_2026_kabanossi_175g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Balcerzak Würstchen": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1028276_45_2026_original_polnische_wuerstchen_450_g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Putenrouladen": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1022479_45_2026_puterouladen_02_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Suppenfleisch XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1022482_45_2026_suppenfleisch_xxl_800_g_on_211026_121946?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Rückenbraten XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1022885_45_2026_rueckenbratenxxl_fs_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Alpenschmaus Mini-Haxen": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1029445_45_2026_minihaxen_01_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Schweine-Nuggets mit Dip": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1042937_45_2026_schweinnuggetsmitdip_01_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Thüringer Knackige Bockwurst": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1002384_45_2026_orig_thuer_knack_bockwurst_5x80g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Schinken-Lyoner XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1012018_45_2026_schinkenlyonerxxl_01_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Coca-Cola Original Taste": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/4039_36_2026_cocacola_regular_on_120826_185941?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Coca-Cola Cherry / Vanilla / Lemon": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1000862_45_2026_cocacola_1250ml_on_comp?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Heineken Original": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1023300_45_2026_heineken_original_12_x_033_l_3_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Tyskie Gronie": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1032207_45_2026_tyskie_gronie_6_x_05l_dose_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Paulaner Spezi": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1037001_45_2026_paulaner_spezi_6x033l_ds_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Krupnik Wódka": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1037012_45_2026_krupnik_vodka_05l_40prozent_1_2_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Kirsch- / Heidelbeerglühwein": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1034722_45_2026_kirschgluehwein_1_l_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Barilla Pasta (Fusilli, Penne, Spaghetti …)": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1013069_45_2026_barillafusilli1kg_1000g_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Kerrygold Butter": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/4704_45_2026_kerrygold_original_250g_2_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Dr. Oetker Ristorante Pizza": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1039060_45_2026_tk_droetker_rist_salami_2x320g_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Philadelphia Frischkäse": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1011877_45_2026_philadelphiadoppelrahm_02_on_191026_101538?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Iglo Filegro Ofen-Backfisch XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1033621_45_2026_iglo_filegro_ofenbackfisch_xxl_480g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Rama Original XXL": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1021584_44_2024_ramaoriginal400g_02_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Weihenstephan Frische Milch": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1033330_45_2026_frischmilch_01_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Dovgan Taschki Pelmeni": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/6369_45_2026_tk_taschki_pelmeni_schweinefleisch_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Golden Seafood Garnelen": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1045628_45_2026_garnelen_geschaelt_natur_200g_1_on_211026_152447?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Gourmet Lachsfiletseite": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1012885_13_2026_lachsfilet_01_on_100326_172541?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Speisekartoffeln Drillinge": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/6115_small_potatoes_triplets_03_on_201026_121112?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Storck Toffifee": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1038522_37_2025_toffifee_125g_1_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Nutella Eisbecher": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1032995_45_2026_tk_nutella_eisbecher_3_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Nippon": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1016023_45_2026_nippon_01_on?wid=400&fmt=webp"
+  },
+  "Aldi Nord|Colgate Zahnbürsten": {
+   "u": "https://s7g10.scene7.com/is/image/aldinord/1034492_45_2026_colgate_zahnbuerste_extra_clean_on?wid=400&fmt=webp"
+  }
+ },
+ "ts": 1793552658
 }
