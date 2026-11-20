@@ -194,6 +194,26 @@ h1,h2,h3{font-family:var(--f-display);letter-spacing:.01em;margin:0}
 .steps li{counter-increment:s;display:flex;gap:12px;padding:10px 0;border-top:1px solid var(--line)}
 .steps li:first-child{border-top:0}
 .steps li::before{content:counter(s);flex:none;width:28px;height:28px;border-radius:50%;background:var(--ink);color:var(--bg);font-weight:700;display:inline-flex;align-items:center;justify-content:center;font-size:14px}
+.sheetbg{position:fixed;inset:0;z-index:55;background:rgba(0,0,0,.5);display:flex;align-items:flex-end;justify-content:center}
+.sheet{background:var(--surface);width:100%;max-width:720px;border-radius:20px 20px 0 0;padding:10px 16px calc(18px + env(safe-area-inset-bottom,0px));max-height:88vh;overflow-y:auto;animation:up .18s ease-out}
+@keyframes up{from{transform:translateY(40px);opacity:.4}to{transform:none;opacity:1}}
+.sheet .grab{width:40px;height:5px;border-radius:3px;background:var(--line);margin:0 auto 12px}
+.sheet .big{width:100%;height:200px;background:#fff;border-radius:14px;display:flex;align-items:center;justify-content:center;overflow:hidden;color:#18202b;position:relative}
+.sheet .big img{max-width:94%;max-height:94%;object-fit:contain}
+.sheet .big svg{width:50%;height:50%}
+.sheet .big .crop{max-width:94%;max-height:94%}
+.sheet .big .pct{position:absolute;left:0;top:0;background:var(--save);color:#fff;font-weight:700;padding:3px 9px;border-radius:0 0 10px 0}
+.sheet h2{font-size:26px;font-weight:800;line-height:1.1;margin-top:14px}
+.sheet .st{display:flex;align-items:center;color:var(--muted);font-size:14px;margin-top:4px}
+.sheet .pr{margin-top:10px}.sheet .pr .price{font-size:34px}
+.sheet dl{margin:14px 0 0;display:grid;grid-template-columns:auto 1fr;gap:8px 14px;font-size:15px}
+.sheet dt{color:var(--muted)}
+.sheet dd{margin:0;font-weight:600;overflow-wrap:anywhere}
+.sheet .acts{display:flex;gap:8px;margin-top:16px}
+.sheet .acts .btn{flex:1;min-height:46px}
+.off,.ent{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+.lp{transform:scale(.98);transition:transform .15s}
+.hold{font-size:12px;color:var(--muted);text-align:center;margin:10px 0 0}
 .toast{position:fixed;left:50%;bottom:calc(var(--nav) + 14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:80;background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:20px;font-weight:600;font-size:14px;max-width:90vw;box-shadow:0 4px 14px rgba(0,0,0,.25)}
 </style>
 </head>
@@ -248,6 +268,7 @@ h1,h2,h3{font-family:var(--f-display);letter-spacing:.01em;margin:0}
   <div class="pages" id="pages"></div>
   <div class="bf"><button class="ib" type="button" id="boxPrev" aria-label="Vorherige Seite"></button><span class="hint">Wischen · Tippen zum Zoomen</span><button class="ib" type="button" id="boxNext" aria-label="Nächste Seite"></button></div>
 </div>
+<div class="sheetbg" id="info" hidden role="dialog" aria-label="Artikel-Details"><div class="sheet" id="infoBody"></div></div>
 <div class="toast" id="toast" hidden role="status"></div>
 
 <script>
@@ -554,7 +575,7 @@ window.startApp=function(){
       var G=groups[g], idxs=G.list.slice().sort(function(a,b){return (LIST.entries[a].done?1:0)-(LIST.entries[b].done?1:0);});
       h+='<div class="grp"><div class="gh">'+(g==='Sonstiges'?'':dot(g))+'<span class="gn">'+esc(g)+'</span>'+(g==='Sonstiges'?'':'<b>'+eur(G.sum)+'</b>')+'</div>';
       idxs.forEach(function(idx){ var e=LIST.entries[idx];
-        h+='<div class="ent'+(e.done?' done':'')+'"><button class="ck" type="button" data-ck="'+idx+'" aria-label="Abhaken" aria-pressed="'+e.done+'"><i>'+SV.ok+'</i></button>'+miniOf(e)+
+        h+='<div class="ent'+(e.done?' done':'')+'" data-einfo="'+idx+'"><button class="ck" type="button" data-ck="'+idx+'" aria-label="Abhaken" aria-pressed="'+e.done+'"><i>'+SV.ok+'</i></button>'+miniOf(e)+
           '<div class="et"><div class="en">'+esc(entryName(e))+'</div>'+(e.free==null?'<div class="eu">'+esc(e.snap.unit)+(e.q>1?' · '+e.q+' × '+eur(e.snap.price):'')+'</div>':'')+'</div>'+
           (e.free==null?'<span class="qty"><button type="button" data-q="'+idx+'" data-d="-1" aria-label="Weniger">'+SV.minus+'</button><b>'+e.q+'</b><button type="button" data-q="'+idx+'" data-d="1" aria-label="Mehr">'+SV.plus+'</button></span>':'')+
           '<button class="del" type="button" data-del="'+idx+'" aria-label="Löschen">'+SV.x+'</button></div>';
@@ -612,7 +633,7 @@ window.startApp=function(){
   function openShop(st){ shopSt=st; shopCat=''; $('shopQ').value=''; $('shopTitle').innerHTML=dot(st)+esc(st); $('shopPros').disabled=!(PAGES[st]||[]).length; var s=D.stores[st]; $('shopNote').textContent='Gültig '+s.gilt+(s.hinweis?' · '+s.hinweis:''); shop.hidden=false; shop.scrollTop=0; renderShop(); }
   function offRow(i){
     var q=qtyOf(i.k);
-    return '<div class="off"><div class="ph">'+pic(i)+(i.pct>=10?'<span class="pct">−'+i.pct+'%</span>':'')+'</div><div class="tx"><div class="n">'+esc(i.name)+'</div><div class="u">'+esc(i.unit)+(i.note?' · '+esc(i.note):'')+'</div><div><span class="price">'+eur(i.price)+'</span>'+(i.old?'<span class="old">'+eur(i.old)+'</span>':'')+'</div></div>'+
+    return '<div class="off" data-info="'+esc(i.k)+'"><div class="ph">'+pic(i)+(i.pct>=10?'<span class="pct">−'+i.pct+'%</span>':'')+'</div><div class="tx"><div class="n">'+esc(i.name)+'</div><div class="u">'+esc(i.unit)+(i.note?' · '+esc(i.note):'')+'</div><div><span class="price">'+eur(i.price)+'</span>'+(i.old?'<span class="old">'+eur(i.old)+'</span>':'')+'</div></div>'+
       (q?'<span class="qty"><button type="button" data-k="'+esc(i.k)+'" data-d="-1" aria-label="Weniger">'+SV.minus+'</button><b>'+q+'</b><button type="button" data-k="'+esc(i.k)+'" data-d="1" aria-label="Mehr">'+SV.plus+'</button></span>':'<button class="add" type="button" data-k="'+esc(i.k)+'" data-d="1" aria-label="Auf die Einkaufsliste">'+SV.plus+'</button>')+'</div>';
   }
   function renderShop(){
@@ -622,7 +643,7 @@ window.startApp=function(){
     var q=$('shopQ').value.trim().toLowerCase();
     var L=all.filter(function(i){return (!shopCat||i.cat===shopCat)&&(!q||i.name.toLowerCase().indexOf(q)>-1);});
     L.sort(function(a,b){ return (shopCat?0:CAT_ORDER.indexOf(a.cat)-CAT_ORDER.indexOf(b.cat))||b.pct-a.pct||a.price-b.price; });
-    $('shopList').innerHTML=L.length?L.map(offRow).join(''):'<p class="empty">Keine Treffer.</p>';
+    $('shopList').innerHTML=L.length?L.map(offRow).join('')+'<p class="hold">Lange drücken für alle Infos zum Artikel</p>':'<p class="empty">Keine Treffer.</p>';
   }
   $('shopCats').addEventListener('click',function(e){ var t=e.target.closest('[data-cat]'); if(!t) return; shopCat=t.dataset.cat; renderShop(); });
   $('shopQ').addEventListener('input',renderShop);
@@ -705,17 +726,61 @@ window.startApp=function(){
   });
   function closePanel(id){ $(id).hidden=true; if(id==='rez'&&tab==='list') renderList(); if(id==='rez'&&tab==='rez') renderRez(); }
 
+  // ---------- Details per langem Druck ----------
+  var infoEl=$('info'), infoK=null;
+  function openInfo(i,e){
+    infoK=i?i.k:null;
+    var nm=i?i.name:entryName(e), st=i?i.store:(e&&e.snap?e.snap.store:''), pct=i?i.pct:0;
+    var unit=i?i.unit:(e&&e.snap?e.snap.unit:''), price=i?i.price:(e&&e.snap?e.snap.price:null), old=i?i.old:(e&&e.snap?e.snap.old:null);
+    var h='<div class="grab"></div><div class="big">'+(i?pic(i):'<svg viewBox="0 0 64 64">'+iconFor({name:nm,cat:''})+'</svg>')+(pct>=1?'<span class="pct">−'+pct+'%</span>':'')+'</div>';
+    h+='<h2>'+esc(nm)+'</h2>'+(st?'<div class="st">'+dot(st)+esc(st)+(i?' · '+esc(i.cat):'')+'</div>':'');
+    if(price!=null) h+='<div class="pr"><span class="price">'+eur(price)+'</span>'+(old?'<span class="old">'+eur(old)+'</span>':'')+(old?' <span class="tg a">'+eur(old-price)+' gespart</span>':'')+'</div>';
+    var rows=[];
+    if(unit) rows.push(['Menge',unit]);
+    if(i&&i.note) i.note.split(/;\s*/).forEach(function(x,j){ if(x.trim()) rows.push([j?'':'Hinweise',x.trim()]); });
+    if(st&&D.stores[st]){ rows.push(['Gültig',D.stores[st].gilt]); if(D.stores[st].hinweis) rows.push(['Markt',D.stores[st].hinweis]); }
+    if(!i&&e&&e.k) rows.push(['','Dieses Angebot ist nicht mehr in den aktuellen Prospekten.']);
+    if(rows.length) h+='<dl>'+rows.map(function(r){return '<dt>'+esc(r[0])+'</dt><dd>'+esc(r[1])+'</dd>';}).join('')+'</dl>';
+    var q=i?qtyOf(i.k):0;
+    h+='<div class="acts">'+(i?'<button class="btn pri" type="button" id="infoAdd">'+(q?'Noch eins auf die Liste ('+q+')':'Auf die Einkaufsliste')+'</button>':'')+((i&&(PAGES[i.store]||[]).length)?'<button class="btn" type="button" id="infoPros">Prospekt</button>':'')+'<button class="btn" type="button" id="infoClose">Schließen</button></div>';
+    $('infoBody').innerHTML=h; infoEl.hidden=false;
+  }
+  infoEl.addEventListener('click',function(ev){
+    if(ev.target===infoEl||ev.target.id==='infoClose'){ infoEl.hidden=true; return; }
+    if(ev.target.id==='infoAdd'){ addOffer(infoK); infoEl.hidden=true; if(!shop.hidden) renderShop(); if(tab==='list') renderList(); }
+    if(ev.target.id==='infoPros'){ var s=BYK[infoK].store; infoEl.hidden=true; openPros(s); }
+  });
+  (function(){
+    var timer=null, sx=0, sy=0, fired=false, row=null;
+    function cancel(){ clearTimeout(timer); timer=null; if(row) row.classList.remove('lp'); row=null; }
+    document.addEventListener('pointerdown',function(ev){
+      var r=ev.target.closest('[data-info],[data-einfo]'); if(!r) return;
+      fired=false; sx=ev.clientX; sy=ev.clientY; row=r; r.classList.add('lp');
+      timer=setTimeout(function(){
+        fired=true; var rr=row; cancel();
+        if(navigator.vibrate) try{navigator.vibrate(20);}catch(e){}
+        if(rr.dataset.info) openInfo(BYK[rr.dataset.info]);
+        else { var e=LIST.entries[+rr.dataset.einfo]; if(e) openInfo(e.k?BYK[e.k]:null,e); }
+      },450);
+    },{passive:true});
+    document.addEventListener('pointermove',function(ev){ if(timer&&(Math.abs(ev.clientX-sx)>10||Math.abs(ev.clientY-sy)>10)) cancel(); },{passive:true});
+    document.addEventListener('pointerup',cancel); document.addEventListener('pointercancel',cancel);
+    document.addEventListener('click',function(ev){ if(fired){ fired=false; ev.stopPropagation(); ev.preventDefault(); } },true);
+    document.addEventListener('contextmenu',function(ev){ if(ev.target.closest('[data-info],[data-einfo]')) ev.preventDefault(); });
+  })();
+
   // ---------- Tabs ----------
   var tab='pros', VIEWS={pros:'vPros',list:'vList',rez:'vRez'};
   function setTab(t){
     if(!VIEWS[t]) t='pros'; tab=t;
     Object.keys(VIEWS).forEach(function(k){ $(VIEWS[k]).hidden=k!==t; });
     document.querySelectorAll('.nav [data-tab]').forEach(function(b){ if(b.dataset.tab===t) b.setAttribute('aria-current','page'); else b.removeAttribute('aria-current'); });
-    shop.hidden=true; rezEl.hidden=true; suggEl.hidden=true;
+    shop.hidden=true; rezEl.hidden=true; suggEl.hidden=true; infoEl.hidden=true;
     if(t==='list') renderList(); if(t==='rez') renderRez();
     window.scrollTo(0,0); store('app-tab',t);
   }
   window.appBack=function(){
+    if(!infoEl.hidden){ infoEl.hidden=true; return 1; }
     if(!box.hidden){ closeBox(); return 1; }
     if(!rezEl.hidden){ closePanel('rez'); return 1; }
     if(!shop.hidden){ shop.hidden=true; return 1; }
