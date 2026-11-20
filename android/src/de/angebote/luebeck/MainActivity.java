@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
         s.setCacheMode(WebSettings.LOAD_DEFAULT);
         s.setAllowFileAccess(false);
         s.setAllowContentAccess(false);
-        s.setUserAgentString(s.getUserAgentString() + " AngeboteLuebeckApp/2.0");
+        s.setUserAgentString(s.getUserAgentString() + " AngeboteLuebeckApp/4.0");
 
         web.setWebChromeClient(new Chrome(this));
         web.setWebViewClient(new Client(this));
@@ -64,8 +64,7 @@ public class MainActivity extends Activity {
         if (pausedAt > 0 && SystemClock.elapsedRealtime() - pausedAt > 3L * 60 * 60 * 1000) web.reload();
     }
     @Override public void onBackPressed() {
-        web.evaluateJavascript("(function(){var s=document.getElementById('sheet'),x=document.getElementById('box');"
-            + "if(x&&!x.hidden){x.hidden=true;return 1;} if(s&&!s.hidden){document.getElementById('closeList').click();return 1;} return 0;})()",
+        web.evaluateJavascript("(function(){try{if(window.appBack)return window.appBack();}catch(e){}return 0;})()",
             (android.webkit.ValueCallback<String>) (android.webkit.ValueCallback) new BackResult(this));
     }
     void backFallback() { if (web.canGoBack()) web.goBack(); else finish(); }
