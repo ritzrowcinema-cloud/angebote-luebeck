@@ -26,9 +26,9 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle b) {
         super.onCreate(b);
         FrameLayout root = new FrameLayout(this);
-        root.setBackgroundColor(Color.parseColor("#0E1217"));
+        root.setBackgroundColor(Color.parseColor("#E9EFF4"));
         web = new WebView(this);
-        web.setBackgroundColor(Color.parseColor("#0E1217"));
+        web.setBackgroundColor(Color.parseColor("#E9EFF4"));
         root.addView(web, new FrameLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
         bar = new ProgressBar(this, null, android.R.attr.progressBarStyleHorizontal);
         bar.setIndeterminate(true);
@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
         s.setCacheMode(WebSettings.LOAD_DEFAULT);
         s.setAllowFileAccess(false);
         s.setAllowContentAccess(false);
-        s.setUserAgentString(s.getUserAgentString() + " AngeboteLuebeckApp/6.0");
+        s.setUserAgentString(s.getUserAgentString() + " AngeboteLuebeckApp/7.0");
 
         web.setWebChromeClient(new Chrome(this));
         web.setWebViewClient(new Client(this));

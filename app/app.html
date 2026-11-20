@@ -2,9 +2,10 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
+<meta name="theme-color" content="#e9eff4">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Angebote Lübeck</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,600&family=Nunito:wght@400;600;700;800&display=swap">
 <style>
 :root{
   --bg:#f3f4f1; --surface:#fff; --ink:#18202b; --muted:#5f6874; --line:#e1e4de; --chip:#e8ebe5;
@@ -215,6 +216,97 @@ h1,h2,h3{font-family:var(--f-display);letter-spacing:.01em;margin:0}
 .lp{transform:scale(.98);transition:transform .15s}
 .hold{font-size:12px;color:var(--muted);text-align:center;margin:10px 0 0}
 .toast{position:fixed;left:50%;bottom:calc(var(--nav) + 14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:80;background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:20px;font-weight:600;font-size:14px;max-width:90vw;box-shadow:0 4px 14px rgba(0,0,0,.25)}
+
+/* ===== Landhaus-Design: Taubenblau, Rosa, Dunkelblau, Hellgelb, Pastellorange ===== */
+:root,:root[data-theme],:root:not([data-theme="light"]){
+  --bg:#f5efe3; --surface:#fffcf6; --ink:#1f1b16; --muted:#6e665a; --line:#e7dcc8; --chip:#efe5d3;
+  --tag:#ecc25c; --tag-ink:#1f1b16; --save:#c4603a; --accent:#6f8f5e; --good:#5d8a4c; --good-bg:#e4eedb; --heart:#c64f5c;
+  --f-display:"Lora",Georgia,serif; --f-body:"Nunito",system-ui,sans-serif; --r:18px; color-scheme:light}
+body{background:var(--bg) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6' height='6'%3E%3Cpath d='M0 0h1v1H0z' fill='%23d9ccb4' fill-opacity='.35'/%3E%3C/svg%3E")}
+h1,h2,h3,.price{font-family:var(--f-display)!important;color:var(--ink)}
+.top{position:relative;padding-top:30px}
+.top::before{content:"";position:absolute;left:-16px;right:-16px;top:0;height:12px;background:
+ repeating-linear-gradient(90deg,rgba(111,143,94,.55) 0 8px,transparent 8px 16px),repeating-linear-gradient(0deg,rgba(111,143,94,.55) 0 6px,rgba(111,143,94,.18) 6px 12px)}
+.top h1{font-weight:600;font-size:34px;letter-spacing:0}
+.top h1::after{content:"";display:block;width:56px;height:3px;border-radius:2px;background:var(--save);margin-top:6px}
+.sec{font-weight:600;font-style:italic}
+.card{border-radius:18px;box-shadow:0 2px 8px rgba(80,60,30,.08);border:1px solid var(--line)}
+.card .cv{border-bottom:1px solid var(--line)}
+.card .bar{height:4px}
+.card .nm{font-family:var(--f-display);font-weight:600;font-size:19px}
+.btn{border-radius:12px;font-weight:700}
+.btn.pri{background:var(--accent);color:#fff}
+.card .btn:not(.pri){background:#fbefe6;color:#a24c2c}
+.nav{background:var(--surface);border-top:1px solid var(--line);box-shadow:0 -2px 10px rgba(80,60,30,.06)}
+.nav button[aria-current="page"]{color:var(--accent)}
+.nav button[aria-current="page"]::before{background:var(--accent)}
+.badge{background:var(--save)}
+.off,.rc,.grp,.zl{border:1px solid var(--line);border-radius:16px;box-shadow:0 1px 4px rgba(80,60,30,.05)}
+.ph{border-radius:12px}
+.add{background:var(--accent);color:#fff}
+.qty{background:#e9efe2}
+.chip{background:var(--surface);border:1px solid var(--line)}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.ph .pct{background:var(--save);border-radius:0 0 10px 0}
+.sum{background:linear-gradient(135deg,#6f8f5e,#5b7a4d);color:#fff}
+.sum .track{background:rgba(255,255,255,.25)}
+.phead{background:var(--bg)}
+.search{border-radius:14px;background:var(--surface)}
+.tg.l{background:var(--good-bg);color:#3f6b31}.tg.a{background:#f6e2b0}
+.ck i{border-color:#a99f8e}
+.ent.done .ck i{background:var(--accent);border-color:var(--accent)}
+.toast{background:#3c3a33}
+
+:root,:root[data-theme],:root:not([data-theme="light"]){--bg:#e9eff4!important;--surface:#ffffff!important;--line:#d3dee8!important;--chip:#dde6ee!important} body{background:#e9eff4 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6' height='6'%3E%3Cpath d='M0 0h1v1H0z' fill='%23b4c4d3' fill-opacity='.35'/%3E%3C/svg%3E")!important} .card .btn:not(.pri){background:#fbeee6!important}
+
+:root,:root[data-theme],:root:not([data-theme="light"]){--save:#d4607f!important;--heart:#d4607f!important}
+.top::before{background:repeating-linear-gradient(90deg,rgba(214,112,140,.55) 0 8px,transparent 8px 16px),repeating-linear-gradient(0deg,rgba(214,112,140,.5) 0 6px,rgba(214,112,140,.16) 6px 12px)!important}
+.top h1::after{background:#d4607f!important}
+.card .btn:not(.pri){background:#fbe6ec!important;color:#b2456a!important}
+.ph .pct{background:#d4607f!important}
+.badge{background:#d4607f!important}
+.tg.a{background:#fbe0e8!important;color:#9c3b5c!important}
+.sum .fill{filter:none}
+.grp .gh{background:linear-gradient(90deg,#fdf0f4,transparent 70%)}
+
+
+:root,:root[data-theme],:root:not([data-theme="light"]){--tag:#f3dfb8!important;--blue:#4d6f93}
+.chip[aria-pressed="true"]{background:#4d6f93!important;border-color:#4d6f93!important;color:#fff!important}
+.nav button[aria-current="page"]{color:#4d6f93!important}
+.nav button[aria-current="page"]::before{background:#4d6f93!important}
+.sum{background:linear-gradient(135deg,#557a9f,#45668a)!important}
+.sum .fill{background:#f4c2d0!important}
+.phead .ib,.phead #shopPros{background:#dbe5ef!important;color:#2f4b68!important}
+.qty{background:#e1eaf3!important;color:#2f4b68}
+.ent.done .ck i{background:#4d6f93!important;border-color:#4d6f93!important}
+.search:focus{outline:2px solid #4d6f93;border-color:#4d6f93}
+.addbox .search{border:2px solid #9fb6cc!important}
+.card .gl,.top p{color:#4d6f93!important}
+.seg button[aria-pressed="true"]{color:#2f4b68}
+.tg.l{background:#e1eaf3!important;color:#2f4b68!important}
+.sec{color:#2f4b68!important}
+
+
+:root,:root[data-theme],:root:not([data-theme="light"]){--yel:#fbf1c4;--yel-d:#f3e3a0;--tag:#fbf1c4!important}
+.card .cv .pg{background:#fbf1c4!important;color:#5a4a12!important}
+.card .gl{display:inline-block;margin-left:10px;padding:1px 8px;border-radius:8px;background:#fbf1c4;color:#5a4a12!important}
+#shopNote{background:#fbf1c4;color:#5a4a12;border-radius:12px;padding:8px 12px;border:1px solid #f3e3a0}
+.often button{background:#fbf1c4!important;border-color:#f3e3a0!important}
+.grp .gh{background:linear-gradient(90deg,#fdf0f4,#fbf1c4)!important}
+.tg.a{background:#fbf1c4!important;color:#6a5512!important}
+.tg.w{background:#4d6f93!important}
+.top h1::after{width:56px;box-shadow:62px 0 0 #f1d97a}
+.top::before{background:repeating-linear-gradient(90deg,rgba(214,112,140,.55) 0 8px,rgba(241,217,122,.55) 8px 16px),repeating-linear-gradient(0deg,rgba(214,112,140,.35) 0 6px,rgba(255,255,255,.2) 6px 12px)!important}
+.sum .bars .brow b{color:#fbf1c4}
+.toast{background:#4d6f93!important}
+
+
+:root,:root[data-theme],:root:not([data-theme="light"]){--accent:#f2ae7e!important}
+.btn.pri{background:#f5b78a!important;color:#4a250c!important}
+.add{background:#f5b78a!important;color:#4a250c!important}
+.ent.done .ck i{background:#f2ae7e!important;border-color:#f2ae7e!important;color:#4a250c!important}
+.seg button[aria-pressed="true"]{box-shadow:inset 0 -3px 0 #f5b78a,0 1px 2px rgba(0,0,0,.12)!important}
+
 </style>
 </head>
 <body>
@@ -278,7 +370,7 @@ __RECIPES__
 window.startApp=function(){
 __ICONS__
   var D=window.__D, IMG=D.img||{}, PAGES=D.pages||{};
-  var COLORS={"Aldi Nord":"#2a5cad","Lidl":"#f2c200","Penny":"#cd1719","REWE":"#b8001f","Netto":"#ffcc00","Norma":"#e3051b","Jawoll":"#e85d04","Krümet":"#7a1fa2"};
+  var COLORS={"Aldi Nord":"#4f71a6","Lidl":"#c9a95c","Penny":"#c96a6a","REWE":"#a9505c","Netto":"#d0ad6b","Norma":"#cf7276","Jawoll":"#c98a5a","Krümet":"#8e6aa8"};
   var FOOD={'Fleisch & Wurst':1,'Lebensmittel':1};
   var CAT_ORDER=['Fleisch & Wurst','Lebensmittel','Getränke','Süßes','Haushalt','Deko','Mode','Pflanzen','Tier','Spielzeug'];
   var SV={
@@ -312,7 +404,8 @@ __ICONS__
   });
   var BYK={}; items.forEach(function(i){BYK[i.k]=i; i.keys=FOOD[i.cat]?keysOf(i.name):[];});
   var OFFER={}; // Schlüssel -> günstigstes Lebensmittel-Angebot
-  items.forEach(function(i){ i.keys.forEach(function(k){ if(!OFFER[k]||i.price<OFFER[k].price) OFFER[k]=i; }); });
+  var MIXED=/salat|aufstrich|sauce|soße|chips|\bdip\b|snack|suppe|fertig|pizza|riegel|keks|kuchen|brotaufstrich|gewürz|würzmischung|fix\b|chutney|creme|pastete/i;
+  items.forEach(function(i){ var mixed=MIXED.test(i.name); i.keys.forEach(function(k){ if(mixed&&k!=='salat') return; if(!OFFER[k]||i.price<OFFER[k].price) OFFER[k]=i; }); });
   var storeNames=Object.keys(D.stores);
   var kwNum=parseInt(String(D.kw).replace(/\D/g,''),10)||0;
   $('range').textContent='KW '+kwNum+' · '+D.von.slice(0,6)+'–'+D.bis+' · Stand '+D.stand+(window.__OFF?' · offline':'');
