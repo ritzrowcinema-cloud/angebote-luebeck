@@ -121,7 +121,20 @@ def kd_brochures():
 def kd_items(cid, store):
     raw = curl('https://content-viewer-be.kaufda.de/v1/brochures/%s/pages?partner=kaufda_web&lat=53.87&lng=10.69' % cid)
     d = json.loads(raw); out = []
+    ONL = re.compile(r'nur online|online-kracher|online-?exklusiv|exklusiv online|online buchbar|netto-reisen|versandkosten|nur im online-?shop|nur auf [a-z]+\.de', re.I)
+    def name_probe(c):
+        pr = (c.get('products') or [{}])[0]
+        return (pr.get('name') or '') + ' ' + texts(c)
+    def texts(c):
+        pr = (c.get('products') or [{}])[0]
+        s = ' '.join(x.get('paragraph', '') for x in pr.get('description') or [])
+        for dl in c.get('deals') or []:
+            s += ' ' + (dl.get('description') or '') + ' ' + ' '.join(x.get('other', '') or '' for x in dl.get('conditions') or [])
+        return s
     for page in d.get('contents', []):
+        offs = [(of.get('content') or {}) for of in page.get('offers') or []]
+        # Netto & Co. kennzeichnen Online-Seiten nur bei einzelnen Artikeln -> ganze Seite gilt als Online-Seite
+        online_page = store != 'Lidl' and any(ONL.search(texts(c)) for c in offs)
         for of in page.get('offers') or []:
             c = of.get('content') or {}
             prods = c.get('products') or []
@@ -140,8 +153,15 @@ def kd_items(cid, store):
                 if dl.get('min') is None: continue
                 byt.setdefault(dl['type'], dl)
             # nur online erhältliche Artikel weglassen (im Markt nicht zu kaufen)
-            allc = ' '.join(clean(x.get('other')) for dl in deals for x in dl.get('conditions') or [])
-            if re.search(r'nur online|online exklusiv|nur im online-?shop|nur auf [a-z]+\.de', allc + ' ' + desc, re.I): continue
+            tx = texts(c)
+            also = re.search(r'auch online', tx, re.I)
+            if re.search(r'nur online|online-kracher|online buchbar', tx, re.I) or (ONL.search(tx) and not also): continue
+            if online_page and not also: continue
+            if re.search(r'kreuzfahrt|reiseangebot|\bp\.\s?p\.|übernachtung|nächte im|hotel|ticketdeal|eintrittskarte', name_probe(c), re.I): continue
+            paths0 = [x['name'] for x in pr.get('categoryPaths') or []]
+            if store == 'Netto' and not also and 'Lebensmittel und Getränke' not in paths0:
+                pmin = min([float(dl['min']) for dl in deals if dl.get('min') is not None] or [0])
+                if pmin >= 150: continue  # große Online-Shop-Artikel (Sauna, Smartphone, Möbel …)
             notes = []
             sp, sa = byt.get('SPECIAL_PRICE'), byt.get('SALES_PRICE')
             main = sp or sa
