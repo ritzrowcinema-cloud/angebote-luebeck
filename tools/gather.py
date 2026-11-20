@@ -139,6 +139,9 @@ def kd_items(cid, store):
             for dl in deals:
                 if dl.get('min') is None: continue
                 byt.setdefault(dl['type'], dl)
+            # nur online erhältliche Artikel weglassen (im Markt nicht zu kaufen)
+            allc = ' '.join(clean(x.get('other')) for dl in deals for x in dl.get('conditions') or [])
+            if re.search(r'nur online|online exklusiv|nur im online-?shop|nur auf [a-z]+\.de', allc + ' ' + desc, re.I): continue
             notes = []
             sp, sa = byt.get('SPECIAL_PRICE'), byt.get('SALES_PRICE')
             main = sp or sa

@@ -1977,15 +1977,6 @@ null,
 ],
 [
 "Lidl",
-"Weingut Balthasar Ress Weinpaket Vom großen Fluss Riesling",
-"6x 0,75 l",
-47.99,
-77.94,
-"Getränke",
-"Nur online; l 10,66 €; Rheingau/Deutschland, Weißwein, trocken, bio"
-],
-[
-"Lidl",
 "TULLAMORE D.E.W. Irish Whiskey",
 "0,7 l",
 12.99,
@@ -2022,15 +2013,6 @@ null,
 ],
 [
 "Lidl",
-"THE TARGE Highland Single Grain Scotch Whisky 17 Jahre",
-"0,7 l",
-29.99,
-44.99,
-"Getränke",
-"Nur online; l 42,84 €; 44 % vol"
-],
-[
-"Lidl",
 "OLD ST. CROIX Non Plus Ultra Black Edition",
 "0,7 l",
 79.99,
@@ -2049,39 +2031,12 @@ null,
 ],
 [
 "Lidl",
-"Glenalba Blended Scotch Whisky Sherry Cask Finish",
-"0,7 l",
-66.99,
-99.99,
-"Getränke",
-"Nur online; l 95,70 €; 32 Jahre, 40 % vol."
-],
-[
-"Lidl",
-"Amarone della Valpolicella DOCG",
-"0,75 l",
-16.99,
-24.99,
-"Getränke",
-"Nur online; l 22,65 €; Rotwein, halbtrocken"
-],
-[
-"Lidl",
 "JAMES COOK Rum French Cask",
 "0,5 l",
 12.99,
 18.99,
 "Getränke",
 "l 25,98 €"
-],
-[
-"Lidl",
-"James Cook Rum Limousin Cask",
-"0,5 l",
-12.99,
-18.99,
-"Getränke",
-"Nur online; l 25,98 €"
 ],
 [
 "Lidl",
@@ -2139,15 +2094,6 @@ null,
 ],
 [
 "Lidl",
-"Dos Maderas PX 5+5 Jahre",
-"0,7 l",
-29.99,
-39.99,
-"Getränke",
-"UVP; Nur online; l 42,84 €; 40 % vol"
-],
-[
-"Lidl",
 "RON MILLONARIO Kuytchi Spirit Drink",
 "0,7 l",
 22.99,
@@ -2166,24 +2112,6 @@ null,
 ],
 [
 "Lidl",
-"Codorniu Cava Cuvee 1872, Schaumwein, brut",
-"0,75 l",
-9.99,
-12.99,
-"Getränke",
-"Nur online; l 13,32 €; Spanien"
-],
-[
-"Lidl",
-"Allini Asti Vino Spumante Millesimato DOCG",
-"0,75 l",
-6.99,
-8.99,
-"Getränke",
-"Nur online; l 9,32 €; Piemont/Italien, Schaumwein, mild"
-],
-[
-"Lidl",
 "Deluxe Rum Bourbon Cask",
 "0,5 l",
 10.99,
@@ -2199,15 +2127,6 @@ null,
 47.94,
 "Getränke",
 "l 8,44 €; Samos/Griechenland Likörwein, süß"
-],
-[
-"Lidl",
-"Planteray Rum Barbados XO",
-"0,7 l",
-39.0,
-49.0,
-"Getränke",
-"UVP; Nur online; l 55,71 €; 40 % vol"
 ],
 [
 "Lidl",
@@ -4056,15 +3975,6 @@ null,
 ],
 [
 "Lidl",
-"Vileda Dampfmopp",
-"",
-57.99,
-144.99,
-"Haushalt",
-"UVP; Nur online"
-],
-[
-"Lidl",
 "JAMIE OLIVER BY TEFAL Servierpfanne",
 "",
 34.99,
@@ -4164,15 +4074,6 @@ null,
 ],
 [
 "Lidl",
-"Tefal OptiGrill",
-"",
-79.99,
-169.99,
-"Haushalt",
-"UVP; Nur online"
-],
-[
-"Lidl",
 "EPSON Drucker Eco Tank",
 "",
 109.0,
@@ -4188,15 +4089,6 @@ null,
 459.99,
 "Haushalt",
 "UVP"
-],
-[
-"Lidl",
-"Eufy Saug- und Wischroboter",
-"",
-749.0,
-1499.0,
-"Haushalt",
-"UVP; Nur online"
 ],
 [
 "Lidl",
@@ -4236,21 +4128,21 @@ null,
 ],
 [
 "Lidl",
-"JBL Kabellose In-Ear-Ohrhörer",
-"",
-39.99,
-79.99,
-"Haushalt",
-"UVP; Modell VIBE FLEX 2, 40 h Wiedergabedauer"
-],
-[
-"Lidl",
 "Epson All-in-One-Drucker",
 "",
 39.99,
 79.99,
 "Haushalt",
 "UVP"
+],
+[
+"Lidl",
+"JBL Kabellose In-Ear-Ohrhörer",
+"",
+39.99,
+79.99,
+"Haushalt",
+"UVP; Modell VIBE FLEX 2, 40 h Wiedergabedauer"
 ],
 [
 "Lidl",
@@ -4272,15 +4164,6 @@ null,
 ],
 [
 "Lidl",
-"Fischer E-Bike Trekking Viator 2.1",
-"",
-999.0,
-1949.0,
-"Haushalt",
-"UVP; Nur online"
-],
-[
-"Lidl",
 "Brita Wasserfilter-Kanne",
 "Ca. 2,4 l",
 14.99,
@@ -4299,15 +4182,6 @@ null,
 ],
 [
 "Lidl",
-"Happy Hotty Wärmflasche mit Aromastein",
-"5 ml",
-7.99,
-14.99,
-"Haushalt",
-"UVP"
-],
-[
-"Lidl",
 "ROLLFIX Farbrolle mit Wechselbezügen",
 "",
 7.99,
@@ -4317,39 +4191,12 @@ null,
 ],
 [
 "Lidl",
-"VALE Tablet",
-"",
-79.99,
-149.99,
+"Happy Hotty Wärmflasche mit Aromastein",
+"5 ml",
+7.99,
+14.99,
 "Haushalt",
-"UVP; Nur online"
-],
-[
-"Lidl",
-"Sodastream 2 Ersatzflaschen à 1 l",
-"",
-9.99,
-17.99,
-"Haushalt",
-"UVP; Nur online"
-],
-[
-"Lidl",
-"Hammer Kraftstation (ca. 80 kg)",
-"ca. 80 kg",
-559.0,
-999.0,
-"Haushalt",
-"UVP; Nur online"
-],
-[
-"Lidl",
-"G3FERRARI Pizzaofen",
-"",
-159.0,
-279.95,
-"Haushalt",
-"UVP; Nur online"
+"UVP"
 ],
 [
 "Lidl",
@@ -4416,24 +4263,6 @@ null,
 ],
 [
 "Lidl",
-"Parkside Elektro-Rasenmäher",
-"40 l",
-59.99,
-99.99,
-"Haushalt",
-"Nur online"
-],
-[
-"Lidl",
-"Hammer Kraftstation (5 kg)",
-"5 kg",
-799.0,
-1299.0,
-"Haushalt",
-"UVP; Nur online; Modell FERRUM TX4, inkl. 12 Scheiben ( ) und klappbarem Rückentrainer"
-],
-[
-"Lidl",
 "Kenwood Multizerkleinerer",
 "ca. 0,5 l",
 22.99,
@@ -4497,24 +4326,6 @@ null,
 ],
 [
 "Lidl",
-"Sodastream Wassersprudler (ca. 60 l)",
-"ca. 60 l",
-39.99,
-59.99,
-"Haushalt",
-"UVP; Nur online"
-],
-[
-"Lidl",
-"Parkside Performance Akku-Bohrschrauber",
-"",
-39.99,
-59.99,
-"Haushalt",
-"Nur online"
-],
-[
-"Lidl",
 "PARKSIDE PERFORMANCE Akku-Werkzeug-Kombiset 20 V 99,99 €",
 "",
 99.99,
@@ -4530,15 +4341,6 @@ null,
 72.99,
 "Haushalt",
 "ab Donnerstag 26.11.; Aus Chrom-Vanadium, Chrom-Molybdän- und S2-Stahl 216-teilig, je Set"
-],
-[
-"Lidl",
-"Christopeit Holz Wasser Rudergerät",
-"15 l",
-649.0,
-929.0,
-"Haushalt",
-"UVP; Nur online"
 ],
 [
 "Lidl",
@@ -4605,15 +4407,6 @@ null,
 ],
 [
 "Lidl",
-"Silvercrest Mixbehälter-Set für Monsieur Cuisine connect/smart",
-"ca. 4,5 l",
-89.99,
-119.0,
-"Haushalt",
-"Nur online; Aus Edelstahl. Spülmaschinengeeignet."
-],
-[
-"Lidl",
 "CHRISTOPEIT Walking Pad",
 "",
 189.0,
@@ -4623,7 +4416,7 @@ null,
 ],
 [
 "Lidl",
-"Sodastream Wassersprudler (0,95 l)",
+"Sodastream Wassersprudler",
 "0,95 l",
 69.99,
 89.99,
@@ -4656,15 +4449,6 @@ null,
 229.0,
 "Haushalt",
 ""
-],
-[
-"Lidl",
-"Parkside 20 V Akku-Werkzeug Kombiset",
-"",
-199.0,
-249.0,
-"Haushalt",
-"Nur online"
 ],
 [
 "Lidl",
@@ -4821,30 +4605,12 @@ null,
 ],
 [
 "Lidl",
-"CHiQ QLED-Mini-LED-Smart-TV 55M79N u. a.",
-"",
-299.0,
-799.0,
-"Deko",
-"UVP; Auch online"
-],
-[
-"Lidl",
 "Remington Glätteisen",
 "",
 19.99,
 49.99,
 "Deko",
 "UVP; Auch online"
-],
-[
-"Lidl",
-"Crockpot Slow Cooker",
-"ca. 4,7 l",
-49.99,
-124.9,
-"Deko",
-"UVP; Nur online; Mit Warmhaltefunktion. 2 Temperatureinstellungen. 220 W."
 ],
 [
 "Lidl",
@@ -4902,8 +4668,8 @@ null,
 ],
 [
 "Lidl",
-"JAMIE OLIVER BY TEFAL® Pfanne 29,99 €",
-"",
+"JAMIE OLIVER BY TEFAL® Wok-Pfanne",
+"2 l",
 29.99,
 62.99,
 "Deko",
@@ -4911,8 +4677,8 @@ null,
 ],
 [
 "Lidl",
-"JAMIE OLIVER BY TEFAL® Wok-Pfanne",
-"2 l",
+"JAMIE OLIVER BY TEFAL® Pfanne 29,99 €",
+"",
 29.99,
 62.99,
 "Deko",
@@ -4953,15 +4719,6 @@ null,
 100.0,
 "Deko",
 "ab Freitag 27.11.; pro Gutschein"
-],
-[
-"Lidl",
-"Coca Cola Eiswürfelmaker mit Tragegriff",
-"8–10 kg",
-79.99,
-159.9,
-"Deko",
-"UVP; Nur online; Mit 2 verschiedenen Eiswürfelgrößen, Bis zu Eiswürfel in 24 Std., 100 W, ca. 1,2 l"
 ],
 [
 "Lidl",
@@ -5094,24 +4851,6 @@ null,
 "EMMA Taschenfederkern-Matratze",
 "",
 109.0,
-null,
-"Deko",
-""
-],
-[
-"Lidl",
-"Emma Matratze",
-"",
-129.0,
-null,
-"Deko",
-"Nur online"
-],
-[
-"Lidl",
-"HN8 SCHLAFSYSTEME 7-Zonen Taschenfederkern-Matratze",
-"",
-149.0,
 null,
 "Deko",
 ""
@@ -5415,15 +5154,6 @@ null,
 ],
 [
 "Lidl",
-"CBX by cybex Kinderautositz Solution X i-Fix",
-"",
-89.99,
-229.95,
-"Spielzeug",
-"ab Donnerstag 26.11.; UVP; Nur online"
-],
-[
-"Lidl",
 "Matchbox-Set",
 "",
 4.99,
@@ -5592,24 +5322,6 @@ null,
 59.99,
 "Spielzeug",
 "UVP"
-],
-[
-"Lidl",
-"Smoby Puppen-Pflege-Center",
-"",
-39.99,
-59.99,
-"Spielzeug",
-"UVP; Nur online"
-],
-[
-"Lidl",
-"Lupilu 10-in-1-Spielesammlung",
-"",
-17.99,
-24.99,
-"Spielzeug",
-"Nur online"
 ],
 [
 "Lidl",
@@ -13307,7 +13019,7 @@ null,
 "https://www.norma-online.de/de/angebote/"
 ]
 ],
-"ts": 1795197005,
+"ts": 1795200546,
 "img": {
 "Aldi Nord|Clementinen": {
 "u": "https://s7g10.scene7.com/is/image/aldinord/1018281_6222_1028_2483_38_2025_clementinen_mandarinen05_on_041126_113926?wid=400&fmt=webp"
@@ -14507,9 +14219,6 @@ null,
 "Lidl|Volvic Naturelle": {
 "u": "https://content-media.bonial.biz/b023ef1b-a957-48eb-9d03-0ed62453b92e/0c140c44-aeb7-40ac-a0e2-a2c8738a1f72.jpg"
 },
-"Lidl|Weingut Balthasar Ress Weinpaket Vom großen Fluss Riesling": {
-"u": "https://content-media.bonial.biz/56115d00-d437-437a-bf53-6e05f052d923/a75bb942-f3bf-42e0-9714-e77b326e8f1c.jpg"
-},
 "Lidl|TULLAMORE D.E.W. Irish Whiskey": {
 "u": "https://content-media.bonial.biz/3bd53d9c-c288-4db0-96e5-0a3af0ed6127/b9c5d864-b89a-405d-ace4-7053076ba5dd.jpg"
 },
@@ -14522,26 +14231,14 @@ null,
 "Lidl|THE TARGE Highland Single Grain Scotch Whisky 12 Jahre": {
 "u": "https://content-media.bonial.biz/c6c1bc5a-966b-4d6c-a4ea-0d51acd2f2d0/e86c9f32-1c30-4963-bae9-5f21e8c3f8ad.jpg"
 },
-"Lidl|THE TARGE Highland Single Grain Scotch Whisky 17 Jahre": {
-"u": "https://content-media.bonial.biz/ed007d35-e2d1-438f-a0d8-ce88f0e17a85/c239e1d2-586f-4833-badd-ea72d786fe3a.jpg"
-},
 "Lidl|OLD ST. CROIX Non Plus Ultra Black Edition": {
 "u": "https://content-media.bonial.biz/8b17152d-f106-425a-8745-e08f1e595f0e/main.jpg"
 },
 "Lidl|5 OROS Weinpaket Crianza DOCa": {
 "u": "https://content-media.bonial.biz/5e8b2c0c-d282-456b-bd15-3140cba46c34/ccceafb3-57de-4a9b-906e-a87afa9641ae.jpg"
 },
-"Lidl|Glenalba Blended Scotch Whisky Sherry Cask Finish": {
-"u": "https://content-media.bonial.biz/6b46b9f5-0941-4381-b241-737999562c86/a9e406b8-d2ec-4135-af36-45d01d6a1d64.jpg"
-},
-"Lidl|Amarone della Valpolicella DOCG": {
-"u": "https://content-media.bonial.biz/5c4dec39-5a70-43e0-88d8-01622d6c4955/40460217-04df-4c9b-98ad-9a47f74ad439.jpg"
-},
 "Lidl|JAMES COOK Rum French Cask": {
 "u": "https://content-media.bonial.biz/eb7a6615-5949-408d-abe2-38c6db7adeda/main.jpg"
-},
-"Lidl|James Cook Rum Limousin Cask": {
-"u": "https://content-media.bonial.biz/6807e248-9bc5-481d-aad1-068e9fbd7035/main.jpg"
 },
 "Lidl|CA'DEL LAGO Winemaker’s Choice Lugana DOP": {
 "u": "https://content-media.bonial.biz/beb9ebb5-4e92-4e25-9e36-a0a43bada341/058f2ed8-d618-417f-88a5-4f5a7b3acda6.jpg"
@@ -14561,29 +14258,17 @@ null,
 "Lidl|Barolo Riserva DOCG, Rotwein, trocken": {
 "u": "https://content-media.bonial.biz/64b4a053-716b-40de-90ce-b9504ffef8f0/c09b9293-9966-41b5-a8a2-2f6397c083b5.jpg"
 },
-"Lidl|Dos Maderas PX 5+5 Jahre": {
-"u": "https://content-media.bonial.biz/16235cba-a1c1-466c-aca2-07d68ef8e0f2/b045d89d-a396-427a-9544-338b36de32cd.jpg"
-},
 "Lidl|RON MILLONARIO Kuytchi Spirit Drink": {
 "u": "https://content-media.bonial.biz/b3a2a482-767b-4318-adf5-bea9add5c9c3/main.jpg"
 },
 "Lidl|NIXE Thunfisch Filets in eigenem Saft": {
 "u": "https://content-media.bonial.biz/234f47c2-b09f-4fb2-a543-15e57d7fe1c4/9ef186be-1d6f-4c09-8ee3-e21cc829c172.jpg"
 },
-"Lidl|Codorniu Cava Cuvee 1872, Schaumwein, brut": {
-"u": "https://content-media.bonial.biz/b2ff12c7-7278-460f-a5b1-e3907f6d922d/3f3f3231-7cbc-437e-83df-7df59341a111.jpg"
-},
-"Lidl|Allini Asti Vino Spumante Millesimato DOCG": {
-"u": "https://content-media.bonial.biz/f34d956f-61d5-40d8-8bc6-724190803df2/3f3f3231-7cbc-437e-83df-7df59341a111.jpg"
-},
 "Lidl|Deluxe Rum Bourbon Cask": {
 "u": "https://content-media.bonial.biz/268e0132-f5b2-4525-87ab-8575636faf92/main.jpg"
 },
 "Lidl|Muscat von Samos PDO": {
 "u": "https://content-media.bonial.biz/e58bc952-3526-4855-b5f6-d92079aa8070/99e41392-7678-4602-ae36-33a5add6bbca.jpg"
-},
-"Lidl|Planteray Rum Barbados XO": {
-"u": "https://content-media.bonial.biz/060db63d-278e-4c26-935f-391b7ffe4db8/9ac707ed-5d49-4b90-a8fc-e29ee1fc6c9f.jpg"
 },
 "Lidl|Corona Extra Bier": {
 "u": "https://content-media.bonial.biz/bc66ea30-0bc6-40ee-8632-b356db80b38f/a506b2a2-65b2-435c-a239-8a1eb7251cbf.jpg"
@@ -15200,9 +14885,6 @@ null,
 "Lidl|TEFAL Heißluftfritteuse": {
 "u": "https://content-media.bonial.biz/57616c22-c230-45a3-a131-62fd6b956b03/369b726a-9628-4e2a-97d6-c3eba3bedd45.jpg"
 },
-"Lidl|Vileda Dampfmopp": {
-"u": "https://content-media.bonial.biz/4cb639b0-eea0-46c0-95b9-78955860ce88/8c8611d4-281e-43d8-9cf0-e0e0b9abb861.jpg"
-},
 "Lidl|JAMIE OLIVER BY TEFAL Servierpfanne": {
 "u": "https://content-media.bonial.biz/e0a696d1-c883-49b2-916c-0151d3cd91c6/b71c4971-f5e6-4cb4-9752-34d8087adc36.jpg"
 },
@@ -15236,17 +14918,11 @@ null,
 "Lidl|Bosch Stabmixer": {
 "u": "https://content-media.bonial.biz/9f05af9b-9bf5-4c20-b55e-d6cedfcc6ed7/30ee7991-821f-4430-80fc-750a2671c321.jpg"
 },
-"Lidl|Tefal OptiGrill": {
-"u": "https://content-media.bonial.biz/8657918c-80ab-48e3-8dd0-ae6b1a257d82/d5b954f2-6168-41f6-8186-dda18ab1bd98.jpg"
-},
 "Lidl|EPSON Drucker Eco Tank": {
 "u": "https://content-media.bonial.biz/173351f4-caa0-4334-a376-9d82e105a50b/7ad1ddac-a804-48b4-a03b-c15be0e43eec.jpg"
 },
 "Lidl|Jamie Oliver Gas-Pizzaofen": {
 "u": "https://content-media.bonial.biz/f44163f7-db25-41a8-9d57-c8b6fb28d9c0/dbe0e9af-5f5d-475e-88fc-96e6ef85930d.jpg"
-},
-"Lidl|Eufy Saug- und Wischroboter": {
-"u": "https://content-media.bonial.biz/a0f29959-55be-4216-8f48-62860600c678/5ee54267-8a56-44f1-9e3e-08b2b7cf72cb.jpg"
 },
 "Lidl|Sodastream 2 Ersatzflaschen à 0,7 l": {
 "u": "https://content-media.bonial.biz/4354b360-ec2f-4c15-ae93-df580f51c074/69202f00-25d7-4c7e-a4f6-a6b2b5ec36fe.jpg"
@@ -15260,11 +14936,11 @@ null,
 "Lidl|JBL Kabelloser Over-Ear-Kopfhörer": {
 "u": "https://content-media.bonial.biz/31610641-de02-40bd-888a-2653224fc499/8fa0307f-0aa9-4d0d-862d-764061bfb6f3.jpg"
 },
-"Lidl|JBL Kabellose In-Ear-Ohrhörer": {
-"u": "https://content-media.bonial.biz/43ad0365-42dd-4441-81e4-24eb2363679a/85867fa2-be96-4f4e-ae1c-afc78001a394.jpg"
-},
 "Lidl|Epson All-in-One-Drucker": {
 "u": "https://content-media.bonial.biz/1be45e98-4355-4447-bf51-b69ea15e225b/8b1f73bb-5f60-4032-a0d2-8c2d0ed57707.jpg"
+},
+"Lidl|JBL Kabellose In-Ear-Ohrhörer": {
+"u": "https://content-media.bonial.biz/43ad0365-42dd-4441-81e4-24eb2363679a/85867fa2-be96-4f4e-ae1c-afc78001a394.jpg"
 },
 "Lidl|Philips Staubsauger, beutellos": {
 "u": "https://content-media.bonial.biz/086241e4-f1fb-4d34-be8c-72077b9da865/a37e6e2a-bcb2-4ae1-93cf-a16aef36069a.jpg"
@@ -15272,32 +14948,17 @@ null,
 "Lidl|HUDORA Scooter": {
 "u": "https://content-media.bonial.biz/c6f79bc0-a6dd-4ffc-8eba-e4ab3b945766/4fb740a2-b790-4f1c-8c20-f409ca7ff833.jpg"
 },
-"Lidl|Fischer E-Bike Trekking Viator 2.1": {
-"u": "https://content-media.bonial.biz/a826a4d3-e873-4fae-bc21-4f5e76dd56cd/334e9858-57eb-4ea8-9325-16e57836355d.jpg"
-},
 "Lidl|Brita Wasserfilter-Kanne": {
 "u": "https://content-media.bonial.biz/4dbe4b37-da25-4344-a42f-83e5abce8c63/efb53548-8f64-40cc-8c2f-aef53e37647c.jpg"
 },
 "Lidl|FISKARS Messer-Set Starter-Set oder Universalmesser-Set": {
 "u": "https://content-media.bonial.biz/4f5cd8ec-d7f9-4626-b630-b82f4a9011e1/bd843cbf-97af-4d0c-ae65-6157ead986ec.jpg"
 },
-"Lidl|Happy Hotty Wärmflasche mit Aromastein": {
-"u": "https://content-media.bonial.biz/8e5c07ed-6c31-4deb-b038-3df7f813631d/77002623-f920-4d29-bd13-ea8af9f819a3.jpg"
-},
 "Lidl|ROLLFIX Farbrolle mit Wechselbezügen": {
 "u": "https://content-media.bonial.biz/e8fc8352-fd8e-4333-9737-a93e3e9ab19f/60651e90-6e63-49e5-9521-e27270e52876.jpg"
 },
-"Lidl|VALE Tablet": {
-"u": "https://content-media.bonial.biz/2fa3975f-8d8a-4c11-8f57-c3c2d325dcc7/be45338b-c254-4d2e-a39b-ab7184b9eeae.jpg"
-},
-"Lidl|Sodastream 2 Ersatzflaschen à 1 l": {
-"u": "https://content-media.bonial.biz/24431ae4-3f60-4f4a-a74e-39dad210536d/95be7909-e633-4539-98f1-96bca126350a.jpg"
-},
-"Lidl|Hammer Kraftstation (ca. 80 kg)": {
-"u": "https://content-media.bonial.biz/a8dd1654-7634-4a55-927a-babf2e544f6b/55d55e4f-5ab1-4080-aa29-c1a728dd0ea7.jpg"
-},
-"Lidl|G3FERRARI Pizzaofen": {
-"u": "https://content-media.bonial.biz/94eaae3f-ac03-468b-a8bd-deb4f4c2e4c4/858fab4f-f7bf-4af6-b3ff-65e7a7f1a71d.jpg"
+"Lidl|Happy Hotty Wärmflasche mit Aromastein": {
+"u": "https://content-media.bonial.biz/8e5c07ed-6c31-4deb-b038-3df7f813631d/77002623-f920-4d29-bd13-ea8af9f819a3.jpg"
 },
 "Lidl|PHILIPS Soundbar 2.0": {
 "u": "https://content-media.bonial.biz/f4108e79-68a9-4f46-858f-642c4d704f88/e993ca58-b7c7-423e-83d2-57e68d0658e9.jpg"
@@ -15320,12 +14981,6 @@ null,
 "Lidl|Philips Kaffeepadmaschine SENSEO Select CSA230/50": {
 "u": "https://content-media.bonial.biz/bb8cd237-91a7-4c66-b607-3e43dd815d94/64fe8496-cea5-4b22-8eef-4e151a35812b.jpg"
 },
-"Lidl|Parkside Elektro-Rasenmäher": {
-"u": "https://content-media.bonial.biz/a1e4a467-43c1-4471-81b4-1525118ce99e/e5c1c2e2-358f-4162-ac10-5a6d553862d3.jpg"
-},
-"Lidl|Hammer Kraftstation (5 kg)": {
-"u": "https://content-media.bonial.biz/01843ce8-1871-4c65-abd0-59a5103cb75b/a02f7535-7370-483d-bccb-a4f9e85e4c3e.jpg"
-},
 "Lidl|Kenwood Multizerkleinerer": {
 "u": "https://content-media.bonial.biz/139d3f48-2e04-4db8-9b2c-5b77d98a6167/a491258d-17b7-428e-ab52-13c2a0c4b0cd.jpg"
 },
@@ -15347,20 +15002,11 @@ null,
 "Lidl|Parkside Unterstellbock": {
 "u": "https://content-media.bonial.biz/106402c4-88de-4f02-b14e-9e0dec4637b6/493062b6-43ec-433f-8f0b-ef4bfbb31d83.jpg"
 },
-"Lidl|Sodastream Wassersprudler (ca. 60 l)": {
-"u": "https://content-media.bonial.biz/5996f377-88e0-4429-97b0-8a0da4e21b28/d3ab0c81-b493-46f7-8bb8-07bf2e4dbbcf.jpg"
-},
-"Lidl|Parkside Performance Akku-Bohrschrauber": {
-"u": "https://content-media.bonial.biz/a251747c-79e7-46e4-8dd8-11a349b57a96/b6650865-7414-4b57-8f43-9734d58108ec.jpg"
-},
 "Lidl|PARKSIDE PERFORMANCE Akku-Werkzeug-Kombiset 20 V 99,99 €": {
 "u": "https://content-media.bonial.biz/ff151b0b-177f-48f8-9e74-a05025b3c0c9/fc435847-bfbd-4d7a-9296-ccd3bd601704.jpg"
 },
 "Lidl|PARKSIDE Steckschlüssel-Set": {
 "u": "https://content-media.bonial.biz/158ffed3-6828-4cc6-80ca-768df3294015/bd9ca05b-2c7e-4ee6-896a-b8a9d0e919d8.jpg"
-},
-"Lidl|Christopeit Holz Wasser Rudergerät": {
-"u": "https://content-media.bonial.biz/ef9bb71b-0367-42af-bfe4-5b8067da2c1d/6d4aff0c-51de-42ab-a65d-c30d673378ea.jpg"
 },
 "Lidl|Philips Elektrische Schallzahnbürste": {
 "u": "https://content-media.bonial.biz/a81b3168-9bdd-427f-a351-ec3dddc51c70/1a3a3e5c-f21a-47b0-a088-bcdfbcb3ee31.jpg"
@@ -15383,13 +15029,10 @@ null,
 "Lidl|Christopeit Crosstrainer Ergometer": {
 "u": "https://content-media.bonial.biz/6f0bd984-f14f-4b38-a734-cd0a2b08c4c8/dc401da1-995e-40f6-8a2d-591563f59c72.jpg"
 },
-"Lidl|Silvercrest Mixbehälter-Set für Monsieur Cuisine connect/smart": {
-"u": "https://content-media.bonial.biz/ade024b4-fa6a-4c47-a627-8c13bc22b2d9/a7225cad-02a5-4410-b1f4-dcf18dd7c75e.jpg"
-},
 "Lidl|CHRISTOPEIT Walking Pad": {
 "u": "https://content-media.bonial.biz/5232aa67-d8ef-4db8-a600-0b8667169815/main.jpg"
 },
-"Lidl|Sodastream Wassersprudler (0,95 l)": {
+"Lidl|Sodastream Wassersprudler": {
 "u": "https://content-media.bonial.biz/603c8366-191b-4c07-b6c7-9796f8e52b4e/a66e1cac-5709-41f4-9a54-f2391ea33c2e.jpg"
 },
 "Lidl|Tronic Bluetooth-Party-Lautsprecher": {
@@ -15400,9 +15043,6 @@ null,
 },
 "Lidl|PARKSIDE Gartengerätehaus": {
 "u": "https://content-media.bonial.biz/a0b1686b-58c7-4454-b3bb-7a18794bc3ea/main.jpg"
-},
-"Lidl|Parkside 20 V Akku-Werkzeug Kombiset": {
-"u": "https://content-media.bonial.biz/3ebe4ff2-0fa1-4492-ba03-50b3894d8c99/main.jpg"
 },
 "Lidl|Silvercrest Monsieur Cuisine smart": {
 "u": "https://content-media.bonial.biz/f6fa76d8-27cc-4657-aacd-eba1400484a9/06955c7d-44f6-4484-bfa3-b4c96929b6c8.jpg"
@@ -15455,14 +15095,8 @@ null,
 "Lidl|Dunlopillo Kopfkissen ca. 40 x 80 cm u. a.": {
 "u": "https://content-media.bonial.biz/43e26dd9-dce2-407a-9ea5-160a932ad2dc/204f07e4-7084-4986-b901-02986e0cf4be.jpg"
 },
-"Lidl|CHiQ QLED-Mini-LED-Smart-TV 55M79N u. a.": {
-"u": "https://content-media.bonial.biz/dfde5e58-0b9f-49c8-bd23-34da1f997421/43a4e45e-a4c7-40ae-9b9d-6ecf0781916a.jpg"
-},
 "Lidl|Remington Glätteisen": {
 "u": "https://content-media.bonial.biz/1c29d2ec-2a7a-4342-82db-b13c55772d48/7ef335cf-2e8f-481a-9d74-d25cddb2d49a.jpg"
-},
-"Lidl|Crockpot Slow Cooker": {
-"u": "https://content-media.bonial.biz/3f3f97b1-9818-4f20-83cd-66e5a567e41b/feaeaf0c-fa10-4baa-b2fa-4ee25e7cfa1e.jpg"
 },
 "Lidl|BeCo 7-Zonen-Premium-Lattenrost": {
 "u": "https://content-media.bonial.biz/65c5e4de-5cc3-4107-92e7-1d10dbeb1f17/d8c80ed7-47e0-47ec-aba6-669a59d570d4.jpg"
@@ -15482,11 +15116,11 @@ null,
 "Lidl|JAMIE OLIVER BY TEFAL® Pfanne 24,99 €": {
 "u": "https://content-media.bonial.biz/07ce5f41-4eed-45ea-ab88-bfe24ef7862f/ef49783e-75b7-41c9-9f2b-636b883dc376.jpg"
 },
-"Lidl|JAMIE OLIVER BY TEFAL® Pfanne 29,99 €": {
-"u": "https://content-media.bonial.biz/e44ffdb1-0d1c-44c2-8008-30c2cee80318/9f75dc9d-40f0-49bb-a9cd-ed37264c5a80.jpg"
-},
 "Lidl|JAMIE OLIVER BY TEFAL® Wok-Pfanne": {
 "u": "https://content-media.bonial.biz/231b9ebb-5fae-44e2-a40b-ced8fb6531fb/bc5fe3cf-6aa0-4c34-9b56-a68a8b9670c8.jpg"
+},
+"Lidl|JAMIE OLIVER BY TEFAL® Pfanne 29,99 €": {
+"u": "https://content-media.bonial.biz/e44ffdb1-0d1c-44c2-8008-30c2cee80318/9f75dc9d-40f0-49bb-a9cd-ed37264c5a80.jpg"
 },
 "Lidl|SINGER Nähmaschine": {
 "u": "https://content-media.bonial.biz/aeb9d054-e807-4e38-8334-48c86a70ff74/93047781-e587-4329-80c6-7ddd1dae7a6c.jpg"
@@ -15499,9 +15133,6 @@ null,
 },
 "Lidl|Lidl Erlebnis-Gutschein": {
 "u": "https://content-media.bonial.biz/e620e991-9be8-43f0-864c-7d3ed90625de/main.jpg"
-},
-"Lidl|Coca Cola Eiswürfelmaker mit Tragegriff": {
-"u": "https://content-media.bonial.biz/e0fa7eb6-66c8-45dd-a048-71cdce7a42ef/39789576-d8e6-454b-b54c-3821a972b19b.jpg"
 },
 "Lidl|Biberna Spannbettlaken": {
 "u": "https://content-media.bonial.biz/9b1dbf31-a46c-4f26-8e5b-f1fae8cbe8ae/main.jpg"
@@ -15547,12 +15178,6 @@ null,
 },
 "Lidl|EMMA Taschenfederkern-Matratze": {
 "u": "https://content-media.bonial.biz/cedfa845-8866-4b5e-8851-8e36c018db93/ca2fe438-ffdb-4399-b6ed-d7ab02ea727e.jpg"
-},
-"Lidl|Emma Matratze": {
-"u": "https://content-media.bonial.biz/525336ce-d21c-46ad-b709-53761e96192f/eaefadb5-7591-494e-bac5-e2546e3aa912.jpg"
-},
-"Lidl|HN8 SCHLAFSYSTEME 7-Zonen Taschenfederkern-Matratze": {
-"u": "https://content-media.bonial.biz/e82c16d0-a7a2-4ff7-bd4c-4362e3804314/19a21314-9d6f-4266-9e0c-ec5525c31e22.jpg"
 },
 "Lidl|Carstens Geschenkgruß": {
 "u": "https://content-media.bonial.biz/f3b83ecc-ccff-45bb-b8db-a5fadfe1455d/f3f23603-fc65-4c04-b484-0a7b8d1c7bb6.jpg"
@@ -15653,9 +15278,6 @@ null,
 "Lidl|JAMARA Ferngesteuertes Baufahrzeug": {
 "u": "https://content-media.bonial.biz/0d9fd800-5a95-4918-9e35-6e256842b952/fb5ea138-8844-47d9-ba82-e50d8fe14f97.jpg"
 },
-"Lidl|CBX by cybex Kinderautositz Solution X i-Fix": {
-"u": "https://content-media.bonial.biz/58b57afe-8f36-4976-b00f-592f50eb7466/5e6257be-059b-42d7-827a-877c263e7a3b.jpg"
-},
 "Lidl|Matchbox-Set": {
 "u": "https://content-media.bonial.biz/03ef2095-67e6-4a68-942f-8663c20ec439/46821013-eba2-404b-b14e-751ae22573a1.jpg"
 },
@@ -15712,12 +15334,6 @@ null,
 },
 "Lidl|PAW PATROL Spielset": {
 "u": "https://content-media.bonial.biz/cdfaa449-8165-428b-bbbe-6830b1b25d2d/51c1fae1-1289-41d1-b390-e5434301ea81.jpg"
-},
-"Lidl|Smoby Puppen-Pflege-Center": {
-"u": "https://content-media.bonial.biz/6bccbdc4-b41c-439d-bb98-bc6772753ac0/c728b4fc-9487-4ea9-917c-6b9948190607.jpg"
-},
-"Lidl|Lupilu 10-in-1-Spielesammlung": {
-"u": "https://content-media.bonial.biz/5ea9c43e-7537-420f-85bb-80b4678d23ad/02a856ba-a83f-4125-9e65-5be7f7d337ad.jpg"
 },
 "Lidl|BABY BORN Puppe": {
 "u": "https://content-media.bonial.biz/d7ab8404-4aaa-42f9-8589-ce737c917de4/f2234a90-e709-4b18-b88d-df7ae72fca1f.jpg"
