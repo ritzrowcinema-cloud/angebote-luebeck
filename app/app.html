@@ -465,7 +465,7 @@ __ICONS__
     var cats=CAT_ORDER.filter(function(c){return all.some(function(i){return i.cat===c;});});
     $('shopCats').innerHTML=['Alle'].concat(cats).map(function(c){ var v=c==='Alle'?'':c; return '<button class="chip" type="button" data-cat="'+esc(v)+'" aria-pressed="'+(shopCat===v)+'">'+esc(c)+'</button>'; }).join('');
     var q=$('shopQ').value.trim().toLowerCase();
-    var L=all.filter(function(i){return (!shopCat||i.cat===shopCat)&&(!q||i.name.toLowerCase().indexOf(q)>-1);});
+    var L=all.filter(function(i){return q?(i.name+' '+i.cat+' '+i.note).toLowerCase().indexOf(q)>-1:(!shopCat||i.cat===shopCat);});
     L.sort(function(a,b){ return (shopCat?0:CAT_ORDER.indexOf(a.cat)-CAT_ORDER.indexOf(b.cat))||b.pct-a.pct||a.price-b.price; });
     $('shopList').innerHTML=L.length?L.map(offRow).join('')+'<p class="hold">Lange drücken für alle Infos zum Artikel</p>':'<p class="empty">Keine Treffer.</p>';
   }

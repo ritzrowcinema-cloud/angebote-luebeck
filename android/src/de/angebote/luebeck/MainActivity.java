@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
         s.setCacheMode(WebSettings.LOAD_DEFAULT);
         s.setAllowFileAccess(false);
         s.setAllowContentAccess(false);
-        s.setUserAgentString(s.getUserAgentString() + " AngeboteLuebeckApp/5.0");
+        s.setUserAgentString(s.getUserAgentString() + " AngeboteLuebeckApp/6.0");
 
         web.setWebChromeClient(new Chrome(this));
         web.setWebViewClient(new Client(this));
