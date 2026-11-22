@@ -30,7 +30,7 @@ WD = ['Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa', 'So']
 
 # ---------- Kategorien ----------
 R_MEAT = re.compile(r'hähnchen|haehnchen|hühner|geflügel|pute|puten|schwein|rind|kalb|lamm|hack|wurst|würst|wiener|schinken|salami|speck|bacon|kassler|kasseler|braten|steak|schnitzel|gulasch|filet(?!.*(lachs|fisch|thun|hering|forelle|kabeljau|seelachs))|kotelett|nacken|roulade|frikadell|leberkäs|\bente\b|\benten|\bgans\b|gänse|gänse|bratwurst|cevapcici|gyros|döner|aufschnitt|\bmett\b|mettwurst|lyoner|kochschinken|chorizo|bierschinken|keule', re.I)
-R_DRINK = re.compile(r'\bcola\b|coca|pepsi|fanta|sprite|mezzo|limo|bier\b|biere|pils|radler|weizen|helles|export|wein\b|weine|sekt|prosecco|crémant|champagner|glühwein|punsch|saft|nektar|schorle|wasser|mineral|energy|red bull|monster|eistee|whisk(?!as)|wodka|vodka|gin\b|rum\b|likör|liqueur|aperitif|aperol|spirituose|korn\b|jägermeister|kaffee|espresso|cappuccino|tee\b|kakao|drink|smoothie|milchgetränk|eierlikör|baileys|captain|havana|bacardi|lillet|kräuter\b', re.I)
+R_DRINK = re.compile(r'\bcola\b|coca|pepsi|fanta|sprite|mezzo|limo|bier\b|biere|pils|radler|\bweizen\b|weizenbier|helles|export|\bwein\b|weine|sekt|prosecco|crémant|champagner|glühwein|punsch|saft|nektar|schorle|wasser|mineral|energy|red bull|monster|eistee|whisk(?!as)|wodka|vodka|gin\b|rum\b|likör|liqueur|aperitif|aperol|spirituose|korn\b|jägermeister|kaffee|espresso|cappuccino|tee\b|kakao\b|drink|smoothie|milchgetränk|eierlikör|baileys|captain|havana|bacardi|lillet|kräuterlikör|kräuterschnaps|kräuterbitter', re.I)
 R_SWEET = re.compile(r'schoko|praline|keks|cookie|chips|flips|gummi|haribo|bonbon|lakritz|lebkuchen|stollen|spekulatius|marzipan|riegel|nougat|nutella|knabber|crisps|popcorn|waffel|kuchen|torte|dominosteine|printen|adventskalender|mon chéri|merci|ferrero|raffaello|toffifee|milka|lindt|ritter sport|kinder|m&m|snickers|twix|mars\b|duplo|eiscreme|\beis\b|magnum|cornetto|knoppers|hanuta|pick up|oreo|leibniz|bahlsen|kekse|zuckerstange|baumkuchen|elisen|christstollen|plätzchen', re.I)
 R_PLANT = re.compile(r'pflanze|weihnachtsstern|orchidee|tanne|nordmann|kaktus|blume|strauß|rosen\b|amaryllis|christrose|gesteck|kranz', re.I)
 R_TOY = re.compile(r'spielzeug|puzzle|lego|playmobil|plüsch|kuscheltier|spiel\b|spiele\b|bausatz|puppe|kinderküche|ravensburger|clementoni', re.I)
@@ -39,24 +39,28 @@ R_MODE = re.compile(r'shirt|hose|jeans|pullover|pulli|hoodie|jacke|mantel|socken
 R_DECO = re.compile(r'deko|kerze|lichterkette|led-|leuchte|lampe|weihnachts(?!stern)|advents|krippe|figur|kissen|decke|teppich|vase|bettwäsche|handtuch|vorhang|gardine|bilderrahmen|möbel|regal|sessel|stuhl|tisch', re.I)
 R_HH = re.compile(r'waschmittel|spülmittel|reiniger|toilettenpapier|küchenrolle|taschentücher|zewa|tempo|ariel|persil|lenor|somat|finish|frosch|duschgel|shampoo|zahnpasta|deo|creme|windeln|müllbeutel|folie|batterie|pfanne|topf|messer|mixer|maschine|staubsauger|fritteuse|kocher|toaster|werkzeug|akku|bohrer|schrauber|lampe|kabel|ladegerät|kopfhörer|lautsprecher|fernseher|tablet|smartphone|uhr\b|koffer|rucksack|tasche|box\b|aufbewahrung|kleiderbügel|schwamm|besen|eimer|wäsche', re.I)
 
-R_FOOD = re.compile(r'käse|milch|joghurt|quark|sahne|butter|\bei(er)?\b|brot|brötchen|toast|nudel|pasta|spaghetti|reis\b|kartoffel|obst|gemüse|apfel|äpfel|birne|banane|orange|mandarine|clementine|zitrone|traube|beere|tomate|gurke|paprika|zwiebel|salat|kohl|möhre|karotte|pilz|champignon|nuss|nüsse|kerne|mandel|öl\b|olivenöl|essig|gewürz|sauce|soße|suppe|brühe|pizza|mehl|zucker|honig|marmelade|konfitüre|aufstrich|fisch|lachs|garnele|hering|thunfisch|müsli|cornflakes|flakes|tiefgekühlt|konserve|mais|bohnen|erbsen|linsen|wraps|tortilla|baguette|croissant|frischkäse|mozzarella|feta|gouda|camembert|dessert|pudding|asia|curry|noodle|sushi|dip\b|senf|ketchup|mayonnaise|antipasti|oliven|dattel|feige|rosine|trockenfr|smoothie|vegan|veggie|tofu|kürbis|ingwer|knoblauch|avocado|ananas|kiwi|mango|granatapfel', re.I)
+R_APPL = re.compile(r'sauger|saug-|roboter|fritteuse|raclette|bräter|kochtopf|topf-set|\btopf\b|pfanne|kasserolle|reiniger|mopp|wischer|besteck|geschirr|wasserkocher|toaster|mixer|küchenmaschine|bügeleisen|haartrockner|föhn|rasierer|zahnbürste|waage|heizlüfter|bohrer|schrauber|werkzeug|kaffeemaschine|vollautomat|kühlbox|matte|steppbett|kopfkissen', re.I)
+R_FOOD = re.compile(r'käse|milch|joghurt|quark|sahne|butter|\bei(er)?\b|brot|brötchen|toast|nudel|pasta|spaghetti|reis\b|kartoffel|obst|gemüse|apfel|äpfel|birne|banane|orange|mandarine|clementine|zitrone|traube|beere|tomate|gurke|paprika|zwiebel|salat|kohl|möhre|karotte|pilz|champignon|nuss|nüsse|kerne|mandel|öl\b|olivenöl|essig|gewürz|sauce|soße|suppe|brühe|pizza|mehl|zucker|honig|marmelade|konfitüre|aufstrich|fisch|lachs|garnele|hering|thunfisch|müsli|cornflakes|flakes|tiefgekühlt|konserve|mais|bohnen|erbsen|linsen|wraps|tortilla|baguette|croissant|frischkäse|mozzarella|feta|gouda|camembert|dessert|pudding|asia|curry|noodle|sushi|dip\b|senf|ketchup|mayonnaise|antipasti|oliven|dattel|feige|rosine|trockenfr|smoothie|vegan|veggie|tofu|kürbis|ingwer|knoblauch|avocado|ananas|kiwi|mango|granatapfel|pistazie|teigware|fettuccine|tagliatelle|penne|gnocchi|lasagne', re.I)
 def classify(name, paths=()):
     segs = set(paths); p = ' > '.join(paths)
     n = name
     if 'Dienstleistungen' in p: return None
     food = 'Lebensmittel und Getränke' in p or not p
     if not food and 'Saison und Events' in p and (R_FOOD.search(n) or R_MEAT.search(n) or R_SWEET.search(n) or R_DRINK.search(n)) and not R_DECO.search(n): food = True
+    if food and R_APPL.search(n) and not (R_FOOD.search(n) or R_MEAT.search(n) or R_DRINK.search(n) or R_SWEET.search(n)): food = False
     if 'Tierbedarf' in p or (not food and R_PET.search(n)): return 'Tier'
     if 'Spielzeug' in p or 'Baby und Kinder' in p: return 'Spielzeug'
     if 'Mode und Accessoires' in p: return 'Mode'
     if 'Pflanzen' in p or 'Blumen' in p: return 'Pflanzen'
     if food:
         if segs & {'Fleisch', 'Wurstwaren', 'Geflügel'} or R_MEAT.search(n):
-            if not re.search(r'fisch|lachs|hering|matjes|thunfisch|forelle|kabeljau|seelachs|scholle|garnele|vegan|vegetar|veggie|fleischsalat|brühe|fond|gewürz|sauce|soße|chips|frischkäse|studentenfutter|iglo|schlemmer-?filet|fischstäbchen', n, re.I): return 'Fleisch & Wurst'
+            if not re.search(r'fisch|lachs|hering|matjes|thunfisch|forelle|kabeljau|seelachs|scholle|garnele|vegan|vegetar|veggie|fleischsalat|brühe|fond|gewürz(?!t)|sauce|soße|chips|frischkäse|studentenfutter|iglo|schlemmer-?filet|fischstäbchen|\brama\b|culinesse|margarine|bratfett', n, re.I): return 'Fleisch & Wurst'
         if segs & {'Getränke', 'Alkoholische Getränke', 'Softdrinks', 'Heißgetränk', 'Wasser', 'Saft', 'Bier', 'Wein', 'Spirituosen'} or R_DRINK.search(n):
             if not re.search(r'wasserkocher|teelicht|kaffeemaschine|saftpresse|weinglas|gläser', n, re.I): return 'Getränke'
         if segs & {'Süßigkeiten', 'Knabberzeug', 'Süßwaren'} or R_SWEET.search(n): return 'Süßes'
         if p: return 'Lebensmittel'
+    if R_APPL.search(n) and not R_TOY.search(n): return 'Haushalt'
+    if re.search(r'likör|\bwein\b|\bsekt\b|prosecco|\bgin\b|wodka|vodka|whisk(?!as)|\brum\b|\bbier\b', n, re.I) and not re.search(r'glas|gläser|kühler|karaffe|öffner', n, re.I): return 'Getränke'
     if R_PLANT.search(n): return 'Pflanzen'
     if R_TOY.search(n): return 'Spielzeug'
     if R_PET.search(n): return 'Tier'
@@ -116,6 +120,16 @@ def kd_brochures():
         m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', h, re.S)
         if m: walk(json.loads(m.group(1)))
         time.sleep(1)
+    # Für Lübeck gibt es mehrere REWE-Prospekte (verschiedene Märkte mit verschiedenen Preisen):
+    # nur den größten nehmen (REWE Center), statt sie zu mischen.
+    for st in ('REWE',):
+        ids = [cid for cid, v in found.items() if v[0] == st]
+        if len(ids) > 1:
+            behalten = max(ids, key=lambda cid: found[cid][2] or 0)
+            for cid in ids:
+                if cid != behalten:
+                    print('kaufDA', st, 'weiterer Prospekt (anderer Markt) übersprungen:', found[cid], file=sys.stderr)
+                    del found[cid]
     return found
 
 def kd_items(cid, store):
@@ -139,61 +153,85 @@ def kd_items(cid, store):
             c = of.get('content') or {}
             prods = c.get('products') or []
             if not prods: continue
-            pr = prods[0]
-            nm = clean(pr.get('name'))
-            br = clean(pr.get('brandName'))
-            if not nm: continue
-            name = nm if (not br or br.lower() in nm.lower() or br.lower() in ('ohne marke', 'diverse', 'sonstige')) else br + ' ' + nm
-            if len(prods) > 1: name += ' u. a.'
-            desc = clean(' '.join(x.get('paragraph', '') for x in pr.get('description') or []))
-            unit, rest = split_unit(desc)
-            deals = c.get('deals') or []
-            byt = {}
-            for dl in deals:
-                if dl.get('min') is None: continue
-                byt.setdefault(dl['type'], dl)
             # nur online erhältliche Artikel weglassen (im Markt nicht zu kaufen)
             tx = texts(c)
             also = re.search(r'auch online', tx, re.I)
             if re.search(r'nur online|online-kracher|online buchbar', tx, re.I) or (ONL.search(tx) and not also): continue
             if online_page and not also: continue
             if re.search(r'kreuzfahrt|reiseangebot|\bp\.\s?p\.|übernachtung|nächte im|hotel|ticketdeal|eintrittskarte', name_probe(c), re.I): continue
-            paths0 = [x['name'] for x in pr.get('categoryPaths') or []]
-            if store == 'Netto' and not also and 'Lebensmittel und Getränke' not in paths0:
-                pmin = min([float(dl['min']) for dl in deals if dl.get('min') is not None] or [0])
-                if pmin >= 150: continue  # große Online-Shop-Artikel (Sauna, Smartphone, Möbel …)
-            notes = []
-            sp, sa = byt.get('SPECIAL_PRICE'), byt.get('SALES_PRICE')
-            main = sp or sa
-            if not main: continue
-            price = float(main['min'])
-            if price <= 0: continue
-            conds = [clean(x.get('other')) for x in main.get('conditions') or [] if clean(x.get('other'))]
-            old = None
-            if sp and sa and float(sa['min']) > price: old = float(sa['min']); notes.append('ohne App ' + eur(old))
-            elif byt.get('REGULAR_PRICE') and float(byt['REGULAR_PRICE']['min']) > price: old = float(byt['REGULAR_PRICE']['min'])
-            elif byt.get('RECOMMENDED_RETAIL_PRICE') and float(byt['RECOMMENDED_RETAIL_PRICE']['min']) > price:
-                old = float(byt['RECOMMENDED_RETAIL_PRICE']['min']); notes.append('UVP')
-            for cnd in conds:
-                if re.search(r'lidl plus', cnd, re.I): notes.insert(0, 'mit Lidl Plus')
-                elif re.search(r'app', cnd, re.I) and 'ohne' not in cnd.lower(): notes.insert(0, 'mit App')
-                elif cnd.lower() not in ('je stück', 'je', 'ab') and len(cnd) < 60: notes.append(cnd)
-                elif cnd.lower() == 'ab': notes.append('ab-Preis')
-            prof = (c.get('publicationProfiles') or [{}])[0].get('validity') or {}
-            vn = valnote(prof.get('startDate', ''), prof.get('endDate', ''))
-            if vn: notes.insert(0, vn)
-            b = base(main.get('priceByBaseUnit'))
-            if b: notes.append(b)
-            if rest and len(rest) < 90: notes.append(rest)
-            if re.search(r'pfand', desc, re.I) and 'Pfand' not in ' '.join(notes): notes.append('zzgl. Pfand')
-            paths = [x['name'] for x in pr.get('categoryPaths') or []]
-            cat = classify(name + ' ' + desc, paths)
-            if not cat: continue
-            imgs = pr.get('images') or []
-            img = (imgs[0]['url'] if imgs else c.get('image') or '').split('?')[0]
-            out.append({'store': store, 'name': name[:90], 'unit': unit[:40], 'price': round(price, 2), 'old': round(old, 2) if old else None,
-                        'cat': cat, 'note': '; '.join(dict.fromkeys(n for n in notes if n))[:160], 'img': img})
+            alle_deals = [dl for dl in c.get('deals') or [] if dl.get('min') is not None and float(dl['min']) > 0]
+            # Mehrere Produkte in einem Angebot: kaufDA ordnet jeden Preis über die Beschreibung
+            # einem Produkt zu. Dann wird jedes Produkt eine eigene Zeile mit seinem eigenen Preis.
+            def gehoert(dl):  # Index des Produkts, zu dem ein Preis gehört (über Name oder Marke), sonst None
+                t = norm_name(dl.get('description'))
+                treffer = [i for i, x in enumerate(prods) if t and t in (norm_name(x.get('name')), norm_name(x.get('brandName')))]
+                return treffer[0] if len(treffer) == 1 else None
+            einzeln = len(prods) > 1 and alle_deals and all(gehoert(dl) is not None for dl in alle_deals)
+            for idx, pr in enumerate(prods if einzeln else prods[:1]):
+                deals = [dl for dl in alle_deals if gehoert(dl) == idx] if einzeln else alle_deals
+                if not deals: continue
+                item = kd_item(c, pr, deals, store, mehr=len(prods) > 1 and not einzeln, also=also)
+                if item: out.append(item)
     return out
+
+def norm_name(s): return re.sub(r'\s+', ' ', clean(s or '')).lower()
+
+APP_RE = re.compile(r'\bapp\b|lidl plus', re.I)
+
+def kd_item(c, pr, deals, store, mehr, also):
+    nm = clean(pr.get('name'))
+    br = clean(pr.get('brandName'))
+    if not nm: return None
+    name = nm if (not br or br.lower() in nm.lower() or br.lower() in ('ohne marke', 'diverse', 'sonstige')) else br + ' ' + nm
+    if mehr: name += ' u. a.'
+    desc = clean(' '.join(x.get('paragraph', '') for x in pr.get('description') or []))
+    unit, rest = split_unit(desc)
+    byt = {}
+    for dl in deals: byt.setdefault(dl['type'], dl)
+    paths0 = [x['name'] for x in pr.get('categoryPaths') or []]
+    if store == 'Netto' and not also and 'Lebensmittel und Getränke' not in paths0:
+        pmin = min([float(dl['min']) for dl in deals] or [0])
+        if pmin >= 150: return None  # große Online-Shop-Artikel (Sauna, Smartphone, Möbel …)
+    notes = []
+    sp, sa = byt.get('SPECIAL_PRICE'), byt.get('SALES_PRICE')
+    if not (sp or sa): return None
+    conds_sp = [clean(x.get('other')) for x in (sp or {}).get('conditions') or [] if clean(x.get('other'))]
+    sp_app = bool(sp) and any(APP_RE.search(x) and 'ohne' not in x.lower() for x in conds_sp)
+    old = None
+    if sp_app and sa and float(sa['min']) > float(sp['min']):
+        # App-Preis nur als Hinweis; angezeigt wird der normale Ladenpreis
+        main = sa
+        app = 'mit Lidl Plus' if any(re.search(r'lidl plus', x, re.I) for x in conds_sp) else 'mit App'
+        notes.append('%s %s' % (app, eur(float(sp['min']))))
+        conds = [clean(x.get('other')) for x in sa.get('conditions') or [] if clean(x.get('other'))]
+    else:
+        main = sp or sa
+        conds = conds_sp if main is sp else [clean(x.get('other')) for x in sa.get('conditions') or [] if clean(x.get('other'))]
+        if sp_app: notes.insert(0, 'mit Lidl Plus' if any(re.search(r'lidl plus', x, re.I) for x in conds_sp) else 'mit App')
+        elif sp and sa and float(sa['min']) > float(sp['min']): old = float(sa['min'])
+    price = float(main['min'])
+    if price <= 0: return None
+    if old is None:
+        if byt.get('REGULAR_PRICE') and float(byt['REGULAR_PRICE']['min']) > price: old = float(byt['REGULAR_PRICE']['min'])
+        elif byt.get('RECOMMENDED_RETAIL_PRICE') and float(byt['RECOMMENDED_RETAIL_PRICE']['min']) > price:
+            old = float(byt['RECOMMENDED_RETAIL_PRICE']['min']); notes.append('UVP')
+    for cnd in conds:
+        if APP_RE.search(cnd): continue
+        if cnd.lower() not in ('je stück', 'je', 'ab') and len(cnd) < 60: notes.append(cnd)
+        elif cnd.lower() == 'ab': notes.append('ab-Preis')
+    prof = (c.get('publicationProfiles') or [{}])[0].get('validity') or {}
+    vn = valnote(prof.get('startDate', ''), prof.get('endDate', ''))
+    if vn: notes.insert(0, vn)
+    b = base(main.get('priceByBaseUnit'))
+    if b: notes.append(b)
+    if rest and len(rest) < 90: notes.append(rest)
+    if re.search(r'pfand', desc, re.I) and 'Pfand' not in ' '.join(notes): notes.append('zzgl. Pfand')
+    cat = classify(name + ' ' + desc, paths0)
+    if not cat: return None
+    imgs = pr.get('images') or []
+    img = (imgs[0]['url'] if imgs else c.get('image') or '').split('?')[0]
+    return {'store': store, 'name': name[:90], 'unit': unit[:40], 'price': round(price, 2), 'old': round(old, 2) if old else None,
+            'cat': cat, 'note': '; '.join(dict.fromkeys(n for n in notes if n))[:160], 'img': img}
 
 # ---------- NORMA ----------
 def norma_items():
@@ -292,6 +330,13 @@ def main():
             add.append([st, i['name'], i['unit'], i['price'], i['old'], i['cat'], i['note']])
             if i['img']: img[st + '|' + i['name']] = {'u': i['img']}
     D['items'] = keep + add
+    for st in new:
+        s_ = D.get('stores', {}).get(st)
+        if isinstance(s_, dict) and isinstance(s_.get('hinweis'), str):
+            teile = [t.strip() for t in s_['hinweis'].split(';')]
+            teile = [t for t in teile if t and not re.search(r'regionalausgabe|prospekt region|region (west|ost|süd|nord)|preise aus dem|preise von norma', t, re.I)]
+            quelle = 'Preise aus dem Lübecker Prospekt (kaufDA)' if st != 'Norma' else 'Preise von norma-online.de'
+            s_['hinweis'] = '; '.join([quelle] + teile)
     D['img'] = img
     D['ts'] = int(time.time())
     q = D.get('quellen', [])
